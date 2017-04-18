@@ -1014,13 +1014,13 @@ MM,MM,module,Magento_Braintree
 YY,YY,module,Magento_Braintree
 "Please try again with another form of payment.","Bitte versuchen Sie es erneut mit einem anderen Zahlungsmittel.",module,Magento_Braintree
 "Sorry, but something went wrong.","Sorry, but something went wrong.",module,Magento_Braintree
-Payment,Payment,module,Magento_Braintree
+Payment,Zahlung,module,Magento_Braintree
 Braintree,Braintree,module,Magento_Braintree
-"Accept credit/debit cards and PayPal in your Magento store.<br/>No setup or monthly fees and your customers never leave your store to complete the purchase.","Accept credit/debit cards and PayPal in your Magento store.<br/>No setup or monthly fees and your customers never leave your store to complete the purchase.",module,Magento_Braintree
+"Accept credit/debit cards and PayPal in your Magento store.<br/>No setup or monthly fees and your customers never leave your store to complete the purchase.","Akzeptieren Sie Kreditkarten und PayPal in Ihrem Magento-Shop!<br />Keine Einrichtungsgebühren oder laufende Kosten und Ihre Kunden müssen Ihren Shop nie verlassen, um einen Kauf abzuschließen.",module,Magento_Braintree
 "Enable this Solution","Enable this Solution",module,Magento_Braintree
 "Enable PayPal through Braintree","Enable PayPal through Braintree",module,Magento_Braintree
 "Vault Enabled","Vault Enabled",module,Magento_Braintree
-"Basic Braintree Settings","Basic Braintree Settings",module,Magento_Braintree
+"Basic Braintree Settings","Einfache Braintree-Einstellungen",module,Magento_Braintree
 Title,Titel,module,Magento_Braintree
 Environment,Umgebung,module,Magento_Braintree
 "Payment Action",Zahlungsvorgang,module,Magento_Braintree
@@ -1030,7 +1030,7 @@ Environment,Umgebung,module,Magento_Braintree
 "Advanced Braintree Settings","Erweiterte Braintree-Einstellungen",module,Magento_Braintree
 "Vault Title","Vault Title",module,Magento_Braintree
 "Merchant Account ID",Händler-Konto-ID,module,Magento_Braintree
-"Advanced Fraud Protection","Advanced Fraud Protection",module,Magento_Braintree
+"Advanced Fraud Protection","Erweiterter Betrugsschutz",module,Magento_Braintree
 "Kount Merchant ID","Kount Merchant ID",module,Magento_Braintree
 Debug,Debug,module,Magento_Braintree
 "CVV Verification","CVV Verification",module,Magento_Braintree
@@ -1043,11 +1043,11 @@ Debug,Debug,module,Magento_Braintree
 "PayPal through Braintree","PayPal through Braintree",module,Magento_Braintree
 "Override Merchant Name","Override Merchant Name",module,Magento_Braintree
 "Require Customer's Billing Address","Require Customer's Billing Address",module,Magento_Braintree
-"Allow to Edit Shipping Address Entered During Checkout on PayPal Side","Allow to Edit Shipping Address Entered During Checkout on PayPal Side",module,Magento_Braintree
+"Allow to Edit Shipping Address Entered During Checkout on PayPal Side","Zulassen, dass die beim Checkout eingegebene Lieferadresse auf der PayPal-Seite geändert werden kann",module,Magento_Braintree
 "Display on Shopping Cart","Display on Shopping Cart",module,Magento_Braintree
 "Skip Order Review","Skip Order Review",module,Magento_Braintree
-"3D Secure Verification Settings","3D Secure Verification Settings",module,Magento_Braintree
-"3D Secure Verification","3D Secure Verification",module,Magento_Braintree
+"3D Secure Verification Settings",3D-Secure-Verifizierungseinstellungen,module,Magento_Braintree
+"3D Secure Verification",3D-Secure-Verifizierung,module,Magento_Braintree
 "Threshold Amount","Threshold Amount",module,Magento_Braintree
 "Verify for Applicable Countries","Verify for Applicable Countries",module,Magento_Braintree
 "Verify for Specific Countries","Verify for Specific Countries",module,Magento_Braintree
@@ -1065,7 +1065,7 @@ Status,Status,module,Magento_Braintree
 "Transaction ID","Transaction ID",module,Magento_Braintree
 "Order ID","Order ID",module,Magento_Braintree
 Type,Art,module,Magento_Braintree
-Amount,Amount,module,Magento_Braintree
+Amount,Betrag,module,Magento_Braintree
 "Settlement Code",Verrechnungs-Code,module,Magento_Braintree
 "Settlement Response Text",Verrechnungsantwort-Text,module,Magento_Braintree
 "Refund Ids","Refund Ids",module,Magento_Braintree
@@ -1432,7 +1432,7 @@ Websites,Websites,module,Magento_Catalog
 "Category Name",Kategorie-Name,module,Magento_Catalog
 "Parent Category","Übergeordnete Kategorie",module,Magento_Catalog
 "If there are no custom parent categories, please use the default parent category. You can reassign the category at any time in <a href=""%1"" target=""_blank"">Products > Categories</a>.","If there are no custom parent categories, please use the default parent category. You can reassign the category at any time in <a href=""%1"" target=""_blank"">Products > Categories</a>.",module,Magento_Catalog
-"Price Alert Subscriptions","Price Alert Subscriptions",module,Magento_Catalog
+"Price Alert Subscriptions",Preisalarm-Abonnements,module,Magento_Catalog
 "Stock Alert Subscriptions","Stock Alert Subscriptions",module,Magento_Catalog
 "There are no customers for this alert.","Es sind keine Kunden für diese Warnung vorhanden.",module,Magento_Catalog
 "First Name",Vorname,module,Magento_Catalog
@@ -1722,7 +1722,7 @@ px.,aufklappen,module,Magento_Catalog
 "Not Visible Individually","Einzeln nicht sichtbar",module,Magento_Catalog
 Search,Suche,module,Magento_Catalog
 "Catalog, Search","Katalog, Suche",module,Magento_Catalog
-"Something went wrong while removing products from the websites.","Something went wrong while removing products from the websites.",module,Magento_Catalog
+"Something went wrong while removing products from the websites.","Beim Entfernen von Produkten aus den Websites ist etwas schief gegangen.",module,Magento_Catalog
 "Something went wrong while adding products to websites.","Something went wrong while adding products to websites.",module,Magento_Catalog
 "Group with id ""%1"" does not exist.","Group with id ""%1"" does not exist.",module,Magento_Catalog
 "Attribute group that contains system attributes can not be deleted","Attribute group that contains system attributes can not be deleted",module,Magento_Catalog
@@ -1736,7 +1736,7 @@ Search,Suche,module,Magento_Catalog
 "Requested product does not support images.","Angefordertes Produkt unterstützt keine Bilder.",module,Magento_Catalog
 "Product with SKU ""%1"" does not exist","Produkt mit SKU ""%1"" ist nicht vorhanden",module,Magento_Catalog
 "Invalid product data: %1","Ungültige Produktdaten: %1",module,Magento_Catalog
-"Database connection error","Database connection error",module,Magento_Catalog
+"Database connection error",Datenbankverbindungsfehler,module,Magento_Catalog
 "Database deadlock found when trying to get lock","Database deadlock found when trying to get lock",module,Magento_Catalog
 "Database lock wait timeout exceeded","Database lock wait timeout exceeded",module,Magento_Catalog
 "Unable to remove product %1","Produkt %1 konnte nicht gelöscht werden",module,Magento_Catalog
