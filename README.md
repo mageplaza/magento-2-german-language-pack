@@ -37,6 +37,9 @@ Install the German language pack via composer is never easier.
 composer require mageplaza/magento-2-german-language-pack:dev-master
 php bin/magento cache:clean
 php bin/magento setup:static-content:deploy de_DE
+php bin/magento indexer:reindex
+php bin/magento cache:clean
+php bin/magento cache:flush
 
 ```
 
@@ -47,6 +50,9 @@ php bin/magento setup:static-content:deploy de_DE
 composer update mageplaza/magento-2-german-language-pack:dev-master
 php bin/magento cache:clean
 php bin/magento setup:static-content:deploy de_DE
+php bin/magento indexer:reindex
+php bin/magento cache:clean
+php bin/magento cache:flush
 
 ```
 
