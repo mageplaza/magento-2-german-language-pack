@@ -1091,11 +1091,11 @@ Authorize,Autorisieren,module,Magento_BraintreeTwo
 "Credit card",Kreditkarte,module,Magento_BraintreeTwo
 "Apple pay card","Apple pay card",module,Magento_BraintreeTwo
 "Android pay card","Android pay card",module,Magento_BraintreeTwo
-"Authorization expired","Authorization expired",module,Magento_BraintreeTwo
-Authorizing,Authorizing,module,Magento_BraintreeTwo
-Authorized,Authorized,module,Magento_BraintreeTwo
+"Authorization expired","Autorisierung abgelaufen",module,Magento_BraintreeTwo
+Authorizing,Autorisieren,module,Magento_BraintreeTwo
+Authorized,Autorisiert,module,Magento_BraintreeTwo
 "Gateway rejected","Gateway rejected",module,Magento_BraintreeTwo
-Failed,Failed,module,Magento_BraintreeTwo
+Failed,Fehlgeschlagen,module,Magento_BraintreeTwo
 "Processor declined","Processor declined",module,Magento_BraintreeTwo
 Settled,Settled,module,Magento_BraintreeTwo
 Settling,Settling,module,Magento_BraintreeTwo
@@ -1109,34 +1109,34 @@ Sale,Sale,module,Magento_BraintreeTwo
 Credit,Credit,module,Magento_BraintreeTwo
 "Credit Card Type",Kreditkartentyp,module,Magento_BraintreeTwo
 "Credit Card Number",Kreditkartennummer,module,Magento_BraintreeTwo
-"Please, enter valid Credit Card Number","Please, enter valid Credit Card Number",module,Magento_BraintreeTwo
+"Please, enter valid Credit Card Number","Bitte geben Sie eine gültige Kreditkartennummer ein",module,Magento_BraintreeTwo
 "Expiration Date",Ablaufdatum,module,Magento_BraintreeTwo
-"Please, enter valid Expiration Date","Please, enter valid Expiration Date",module,Magento_BraintreeTwo
+"Please, enter valid Expiration Date","Bitte geben Sie ein gültiges Ablaufdatum ein",module,Magento_BraintreeTwo
 "Card Verification Number",Kartenprüfnummer,module,Magento_BraintreeTwo
-"Please, enter valid Card Verification Number","Please, enter valid Card Verification Number",module,Magento_BraintreeTwo
+"Please, enter valid Card Verification Number","Bitte geben Sie eine gültige Kartenprüfnummer ein",module,Magento_BraintreeTwo
 ending,ending,module,Magento_BraintreeTwo
 expires,expires,module,Magento_BraintreeTwo
 "Credit Card Information",Kreditkarten-Informationen,module,Magento_BraintreeTwo
 "What is this?","Was ist das?",module,Magento_BraintreeTwo
-"Save for later use.","Save for later use.",module,Magento_BraintreeTwo
+"Save for later use.","Für die spätere Verwendung speichern.",module,Magento_BraintreeTwo
 "Place Order","Jetzt kaufen",module,Magento_BraintreeTwo
 "This payment is not available","This payment is not available",module,Magento_BraintreeTwo
 MM,MM,module,Magento_BraintreeTwo
 YY,YY,module,Magento_BraintreeTwo
-"Please try again with another form of payment.","Please try again with another form of payment.",module,Magento_BraintreeTwo
-"Sorry, but something went wrong.","Sorry, but something went wrong.",module,Magento_BraintreeTwo
+"Please try again with another form of payment.","Bitte versuchen Sie es mit einer andere Zahlungsart erneut.",module,Magento_BraintreeTwo
+"Sorry, but something went wrong.","Entschuldigung, da ist etwas schiefgegangen.",module,Magento_BraintreeTwo
 BraintreeTwo,BraintreeTwo,module,Magento_BraintreeTwo
 &nbsp;,&nbsp;,module,Magento_BraintreeTwo
-"Enable this Solution","Enable this Solution",module,Magento_BraintreeTwo
-"Enable PayPal through Braintree","Enable PayPal through Braintree",module,Magento_BraintreeTwo
+"Enable this Solution","Diese Lösung aktivieren",module,Magento_BraintreeTwo
+"Enable PayPal through Braintree","PayPal über Braintree aktivieren",module,Magento_BraintreeTwo
 "Basic BraintreeTwo Settings","Basic BraintreeTwo Settings",module,Magento_BraintreeTwo
 Title,Titel,module,Magento_BraintreeTwo
 Environment,Umgebung,module,Magento_BraintreeTwo
 "Payment Action",Zahlungsvorgang,module,Magento_BraintreeTwo
 "Merchant ID","Verkäufer ID",module,Magento_BraintreeTwo
-"Public Key","Public Key",module,Magento_BraintreeTwo
-"Private Key","Private Key",module,Magento_BraintreeTwo
-"Advanced Braintree Settings","Advanced Braintree Settings",module,Magento_BraintreeTwo
+"Public Key","Öffentlicher Schlüssel",module,Magento_BraintreeTwo
+"Private Key","Privater Schlüssel",module,Magento_BraintreeTwo
+"Advanced Braintree Settings","Erweiterte Braintree-Einstellungen",module,Magento_BraintreeTwo
 "Merchant Account ID","Merchant Account ID",module,Magento_BraintreeTwo
 "Advanced Fraud Protection","Advanced Fraud Protection",module,Magento_BraintreeTwo
 "Kount Merchant ID","Kount Merchant ID",module,Magento_BraintreeTwo
@@ -1144,10 +1144,10 @@ Debug,Debug,module,Magento_BraintreeTwo
 "CVV Verification","CVV Verification",module,Magento_BraintreeTwo
 "Credit Card Types",Kreditkartentypen,module,Magento_BraintreeTwo
 "Sort Order",Sortierreihenfolge,module,Magento_BraintreeTwo
-"Country Specific Settings","Country Specific Settings",module,Magento_BraintreeTwo
+"Country Specific Settings","Länderspezifische Einstellungen",module,Magento_BraintreeTwo
 "Payment from Applicable Countries","Zahlung von bestimmten Ländern",module,Magento_BraintreeTwo
 "Payment from Specific Countries","Zahlung aus bestimmten Ländern",module,Magento_BraintreeTwo
-"Country Specific Credit Card Types","Country Specific Credit Card Types",module,Magento_BraintreeTwo
+"Country Specific Credit Card Types","Länderspezifische Kreditkartentypen",module,Magento_BraintreeTwo
 "PayPal through Braintree","PayPal through Braintree",module,Magento_BraintreeTwo
 "Override Merchant Name","Override Merchant Name",module,Magento_BraintreeTwo
 "Require Customer's Billing Address","Require Customer's Billing Address",module,Magento_BraintreeTwo
@@ -2416,7 +2416,7 @@ Relevance,Relevanz,module,Magento_CatalogSearch
 Category,Kategorie,module,Magento_CatalogSearch
 "%1 and above","%1 und mehr",module,Magento_CatalogSearch
 "%1 - %2","%1 – %2",module,Magento_CatalogSearch
-"Sorry, something went wrong. You can find out more in the error log.","Sorry, something went wrong. You can find out more in the error log.",module,Magento_CatalogSearch
+"Sorry, something went wrong. You can find out more in the error log.","Entschuldigung, leider ist etwas schief gelaufen. Weitere Informationen finden Sie im Fehlerprotokoll.",module,Magento_CatalogSearch
 "Bucket does not exist","Bucket does not exist",module,Magento_CatalogSearch
 Product,Produkt,module,Magento_CatalogSearch
 "Search Settings",Sucheinstellungen,module,Magento_CatalogSearch
@@ -2726,6 +2726,7 @@ Payment,Zahlung,module,Magento_Checkout
 "Not yet calculated","Noch nicht berechnet",module,Magento_Checkout
 "We received your order!","Wir haben Ihre Bestellung erhalten!",module,Magento_Checkout
 "Thank you for your purchase!","Vielen Dank für Ihre Bestellung!",module,Magento_Checkout
+"Go to Checkout","Zur Kasse gehen",module,Magento_Checkout
 "Terms and Conditions","Diese Bedingung existiert nicht mehr.",module,Magento_CheckoutAgreements
 "Add New Condition","Neue Bedingung hinzufügen",module,Magento_CheckoutAgreements
 "Save Condition","Speichere Bedingung",module,Magento_CheckoutAgreements
@@ -3108,13 +3109,13 @@ Summary,Zusammenfassung,module,Magento_ConfigurableProduct
 "Choose an Option...","Wählen Sie eine Option...",module,Magento_ConfigurableProduct
 "This attribute is used in configurable products.","Dieses Attribut wird in konfigurierbaren Produkten verwendet.",module,Magento_ConfigurableProduct
 "Product has been already attached","Produkt wurde bereits angefügt",module,Magento_ConfigurableProduct
-"Parent product does not have configurable product options","Parent product does not have configurable product options",module,Magento_ConfigurableProduct
+"Parent product does not have configurable product options","Übergeordnetes Produkt hat keine konfigurierbaren Produktoptionen",module,Magento_ConfigurableProduct
 "Child product does not have attribute value %1","Child product does not have attribute value %1",module,Magento_ConfigurableProduct
 "Product with specified sku: %1 is not a configurable product","Product with specified sku: %1 is not a configurable product",module,Magento_ConfigurableProduct
 "Requested option doesn't exist","Requested option doesn't exist",module,Magento_ConfigurableProduct
 "Requested option doesn't exist: %1","Angeforderte Option existiert nicht",module,Magento_ConfigurableProduct
-"Cannot delete variations from product: %1","Cannot delete variations from product: %1",module,Magento_ConfigurableProduct
-"Cannot delete option with id: %1","Cannot delete option with id: %1",module,Magento_ConfigurableProduct
+"Cannot delete variations from product: %1","Variationen von Produkt %1 können nicht gelöscht werden",module,Magento_ConfigurableProduct
+"Cannot delete option with id: %1","Option mit id %1 kann nicht gelöscht werden",module,Magento_ConfigurableProduct
 "Option with id ""%1"" not found","Die Option mit der ID ""%1"" konnte nicht gefunden werden",module,Magento_ConfigurableProduct
 "Something went wrong while saving option.","Etwas ist beim Speichern der Option schiefgegangen.",module,Magento_ConfigurableProduct
 "Only implemented for configurable product: %1","Only implemented for configurable product: %1",module,Magento_ConfigurableProduct
@@ -3122,11 +3123,11 @@ Summary,Zusammenfassung,module,Magento_ConfigurableProduct
 "Option label is not specified.","Option label is not specified.",module,Magento_ConfigurableProduct
 "Option values are not specified.","Option values are not specified.",module,Magento_ConfigurableProduct
 "Value index is not specified for an option.","Value index is not specified for an option.",module,Magento_ConfigurableProduct
-"Product with id ""%1"" does not contain required attribute ""%2"".","Product with id ""%1"" does not contain required attribute ""%2"".",module,Magento_ConfigurableProduct
-"Products ""%1"" and ""%2"" have the same set of attribute values.","Products ""%1"" and ""%2"" have the same set of attribute values.",module,Magento_ConfigurableProduct
+"Product with id ""%1"" does not contain required attribute ""%2"".","Produkt mit Id ""%1"" enthält kein das erforderliche Attribut ""%2"" nicht.",module,Magento_ConfigurableProduct
+"Products ""%1"" and ""%2"" have the same set of attribute values.","Produkte ""%1"" und %2 haben den gleichen Satz von Attributwerten.",module,Magento_ConfigurableProduct
 "You can't add the item to shopping cart.","Sie können dieses Produkt nicht dem Warenkorb hinzufügen.",module,Magento_ConfigurableProduct
 "You need to choose options for your item.","Sie müssen eine Optionen für Ihren Artikel wählen.",module,Magento_ConfigurableProduct
-"Some product variations fields are not valid.","Some product variations fields are not valid.",module,Magento_ConfigurableProduct
+"Some product variations fields are not valid.","Einige Felder der Produktvariationen sind ungültig.",module,Magento_ConfigurableProduct
 "Configuration must have specified attributes","Configuration must have specified attributes",module,Magento_ConfigurableProduct
 "Type %1 is not an instance of %2","Type %1 is not an instance of %2",module,Magento_ConfigurableProduct
 "Choose Affected Attribute Set","Choose Affected Attribute Set",module,Magento_ConfigurableProduct
@@ -3194,8 +3195,7 @@ Select,Auswählen,module,Magento_ConfigurableProduct
 "Selected Attributes:","Ausgewählte Attribute:",module,Magento_ConfigurableProduct
 "Step 4: Summary","Schritt 4: Zusammenfassung",module,Magento_ConfigurableProduct
 "Configurable products allow customers to choose options (Ex: shirt color).
-            You need to create a simple product for each configuration (Ex: a product for each color).","Configurable products allow customers to choose options (Ex: shirt color).
-            You need to create a simple product for each configuration (Ex: a product for each color).",module,Magento_ConfigurableProduct
+            You need to create a simple product for each configuration (Ex: a product for each color).","Konfigurierbare Produkte erlauben es Kunden, Optionen auswählen (z. B.: Shirt-Farbe). Sie müssen ein einfaches Produkt für jede Konfiguration erstellen (z. B.: ein Produkt für jede Farbe).",module,Magento_ConfigurableProduct
 "Edit Configurations","Konfigurationen bearbeiten",module,Magento_ConfigurableProduct
 "Upload Image","Bild hochladen",module,Magento_ConfigurableProduct
 "Upload image","Bild hochladen",module,Magento_ConfigurableProduct
@@ -3204,15 +3204,15 @@ Select,Auswählen,module,Magento_ConfigurableProduct
 "Remove Product","Produkt entfernen",module,Magento_ConfigurableProduct
 "Create Product Configurations","Produkt-Konfigurationen erstellen",module,Magento_ConfigurableProduct
 Cancel,Speichern,module,Magento_ConfigurableProduct
-"Special Price","Special Price",module,Magento_ConfigurableProduct
-"Regular Price","Regular Price",module,Magento_ConfigurableProduct
+"Special Price",Sonderpreis,module,Magento_ConfigurableProduct
+"Regular Price","Regulärer Preis",module,Magento_ConfigurableProduct
 "New Product Review","Neue Produktbewertung",module,Magento_ConfigurableProduct
 "Here are the products you're about to create.","Here are the products you're about to create.",module,Magento_ConfigurableProduct
 "You created these products for this configuration.","You created these products for this configuration.",module,Magento_ConfigurableProduct
 "Disassociated Products","Disassociated Products",module,Magento_ConfigurableProduct
 "These products are not associated.","These products are not associated.",module,Magento_ConfigurableProduct
-"Disable Product","Disable Product",module,Magento_ConfigurableProduct
-"Enable Product","Enable Product",module,Magento_ConfigurableProduct
+"Disable Product","Produkt deaktivieren",module,Magento_ConfigurableProduct
+"Enable Product","Produkt aktivieren",module,Magento_ConfigurableProduct
 "Incl. Tax","Inkl. Steuern",module,Magento_ConfigurableProduct
 "An attribute has been removed. This attribute will no longer appear in your configurations.","Ein Attribut wurde entfernt. Dieses Attribut wird nicht mehr in Ihrer Konfiguration angezeigt.",module,Magento_ConfigurableProduct
 "Select options for all attributes or remove unused attributes.","Select options for all attributes or remove unused attributes.",module,Magento_ConfigurableProduct
@@ -5659,7 +5659,7 @@ Enable,Aktivieren,module,Magento_GoogleAdwords
 "Google Analytics","Google Analytics",module,Magento_GoogleAnalytics
 Enable,Aktivieren,module,Magento_GoogleAnalytics
 "Account Number",Kundenkontonummer,module,Magento_GoogleAnalytics
-"Anonymize IP","Anonymize IP",module,Magento_GoogleAnalytics
+"Anonymize IP","IP anonymisieren",module,Magento_GoogleAnalytics
 "Product View Optimization","Product View Optimization",module,Magento_GoogleOptimizer
 "Page View Optimization","Optimierung der Seitenansicht",module,Magento_GoogleOptimizer
 "Data key is missing: %1","Datenschlüssel fehlt: %1",module,Magento_GoogleOptimizer
