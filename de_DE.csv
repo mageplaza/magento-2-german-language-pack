@@ -2727,6 +2727,9 @@ Payment,Zahlung,module,Magento_Checkout
 "We received your order!","Wir haben Ihre Bestellung erhalten!",module,Magento_Checkout
 "Thank you for your purchase!","Vielen Dank für Ihre Bestellung!",module,Magento_Checkout
 "Go to Checkout","Zur Kasse gehen",module,Magento_Checkout
+"View and edit cart","Warenkorb anzeigen und bearbeiten",module,Magento_Checkout
+"Item in Cart","Artikel im Warenkorb",module,Magento_Checkout
+"Items in Cart","Artikel im Warenkorb",module,Magento_Checkout
 "Terms and Conditions","Diese Bedingung existiert nicht mehr.",module,Magento_CheckoutAgreements
 "Add New Condition","Neue Bedingung hinzufügen",module,Magento_CheckoutAgreements
 "Save Condition","Speichere Bedingung",module,Magento_CheckoutAgreements
@@ -6309,6 +6312,7 @@ Partners,Partner,module,Magento_Marketplace
 "Read More","Lesen Sie mehr",module,Magento_Marketplace
 "Partner Page",Partnerseite,module,Magento_Marketplace
 "No partners were found","Es wurden keine Partner gefunden",module,Magento_Marketplace
+"Find Partners & Extensions","Find Partners & Extensions",module,Magento_Marketplace
 Synchronize,"Falsches Datei Info Format",module,Magento_MediaStorage
 "Synchronizing %1 to %2","Synchronisieren von %1 bis %2",module,Magento_MediaStorage
 Synchronizing...,Synchronisiere...,module,Magento_MediaStorage
