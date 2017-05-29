@@ -1077,7 +1077,7 @@ Country,Land,module,Magento_BraintreeTwo
 "Sorry, but something went wrong","Verzeihung, aber etwas ist schiefgegangen",module,Magento_BraintreeTwo
 "We can\'t initialize checkout.","Bestellvorgang kann nicht initialisiert werden.",module,Magento_BraintreeTwo
 "No authorization transaction to proceed capture.","Keine Autorisierungs-Transaktion, um mit der Erfassung fortzufahren.",module,Magento_BraintreeTwo
-"Braintree error response.","Braintree error response.",module,Magento_BraintreeTwo
+"Braintree error response.","Braintree Fehlerantwort.",module,Magento_BraintreeTwo
 "Payment method nonce can\'t be retrieved.","Zahlungsart Nonce kann nicht abgerufen werden.",module,Magento_BraintreeTwo
 "Wrong transaction status","Falscher Transaktionsstatus",module,Magento_BraintreeTwo
 Authorize,Autorisieren,module,Magento_BraintreeTwo
@@ -3259,7 +3259,7 @@ Attributes,Attribute,module,Magento_ConfigurableProductStaging
 Required,Required,module,Magento_ConfigurableProductStaging
 System,System,module,Magento_ConfigurableProductStaging
 Visible,Sichtbar,module,Magento_ConfigurableProductStaging
-Scope,Scope,module,Magento_ConfigurableProductStaging
+Scope,Geltungsbereich,module,Magento_ConfigurableProductStaging
 Searchable,Durchsuchbar,module,Magento_ConfigurableProductStaging
 Comparable,Vergleichbar,module,Magento_ConfigurableProductStaging
 "Page not found.","Seite nicht gefunden.",module,Magento_Contact
@@ -3904,7 +3904,7 @@ No,Keine,module,Magento_CustomerBalance
 "Update Balance","Kontostand aktualisieren",module,Magento_CustomerBalance
 "An amount on which to change the balance","An amount on which to change the balance",module,Magento_CustomerBalance
 "Notify Customer by Email","Kunden per E-Mail benachrichtigen",module,Magento_CustomerBalance
-"Send Email Notification From the Following Store View","Send Email Notification From the Following Store View",module,Magento_CustomerBalance
+"Send Email Notification From the Following Store View","Senden der E-Mail-Benachrichtigung von folgender Store View",module,Magento_CustomerBalance
 Comment,Kommentar,module,Magento_CustomerBalance
 "Failed to initialize customer","Kunde konnte nicht initialisiert werden",module,Magento_CustomerBalance
 "The store credit payment has been removed from shopping cart.","The store credit payment has been removed from shopping cart.",module,Magento_CustomerBalance
@@ -3967,7 +3967,7 @@ Remove,Entfernen,module,Magento_CustomerBalance
 None,Keine,module,Magento_CustomerCustomAttributes
 "Minimum Text Length","Minimale Textlänge",module,Magento_CustomerCustomAttributes
 "Maximum Text Length","Maximale Textlänge",module,Magento_CustomerCustomAttributes
-"Maximum File Size (bytes)","Maximum File Size (bytes)",module,Magento_CustomerCustomAttributes
+"Maximum File Size (bytes)","Maximale Dateigröße (Byte)",module,Magento_CustomerCustomAttributes
 "File Extensions",Datei-Erweiterungen,module,Magento_CustomerCustomAttributes
 "Comma separated",Kommagetrennt,module,Magento_CustomerCustomAttributes
 "Maximum Image Width (px)","Maximum Image Width (px)",module,Magento_CustomerCustomAttributes
@@ -4289,7 +4289,7 @@ Decision,Entscheidung,module,Magento_Cybersource
 "Positive list. The customer is on your positive list. Decision Manager Developer Guide Using the Simple Order AP  January 201 10 Appendix  Information and Reply Code","Positivliste. Der Kunde ist in Ihrer Positivliste.",module,Magento_Cybersource
 "Negative list. The account number, street add ess, email address, or IP address for this order appears on your negative list","Negative list. The account number, street add ess, email address, or IP address for this order appears on your negative list",module,Magento_Cybersource
 "Geolocation inconsistencies. The customer’s email domain, phone number, billing address, shipping address, or IP address is suspicious","Standort-Inkonsistenz. Die E-Mail Domain, Telefonnummer, Rechnungsadresse, Lieferadresse oder IP-Adresse des Kunden ist verdächtig",module,Magento_Cybersource
-"Excessive name changes. The customer changed the name two or more times in the last six months","Excessive name changes. The customer changed the name two or more times in the last six months",module,Magento_Cybersource
+"Excessive name changes. The customer changed the name two or more times in the last six months","Zu häufige Namensänderungen. Der Kunde hat den Namen in den letzten sechs Monaten mindestens zweimal geändert",module,Magento_Cybersource
 "Internet inconsistencies. The IP address  nd email domain are not consistent with the billing address","Internet inconsistencies. The IP address  nd email domain are not consistent with the billing address",module,Magento_Cybersource
 "Nonsensical input. The customer name and address fields contain meaningless words or language","Nonsensical input. The customer name and address fields contain meaningless words or language",module,Magento_Cybersource
 "Obscenities. The customer’s input contains obscene words","Obscenities. The customer’s input contains obscene words",module,Magento_Cybersource
@@ -4889,9 +4889,9 @@ BeagleScore,BeagleScore,module,Magento_Eway
 "Response Code",Antwortcode,module,Magento_Eway
 "Fraud Message",Betrugs-Nachricht,module,Magento_Eway
 "Approve Message","Nachricht genehmigen",module,Magento_Eway
-"Sorry, but something went wrong","Sorry, but something went wrong",module,Magento_Eway
+"Sorry, but something went wrong","Entschuldigung, da ist etwas schiefgegangen",module,Magento_Eway
 "Wrong response type","Wrong response type",module,Magento_Eway
-"Transaction has been declined. Please try again later.","Transaction has been declined. Please try again later.",module,Magento_Eway
+"Transaction has been declined. Please try again later.","Die Transaktion wurde abgelehnt, bitte versuchen Sie es später erneut.",module,Magento_Eway
 "Authorize Only","Nur autorisieren",module,Magento_Eway
 "Authorize and Capture","Autorisieren und Zahlungseinzug",module,Magento_Eway
 "Credit Card Type",Kreditkartentyp,module,Magento_Eway
@@ -5857,7 +5857,7 @@ Summary,Zusammenfassung,module,Magento_ImportExport
 Ready,Bereit,module,Magento_Indexer
 Processing,Verarbeitung,module,Magento_Indexer
 Never,Niemals,module,Magento_Indexer
-"%1 index is locked by another reindex process. Skipping.","%1 index is locked by another reindex process. Skipping.",module,Magento_Indexer
+"%1 index is locked by another reindex process. Skipping.","%1 Index wird übersprungen, da er von einem anderen Indizierungsvorgang blockiert ist.",module,Magento_Indexer
 "Index Management",Indexverwaltung,module,Magento_Indexer
 "Please select indexers.","Bitte Indexer auswählen.",module,Magento_Indexer
 "%1 indexer(s) are in ""Update by Schedule"" mode.","%1 Indexer sind im ""Update by Schedule"" Modus.",module,Magento_Indexer
@@ -6182,7 +6182,7 @@ Report,Bericht,module,Magento_Logging
 label,Kennzeichen,module,Magento_Logging
 "actions' 'label","actions' 'label",module,Magento_Logging
 "%1 & applied","%1 & angewendet",module,Magento_Logging
-"Tax Rates Import","Tax Rates Import",module,Magento_Logging
+"Tax Rates Import","Steuersatz Import",module,Magento_Logging
 "Attributes Updated","Attributes Updated",module,Magento_Logging
 "Currency Rates Saved","Währungskurse gespeichert",module,Magento_Logging
 "Cache types: %1","Cache types: %1",module,Magento_Logging
@@ -6373,7 +6373,7 @@ Edit,Bearbeiten,module,Magento_MultipleLocationInventory
 "Edit warehouse","Lager bearbeiten",module,Magento_MultipleLocationInventory
 "Manage Warehouses",Lagerverwaltung,module,Magento_MultipleLocationInventory
 "Warehouse Information",Lagerinfo,module,Magento_MultipleLocationInventory
-"Use default address","Use default address",module,Magento_MultipleLocationInventory
+"Use default address","Standardadresse verwenden",module,Magento_MultipleLocationInventory
 "Street Address",Straße,module,Magento_MultipleLocationInventory
 "Add New Warehouse","Add New Warehouse",module,Magento_MultipleLocationInventory
 ID,Id,module,Magento_MultipleLocationInventory
@@ -6532,7 +6532,7 @@ Total,Gesamtsumme,module,Magento_Multishipping
 "Create Shipping Address","Lieferanschrift anlegen",module,Magento_Multishipping
 "Data saving problem","Daten konnten nicht gespeichert werden",module,Magento_Multishipping
 "We cannot open the overview page.","Die Übersichtsseite kann nicht geöffnet werden.",module,Magento_Multishipping
-"Please agree to all Terms and Conditions before placing the order.","Please agree to all Terms and Conditions before placing the order.",module,Magento_Multishipping
+"Please agree to all Terms and Conditions before placing the order.","Bitte akzeptieren Sie alle Geschäftsbedingungen bevor Sie Ihre Bestellung aufgeben.",module,Magento_Multishipping
 "Order place error","Fehler beim Aufgeben der Bestellung",module,Magento_Multishipping
 "Maximum qty allowed for Shipping to multiple addresses is %1","Maximum qty allowed for Shipping to multiple addresses is %1",module,Magento_Multishipping
 "Please check shipping address information.","Please check shipping address information.",module,Magento_Multishipping
@@ -7622,8 +7622,8 @@ User,Benutzer,module,Magento_Paypal
 Price:,Preis:,module,Magento_ProductAlert
 "Click here to stop alerts for this product.","Click here to stop alerts for this product.",module,Magento_ProductAlert
 "Unsubscribe from all price alerts","Alle Preis-Benachrichtigungen abbestellen",module,Magento_ProductAlert
-"In stock alert! We wanted you to know that these products are now available:","In stock alert! We wanted you to know that these products are now available:",module,Magento_ProductAlert
-"Unsubscribe from all stock alerts","Unsubscribe from all stock alerts",module,Magento_ProductAlert
+"In stock alert! We wanted you to know that these products are now available:","Hinweis zum Lagerbestand! Wir möchten Sie darüber informieren, dass diese Produkte jetzt verfügbar sind:",module,Magento_ProductAlert
+"Unsubscribe from all stock alerts","Alle Bestandsbenachrichtigungen abbestellen",module,Magento_ProductAlert
 "Product alerts Cron error","Product alerts Cron error",module,Magento_ProductAlert
 "Product alerts cron warnings","Product alerts cron warnings",module,Magento_ProductAlert
 "Products price changed alert","Products price changed alert",module,Magento_ProductAlert
@@ -8293,7 +8293,7 @@ Store,Store,module,Magento_Reward
 "Update Points","Punkte aktualisieren",module,Magento_Reward
 "Enter a negative number to subtract from the balance.","Enter a negative number to subtract from the balance.",module,Magento_Reward
 Comment,Kommentar,module,Magento_Reward
-"Reward Points Notifications","Reward Points Notifications",module,Magento_Reward
+"Reward Points Notifications",Bonuspunkte-Benachrichtigungen,module,Magento_Reward
 "Subscribe for Balance Updates","Subscribe for Balance Updates",module,Magento_Reward
 "Subscribe for Points Expiration Notifications","Subscribe for Points Expiration Notifications",module,Magento_Reward
 "Reward Exchange Rates","Reward Exchange Rates",module,Magento_Reward
@@ -8821,7 +8821,7 @@ is,ist,module,Magento_Rule
 "greater than","größer als",module,Magento_Rule
 "less than","weniger als",module,Magento_Rule
 contains,enthält,module,Magento_Rule
-"does not contain","does not contain",module,Magento_Rule
+"does not contain","enthält nicht",module,Magento_Rule
 "is one of","kleiner als",module,Magento_Rule
 "is not one of","is not one of",module,Magento_Rule
 "Please choose a condition to add.","Please choose a condition to add.",module,Magento_Rule
@@ -8856,7 +8856,7 @@ Billing,Rechnungstellung,module,Magento_Sales
 Cancel,Speichern,module,Magento_Sales
 "Billing Address",Rechnungsadresse,module,Magento_Sales
 "Payment Method",Zahlungsart,module,Magento_Sales
-"Order Comment","Order Comment",module,Magento_Sales
+"Order Comment",Kommentar,module,Magento_Sales
 Coupons,Gutscheine,module,Magento_Sales
 "Please select a customer","Please select a customer",module,Magento_Sales
 "Create New Customer","Create New Customer",module,Magento_Sales
@@ -9652,7 +9652,7 @@ Shipments,Lieferscheine,module,Magento_SalesArchive
 Archive,Archivieren,module,Magento_SalesArchive
 "Restore from Archive","Aus dem Archiv wiederherstellen",module,Magento_SalesArchive
 "Orders, Invoices, Shipments, Credit Memos Archiving","Orders, Invoices, Shipments, Credit Memos Archiving",module,Magento_SalesArchive
-"Enable Archiving","Enable Archiving",module,Magento_SalesArchive
+"Enable Archiving","Archivierung aktivieren",module,Magento_SalesArchive
 "Archive Orders Purchased","Archive Orders Purchased",module,Magento_SalesArchive
 "Order Statuses to be Archived","Order Statuses to be Archived",module,Magento_SalesArchive
 "Mass Add","Mass Add",module,Magento_SalesArchive
@@ -9954,7 +9954,7 @@ Status,Status,module,Magento_ScheduledImportExport
 "User Name",Benutzername,module,Magento_ScheduledImportExport
 Password,Passwort,module,Magento_ScheduledImportExport
 "File Mode",Dateimodus,module,Magento_ScheduledImportExport
-"Passive Mode","Passive Mode",module,Magento_ScheduledImportExport
+"Passive Mode","Passiver Modus",module,Magento_ScheduledImportExport
 "Failed Email Receiver","Failed Email Receiver",module,Magento_ScheduledImportExport
 "Failed Email Sender","Failed Email Sender",module,Magento_ScheduledImportExport
 "Failed Email Template","Failed Email Template",module,Magento_ScheduledImportExport
@@ -10192,9 +10192,9 @@ None,Keine,module,Magento_Security
 "No more than %1 emails can be sent at a time.","Es können nur %1 E-Mails zugleich gesendet werden.",module,Magento_SendFriend
 "Please define a correct product instance.","Bitte geben Sie eine korrekte Produkt-Instanz an.",module,Magento_SendFriend
 "Invalid Sender Information","Ungültige Absenderinformationen",module,Magento_SendFriend
-"Please define the correct sender information.","Please define the correct sender information.",module,Magento_SendFriend
+"Please define the correct sender information.","Bitte geben Sie korrekte Absenderinformationen an.",module,Magento_SendFriend
 "IP Address","IP Adresse",module,Magento_SendFriend
-"Cookie (unsafe)","Cookie (unsafe)",module,Magento_SendFriend
+"Cookie (unsafe)","Cookie (unsicher)",module,Magento_SendFriend
 "No Product Exception.","No Product Exception.",module,Magento_SendFriend
 "No Category Exception.","No Category Exception.",module,Magento_SendFriend
 "Some error","Some error",module,Magento_SendFriend
@@ -10605,7 +10605,7 @@ Action,Aktion,module,Magento_Staging
 "All Store Views","Alle Ladenansichte",module,Magento_Store
 "-- Please Select --","--Bitte auswählen--",module,Magento_Store
 Admin,Administrator,module,Magento_Store
-"Default website is not defined","Default website is not defined",module,Magento_Store
+"Default website is not defined","Standardwebsite ist nicht definiert",module,Magento_Store
 "More than one default website is defined","More than one default website is defined",module,Magento_Store
 "no such entity exception","no such entity exception",module,Magento_Store
 "Your Language:","Your Language:",module,Magento_Store
@@ -10880,7 +10880,7 @@ Stores,Shops,module,Magento_Support
 "Add Swatch","Muster hinzufügen",module,Magento_Swatches
 "Sort Option",Sortieroption,module,Magento_Swatches
 Swatch,Muster,module,Magento_Swatches
-Description,Description,module,Magento_Swatches
+Description,Beschreibung,module,Magento_Swatches
 Delete,Löschen,module,Magento_Swatches
 "The value of Admin must be unique.","The value of Admin must be unique.",module,Magento_Swatches
 "Choose a color","Eine Farbe wählen",module,Magento_Swatches
@@ -11213,7 +11213,7 @@ Themes,Begrüßungstext,module,Magento_Theme
 "Theme CSS","Theme CSS",module,Magento_Theme
 "Theme CSS Assets","Theme CSS Assets",module,Magento_Theme
 "Custom CSS","Benutzerdefiniertes CSS",module,Magento_Theme
-"Select CSS File to Upload","Select CSS File to Upload",module,Magento_Theme
+"Select CSS File to Upload","CSS-Datei zum Hochladen auswählen",module,Magento_Theme
 "Upload CSS File","CSS Datei hochladen",module,Magento_Theme
 "Download CSS File","CSS-Datei herunterladen",module,Magento_Theme
 Manage,Verwalten,module,Magento_Theme
