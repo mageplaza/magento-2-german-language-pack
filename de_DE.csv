@@ -1753,7 +1753,7 @@ Search,Suche,module,Magento_Catalog
 Dropdown,Dropdown,module,Magento_Catalog
 "%1 doesn't extend \Magento\Framework\Filter\Template","%1 erweitert nicht \Magento\Framework\Filter\Template",module,Magento_Catalog
 "As low as",Ab,module,Magento_Catalog
-test,test,module,Magento_Catalog
+test,Test,module,Magento_Catalog
 "Could not get extension attributes","Could not get extension attributes",module,Magento_Catalog
 message,Nachricht,module,Magento_Catalog
 "Some exception","Some exception",module,Magento_Catalog
@@ -1770,7 +1770,7 @@ To,Bis,module,Magento_Catalog
 Done,Fertig,module,Magento_Catalog
 "Add Selected","Ausgewählte hinzufügen",module,Magento_Catalog
 "Select Attribute","Attribute auswählen",module,Magento_Catalog
-"Create New Attribute","Create New Attribute",module,Magento_Catalog
+"Create New Attribute","Neues Attribut erstellen",module,Magento_Catalog
 "Customizable Options","Customizable Options",module,Magento_Catalog
 "Custom options let customers choose the product variations they want.","Custom options let customers choose the product variations they want.",module,Magento_Catalog
 "Add Option","Option Hinzufügen",module,Magento_Catalog
@@ -2136,11 +2136,11 @@ Next,Weiter,module,Magento_CatalogEvent
 "Catalog Events","Catalog Events",module,Magento_CatalogEvent
 "Enable Catalog Events Functionality","Enable Catalog Events Functionality",module,Magento_CatalogEvent
 "Enable Catalog Event Widget on Storefront","Enable Catalog Event Widget on Storefront",module,Magento_CatalogEvent
-"Number of Events to be Displayed in Event Slider Widget","Number of Events to be Displayed in Event Slider Widget",module,Magento_CatalogEvent
+"Number of Events to be Displayed in Event Slider Widget","Anzahl der Ereignisse, die im Ereignis-Slider Widget angezeigt werden sollen",module,Magento_CatalogEvent
 "You can override this default value in CMS using the limit=""x"" variable. Leave empty for no limitation.","Sie können diesen Standardwert im CMS überschreiben, indem Sie die limit = ""x"" Variable nutzen. Lassen Sie diese leer, um keine Einschränkung zu definieren.",module,Magento_CatalogEvent
 "Events to Scroll per Click in Event Slider Widget","Events to Scroll per Click in Event Slider Widget",module,Magento_CatalogEvent
 "You can override this default value in CMS using the limit=""x"" variable.","Sie können diesen Standardwert im CMS überschreiben, indem Sie die limit = ""x"" Variable nutzen.",module,Magento_CatalogEvent
-"Catalog Events Carousel","Catalog Events Carousel",module,Magento_CatalogEvent
+"Catalog Events Carousel",Katalog-Ereignis-Karusell,module,Magento_CatalogEvent
 "List all open Catalog Events as a Paginated Carousel","List all open Catalog Events as a Paginated Carousel",module,Magento_CatalogEvent
 "Frame Size",Frame-Größe,module,Magento_CatalogEvent
 "Number of Items to display at once","Anzahl der gleichzeitig angezeigten Elemente",module,Magento_CatalogEvent
@@ -3575,7 +3575,7 @@ Admin,Administrator,module,Magento_Customer
 "ALL GROUPS","ALL GROUPS",module,Magento_Customer
 "No such entity with %fieldName = %fieldValue, %field2Name = %field2Value","No such entity with %fieldName = %fieldValue, %field2Name = %field2Value",module,Magento_Customer
 "File can not be saved to the destination folder.","File can not be saved to the destination folder.",module,Magento_Customer
-"Unable to create directory %1.","Unable to create directory %1.",module,Magento_Customer
+"Unable to create directory %1.","Verzeichnis %1 konnte nicht erstellt werden.",module,Magento_Customer
 "Destination folder is not writable or does not exists.","Destination folder is not writable or does not exists.",module,Magento_Customer
 "Something went wrong while saving the file.","Something went wrong while saving the file.",module,Magento_Customer
 "Attribute object is undefined","Attribute object is undefined",module,Magento_Customer
@@ -3739,7 +3739,7 @@ Password,Passwort,module,Magento_Customer
 Gender,Geschlecht,module,Magento_Customer
 Name,Name,module,Magento_Customer
 "Tax/VAT number","Tax/VAT number",module,Magento_Customer
-"Welcome to %store_name","Welcome to %store_name",module,Magento_Customer
+"Welcome to %store_name","Willkommen bei %store_name",module,Magento_Customer
 "%name,","%name,",module,Magento_Customer
 "Welcome to %store_name.","Willkommen bei %store_name.",module,Magento_Customer
 "To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:",module,Magento_Customer
@@ -11785,7 +11785,7 @@ username,Benutzername,module,Magento_User
 "Your password must include both numeric and alphabetic characters.","Ihr Passwort muss sowohl numerische als auch alphabetische Zeichen enthalten.",module,Magento_User
 "Your password confirmation must match your password.","Ihr Passwort Bestätigung muss mit Ihrem Passwort übereinstimmen.",module,Magento_User
 "It's time to change your password.","Es ist Zeit Ihr Passwort zu ändern.",module,Magento_User
-"It's time to <a href=""%1"">change your password</a>.","It's time to <a href=""%1"">change your password</a>.",module,Magento_User
+"It's time to <a href=""%1"">change your password</a>.","Es ist Zeit <a href=""%1"">Ihr Passwort zu ändern</a>.",module,Magento_User
 "Your password has expired; please contact your administrator.","Ihr Kennwort ist abgelaufen. Bitte kontaktieren Sie Ihren Administrator.",module,Magento_User
 "Password Help","Passwort Hilfe",module,Magento_User
 "Enter your email address.  You will receive an email with a link to reset your password.","Geben Sie Ihre E-Mail-Adresse ein.  Sie erhalten in Kürze eine E-Mail zum Zurücksetzen Ihres Passworts.",module,Magento_User
@@ -12389,8 +12389,8 @@ Conditions,Bedingungen,module,Magento_Widget
 "Can't save description %1","Can't save description %1",module,Magento_Wishlist
 "Can't update wish list","Can't update wish list",module,Magento_Wishlist
 "%1 has been updated in your Wish List.","%1 wurde in Ihrer Wunschliste erneuert.",module,Magento_Wishlist
-"We can't update your Wish List right now.","We can't update your Wish List right now.",module,Magento_Wishlist
-"The requested Wish List doesn't exist.","The requested Wish List doesn't exist.",module,Magento_Wishlist
+"We can't update your Wish List right now.","Die Wunschliste konnte nicht aktualisiert werden.",module,Magento_Wishlist
+"The requested Wish List doesn't exist.","Die angeforderte Wunschliste existiert nicht.",module,Magento_Wishlist
 "We can't create the Wish List right now.","Wir können die Wunschliste gerade nicht erstellen.",module,Magento_Wishlist
 "%1 items","%1 Artikel",module,Magento_Wishlist
 "1 item","1 Artikel",module,Magento_Wishlist
