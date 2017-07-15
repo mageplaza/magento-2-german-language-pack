@@ -4118,7 +4118,7 @@ Back,Zurück,module,Magento_CustomerCustomAttributes
 "Please enter a password with a valid length.","Bitte geben Sie ein Kennwort mit einer gültigen Länge ein.",module,Magento_CustomerImportExport
 CSV,"Excel XML",module,Magento_CustomerImportExport
 "Excel XML",Excel-XML,module,Magento_CustomerImportExport
-Segments,war,module,Magento_CustomerSegment
+Segments,Segmente,module,Magento_CustomerSegment
 "Add Segment","Segment hinzufügen",module,Magento_CustomerSegment
 "Are you sure you want to do this?","Sind Sie sicher, dass Sie dies tun wollen?",module,Magento_CustomerSegment
 "Refresh Segment Data","Segment Daten aktualisieren",module,Magento_CustomerSegment
@@ -4144,19 +4144,19 @@ Visitors,Besucher,module,Magento_CustomerSegment
 ID,Id,module,Magento_CustomerSegment
 Segment,Segment,module,Magento_CustomerSegment
 Website,Website,module,Magento_CustomerSegment
-"Customer Segment Report","Customer Segment Report",module,Magento_CustomerSegment
+"Customer Segment Report",Kundensegment-Bericht,module,Magento_CustomerSegment
 "Customer Segment Report '%1'","Kundensegment-Bericht '%1'",module,Magento_CustomerSegment
-"Customer Segments Report","Customer Segments Report",module,Magento_CustomerSegment
+"Customer Segments Report",Kundensegmente-Bericht,module,Magento_CustomerSegment
 Back,Zurück,module,Magento_CustomerSegment
 From,Von,module,Magento_CustomerSegment
 To,Bis,module,Magento_CustomerSegment
 "Please request the correct customer segment.","Please request the correct customer segment.",module,Magento_CustomerSegment
 "You deleted the segment.","Sie haben das Segment gelöscht.",module,Magento_CustomerSegment
-"Unable to delete the segment.","Unable to delete the segment.",module,Magento_CustomerSegment
-"Customer Segments","Customer Segments",module,Magento_CustomerSegment
+"Unable to delete the segment.","Das Segment kann nicht gelöscht werden.",module,Magento_CustomerSegment
+"Customer Segments",Kundensegmente,module,Magento_CustomerSegment
 "Edit Segment","Segment bearbeiten",module,Magento_CustomerSegment
 "Segment Customers matching error","Segment Customers matching error",module,Magento_CustomerSegment
-"You saved the segment.","You saved the segment.",module,Magento_CustomerSegment
+"You saved the segment.","Sie haben das Segment gespeichert.",module,Magento_CustomerSegment
 "We can't save the segment right now.","Das Segment kann derzeit nicht gespeichert werden.",module,Magento_CustomerSegment
 Reports,Berichte,module,Magento_CustomerSegment
 Customers,Kunden,module,Magento_CustomerSegment
@@ -4232,7 +4232,7 @@ Sales,Verkäufe,module,Magento_CustomerSegment
 "%1 %2 %3 %4 while %5 of these Conditions match:","%1 %2 %3 %4 while %5 of these Conditions match:",module,Magento_CustomerSegment
 Total,Gesamtsumme,module,Magento_CustomerSegment
 Average,Durchschnitt,module,Magento_CustomerSegment
-"If Customer Segment %1 %2","If Customer Segment %1 %2",module,Magento_CustomerSegment
+"If Customer Segment %1 %2","Wenn Kundensegment %1 %2",module,Magento_CustomerSegment
 matches,übereinstimmen,module,Magento_CustomerSegment
 "does not match","nicht übereinstimmen",module,Magento_CustomerSegment
 "is one of","kleiner als",module,Magento_CustomerSegment
@@ -4258,8 +4258,8 @@ Tax,Steuer,module,Magento_CustomerSegment
 "Use in Customer Segment","Use in Customer Segment",module,Magento_CustomerSegment
 "Please choose a condition to add.","Please choose a condition to add.",module,Magento_CustomerSegment
 "Enable Customer Segment Functionality","Enable Customer Segment Functionality",module,Magento_CustomerSegment
-"Refresh Data","Refresh Data",module,Magento_CustomerSegment
-"Manage Segments","Manage Segments",module,Magento_CustomerSegment
+"Refresh Data","Daten aktualisieren",module,Magento_CustomerSegment
+"Manage Segments","Segmente verwalten",module,Magento_CustomerSegment
 "All Websites","Alle Webseiten",module,Magento_CustomerSegment
 CSV,"Excel XML",module,Magento_CustomerSegment
 "Excel XML",Excel-XML,module,Magento_CustomerSegment
@@ -4270,8 +4270,8 @@ Phone,Telefonnummer,module,Magento_CustomerSegment
 ZIP,PLZ,module,Magento_CustomerSegment
 Country,Land,module,Magento_CustomerSegment
 State/Province,Bundesland,module,Magento_CustomerSegment
-"Customer Since","Customer Since",module,Magento_CustomerSegment
-"View Combined Report","View Combined Report",module,Magento_CustomerSegment
+"Customer Since","Kunde seit",module,Magento_CustomerSegment
+"View Combined Report","Kombinierten Bericht anzeigen",module,Magento_CustomerSegment
 Set,Einrichten,module,Magento_CustomerSegment
 "AVS result code","AVS result code",module,Magento_Cybersource
 "CVN result code","CVN Ergebnis-Abkürzung",module,Magento_Cybersource
