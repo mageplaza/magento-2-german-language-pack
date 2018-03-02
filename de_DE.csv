@@ -175,7 +175,7 @@ SKU:,Artikelnummer:,module,Magento_AdvancedCheckout
 Item,Artikel,module,Magento_AdvancedCheckout
 "See price before order confirmation.","Siehe Preis vor Auftragsbestätigung.",module,Magento_AdvancedCheckout
 "What's this?","Was ist das?",module,Magento_AdvancedCheckout
-"Incl. Tax","Inkl. Steuern",module,Magento_AdvancedCheckout
+"Incl. Tax","Inkl. MwSt.",module,Magento_AdvancedCheckout
 "Excl. Tax","Exkl. Steuern",module,Magento_AdvancedCheckout
 "Edit item parameters","Artikelparameter bearbeiten",module,Magento_AdvancedCheckout
 Edit,Bearbeiten,module,Magento_AdvancedCheckout
@@ -2783,7 +2783,7 @@ Loading...,"Wird geladen …",module,Magento_Checkout
 "Order #","Bestellung #",module,Magento_Checkout
 "Proceed to Checkout","Zur Kasse",module,Magento_Checkout
 "Product Name",Artikelname,module,Magento_Checkout
-"Incl. Tax","Inkl. MwSt",module,Magento_Checkout
+"Incl. Tax","Inkl. MwSt.",module,Magento_Checkout
 "Your order number is: %1.","Ihre Bestellnummer lautet: %1.",module,Magento_Checkout
 "Your order # is: <span>%1</span>.","Ihre Bestellung # ist: <span>%1</span>.",module,Magento_Checkout
 "We'll email you an order confirmation with details and tracking info.","Wir schicken Ihnen eine Bestellbestätigung mit Details und Tracking-Info.",module,Magento_Checkout
@@ -2833,7 +2833,7 @@ Field,Feld,module,Magento_Checkout
 Example:,Beispiel:,module,Magento_Checkout
 "If you believe it is the right one you can ignore this notice.","Wenn Sie glauben, dass dies richtig ist, können Sie den Hinweis ignorieren.",module,Magento_Checkout
 "New Address","Neue Adresse",module,Magento_Checkout
-"Are you sure you would like to remove this item from the shopping cart?","Are you sure you would like to remove this item from the shopping cart?",module,Magento_Checkout
+"Are you sure you would like to remove this item from the shopping cart?","Soll dieser Artikel wirklich aus Ihrem Warenkorb entfernt werden?",module,Magento_Checkout
 "Review & Payments","Prüfung & Zahlung",module,Magento_Checkout
 "Select a new payment method","Neue Zahlungsart auswählen",module,Magento_Checkout
 Shipping,Versand,module,Magento_Checkout
@@ -3362,7 +3362,7 @@ Cancel,Abbrechen,module,Magento_ConfigurableProduct
 "These products are not associated.","Diese Produkte sind nicht miteinander verbunden.",module,Magento_ConfigurableProduct
 "Disable Product","Produkt deaktivieren",module,Magento_ConfigurableProduct
 "Enable Product","Produkt aktivieren",module,Magento_ConfigurableProduct
-"Incl. Tax","Inkl. Steuern",module,Magento_ConfigurableProduct
+"Incl. Tax","Inkl. MwSt.",module,Magento_ConfigurableProduct
 "An attribute has been removed. This attribute will no longer appear in your configurations.","Ein Attribut wurde entfernt. Dieses Attribut wird nicht mehr in Ihrer Konfiguration angezeigt.",module,Magento_ConfigurableProduct
 "Select options for all attributes or remove unused attributes.","Wählen Sie Optionen für alle Attribute oder entfernen Sie nicht verwendete Attribute.",module,Magento_ConfigurableProduct
 "Choose this option to delete and replace extension data for all past configurations.","Wählen Sie diese Option, um Extension-Daten für alle bisherigen Konfigurationen zu löschen und zu ersetzen .",module,Magento_ConfigurableProduct
@@ -4298,7 +4298,7 @@ Active,Aktiv,module,Magento_CustomerSegment
 Inactive,Inaktiv,module,Magento_CustomerSegment
 "Apply To","Anwenden auf",module,Magento_CustomerSegment
 "Visitors and Registered Customers","Besucher und Registrierte Kunden",module,Magento_CustomerSegment
-"Registered Customers",Postleitzahl,module,Magento_CustomerSegment
+"Registered Customers","Registrierte Kunden",module,Magento_CustomerSegment
 Visitors,Besucher,module,Magento_CustomerSegment
 "Please save this information to specify segmentation conditions.","Please save this information to specify segmentation conditions.",module,Magento_CustomerSegment
 "Matched Customers (%1)","Übereinstimmende Kunden (%1)",module,Magento_CustomerSegment
@@ -5794,7 +5794,7 @@ None,Keine,module,Magento_GiftWrapping
 "Gift Wrapping for the Entire Order","Geschenkverpackung für die gesamte Bestellung",module,Magento_GiftWrapping
 "Other Gift Options","Andere Geschenkoptionen",module,Magento_GiftWrapping
 "Excl. Tax","Exkl. Steuern",module,Magento_GiftWrapping
-"Incl. Tax","Inkl. Steuern",module,Magento_GiftWrapping
+"Incl. Tax","Inkl. MwSt.",module,Magento_GiftWrapping
 Preview,Vorschau,module,Magento_GiftWrapping
 "Gift wrapping",Geschenkverpackung,module,Magento_GiftWrapping
 "Printed card","Gedruckte Karte",module,Magento_GiftWrapping
@@ -6764,7 +6764,7 @@ Change,Ändern,module,Magento_Multishipping
 "Address %1 <span>of %2</span>","Address %1 <span>of %2</span>",module,Magento_Multishipping
 "Shipping To","Shipping To",module,Magento_Multishipping
 "Shipping Method",Versandart,module,Magento_Multishipping
-"Incl. Tax","Inkl. Steuern",module,Magento_Multishipping
+"Incl. Tax","Inkl. MwSt.",module,Magento_Multishipping
 "Excl. Tax","Exkl. Steuern",module,Magento_Multishipping
 "Order Review",Bestellübersicht,module,Magento_Multishipping
 Item,Artikel,module,Magento_Multishipping
@@ -7050,7 +7050,7 @@ Condition,Berechnungsgrundlage,module,Magento_OfflineShipping
 "Include Virtual Products in Price Calculation","Virtuelle Artikel in Preisberechnung einbeziehen",module,Magento_OfflineShipping
 Export,Export,module,Magento_OfflineShipping
 Import,Importieren,module,Magento_OfflineShipping
-"Free Shipping","Kostenloser Versand",module,Magento_OfflineShipping
+"Free Shipping",Versandkostenfrei,module,Magento_OfflineShipping
 "Minimum Order Amount","Minimum Order Amount",module,Magento_OfflineShipping
 "-- Please Select --","-- Bitte wählen --",module,Magento_OfflineShipping
 "Export VCL for Varnish %1","VCL für Varnish %1 exportieren",module,Magento_PageCache
@@ -7186,7 +7186,7 @@ Close,Schließen,module,Magento_Paypal
 "See terms","See terms",module,Magento_Paypal
 "You will be redirected to the PayPal website.","Sie werden zur PayPal-Website weitergeleitet.",module,Magento_Paypal
 "You will be redirected to the PayPal website when you place an order.","Sie werden zur PayPal-Website weitergeleitet, wenn Sie eine Bestellung aufgeben.",module,Magento_Paypal
-"Incl. Tax","Inkl. Steuern",module,Magento_Paypal
+"Incl. Tax","Inkl. MwSt.",module,Magento_Paypal
 "Billing Information",Bestellübersicht,module,Magento_Paypal
 "Shipping Information",Versandinformation,module,Magento_Paypal
 "Invalid block type","Ungültiger Block-Typ",module,Magento_Paypal
@@ -9108,11 +9108,11 @@ Quantity,Menge,module,Magento_Sales
 "Wish List",Wunschliste,module,Magento_Sales
 "Please select a store","Bitte einen Store auswählen",module,Magento_Sales
 "Order Totals",Bestellsummen,module,Magento_Sales
-"Shipping Incl. Tax (%1)","Zwischensumme (inkl. Steuern)",module,Magento_Sales
+"Shipping Incl. Tax (%1)","Versand inkl. MwSt. (%1)",module,Magento_Sales
 "Shipping Excl. Tax (%1)","Versand zzgl. Steuer (%1)",module,Magento_Sales
 "New Credit Memo for Invoice #%1","Neue Rechnungskorrektur für Rechnung Nr. %1",module,Magento_Sales
 "New Credit Memo for Order #%1","Neue Rechnungskorrektur für Bestellung Nr. %1",module,Magento_Sales
-"Refund Shipping (Incl. Tax)","Versandkosten erstatten (Inkl. Steuern)",module,Magento_Sales
+"Refund Shipping (Incl. Tax)","Versandkosten erstatten (inkl. MwSt.)",module,Magento_Sales
 "Refund Shipping (Excl. Tax)","Versandkosten erstatten (Exkl. Steuern)",module,Magento_Sales
 "Refund Shipping","Versandkosten erstatten",module,Magento_Sales
 "Update Qty's","Menge aktualisieren",module,Magento_Sales
@@ -9455,7 +9455,7 @@ Tax,Steuer,module,Magento_Sales
 "A PDF object is not specified.","A PDF object is not specified.",module,Magento_Sales
 "A PDF page object is not specified.","A PDF page object is not specified.",module,Magento_Sales
 "Excl. Tax","Exkl. Steuern",module,Magento_Sales
-"Incl. Tax","Inkl. Steuern",module,Magento_Sales
+"Incl. Tax","Inkl. MwSt.",module,Magento_Sales
 "Packing Slip #","Packing Slip #",module,Magento_Sales
 title,title,module,Magento_Sales
 "The PDF total model %1 must be or extend \Magento\Sales\Model\Order\Pdf\Total\DefaultTotal.","The PDF total model %1 must be or extend \Magento\Sales\Model\Order\Pdf\Total\DefaultTotal.",module,Magento_Sales
@@ -9579,9 +9579,9 @@ Item,Artikel,module,Magento_Sales
 "Append Comments","Kommentare hinzufügen",module,Magento_Sales
 "Email Order Confirmation","E-Mail Bestellbestätigung",module,Magento_Sales
 "Grand Total Excl. Tax","Grand Total Excl. Tax",module,Magento_Sales
-"Grand Total Incl. Tax","Grand Total Incl. Tax",module,Magento_Sales
+"Grand Total Incl. Tax","Gesamtsumme inkl. MwSt.",module,Magento_Sales
 "Subtotal (Excl. Tax)","Subtotal (Excl. Tax)",module,Magento_Sales
-"Subtotal (Incl. Tax)","Subtotal (Incl. Tax)",module,Magento_Sales
+"Subtotal (Incl. Tax)","Zwischensumme (inkl. MwSt.)",module,Magento_Sales
 "Payment &amp; Shipping Method","Zahlungs &amp; Versandart",module,Magento_Sales
 "Payment Information",Zahlungsinformation,module,Magento_Sales
 "The order was placed using %1.","Bestellung wurde in %1 aufgegeben.",module,Magento_Sales
@@ -10527,7 +10527,7 @@ message,Nachricht,module,Magento_Shipping
 "The order was placed using %1.","Bestellung wurde in %1 aufgegeben.",module,Magento_Shipping
 "Shipping Information",Versandinformation,module,Magento_Shipping
 "Total Shipping Charges","Gesamtsumme Versandkosten",module,Magento_Shipping
-"Incl. Tax","Inkl. Steuern",module,Magento_Shipping
+"Incl. Tax","Inkl. MwSt.",module,Magento_Shipping
 "Items to Ship","Zu versendende Artikel",module,Magento_Shipping
 "Qty to Ship","Zu versendende Anzahl",module,Magento_Shipping
 Ship,Versand,module,Magento_Shipping
@@ -11276,7 +11276,7 @@ Priority,Priorität,module,Magento_Tax
 "Sort Order",Sortierreihenfolge,module,Magento_Tax
 "Do you really want to delete this tax class?","Möchten Sie diese Steuerklasse wirklich löschen?",module,Magento_Tax
 "Add New Tax Class","Neue Steuerklasse hinzufügen",module,Magento_Tax
-"Shipping Incl. Tax (%1)","Zwischensumme (inkl. Steuern)",module,Magento_Tax
+"Shipping Incl. Tax (%1)","Versand inkl. MwSt. (%1)",module,Magento_Tax
 "Shipping Excl. Tax (%1)","Versand zzgl. Steuer (%1)",module,Magento_Tax
 "Subtotal (Excl.Tax)","Zwischensumme (Netto)",module,Magento_Tax
 "Subtotal (Incl.Tax)","Zwischensumme (Brutto)",module,Magento_Tax
@@ -11334,11 +11334,11 @@ Code,Code,module,Magento_Tax
 "Class name and class type","Class name and class type",module,Magento_Tax
 "No such entity with %fieldName = %fieldValue","No such entity with %fieldName = %fieldValue",module,Magento_Tax
 "Grand Total (Excl. Tax)","Grand Total (Excl. Tax)",module,Magento_Tax
-"Grand Total (Incl. Tax)","Grand Total (Incl. Tax)",module,Magento_Tax
+"Grand Total (Incl. Tax)","Gesamtsumme (inkl. MwSt.)",module,Magento_Tax
 "Shipping (Excl. Tax)","Versand (zzgl. Steuern)",module,Magento_Tax
-"Shipping (Incl. Tax)","Versand (inkl. Steuern)",module,Magento_Tax
+"Shipping (Incl. Tax)","Versand (inkl. MwSt.)",module,Magento_Tax
 "Subtotal (Excl. Tax)","Zwischensumme (zzgl. Steuern)",module,Magento_Tax
-"Subtotal (Incl. Tax)","Zwischensumme (inkl. Steuern)",module,Magento_Tax
+"Subtotal (Incl. Tax)","Zwischensumme (inkl. MwSt.)",module,Magento_Tax
 Subtotal,Zwischensumme,module,Magento_Tax
 "Unit Price",Einzelpreis,module,Magento_Tax
 "Row Total","Pos. Zwischensumme",module,Magento_Tax
@@ -11362,7 +11362,7 @@ None,Keine,module,Magento_Tax
 "customer group","customer group",module,Magento_Tax
 product,product,module,Magento_Tax
 "Excl. tax:","Zzgl. Steuern:",module,Magento_Tax
-"Incl. Tax","Inkl. Steuern",module,Magento_Tax
+"Incl. Tax","Inkl. MwSt.",module,Magento_Tax
 "Entity already exists","Entity already exists",module,Magento_Tax
 "Cannot save titles","Cannot save titles",module,Magento_Tax
 "Some Message","Some Message",module,Magento_Tax
@@ -11377,7 +11377,7 @@ Note:,Note:,module,Magento_Tax
 Save,Speichern,module,Magento_Tax
 "Add New Class","Add New Class",module,Magento_Tax
 "Grand Total Excl. Tax","Grand Total Excl. Tax",module,Magento_Tax
-"Grand Total Incl. Tax","Grand Total Incl. Tax",module,Magento_Tax
+"Grand Total Incl. Tax","Gesamtsumme inkl. MwSt.",module,Magento_Tax
 Taxes,Steuern,module,Magento_Tax
 "Tax Section","Tax Section",module,Magento_Tax
 "Tax Classes",Steuerklassen,module,Magento_Tax
@@ -11416,9 +11416,9 @@ State/Region,State/Region,module,Magento_Tax
 Rate,Satz,module,Magento_Tax
 "Subtotal Only","Subtotal Only",module,Magento_Tax
 "(Excl. Tax)","(Zzgl. Steuern)",module,Magento_Tax
-"(Incl. Tax)","(Inkl. Steuern)",module,Magento_Tax
+"(Incl. Tax)","(Inkl. MwSt.)",module,Magento_Tax
 "Order Total Excl. Tax","Order Total Excl. Tax",module,Magento_Tax
-"Order Total Incl. Tax","Order Total Incl. Tax",module,Magento_Tax
+"Order Total Incl. Tax","Bestellsumme inkl. MwSt.",module,Magento_Tax
 "Order Total",Bestellsumme,module,Magento_Tax
 "Your credit card will be charged for","Ihre Kreditkarte wird belastet für",module,Magento_Tax
 "An error occurred while loading tax rates.","An error occurred while loading tax rates.",module,Magento_Tax
@@ -12573,8 +12573,8 @@ Website,Website,module,Magento_Weee
 Action,Aktion,module,Magento_Weee
 "Excl. Tax","Exkl. Steuern",module,Magento_Weee
 Total,Gesamtsumme,module,Magento_Weee
-"Incl. Tax","Inkl. Steuern",module,Magento_Weee
-"Total Incl. Tax","Total inkl. MwSt",module,Magento_Weee
+"Incl. Tax","Inkl. MwSt.",module,Magento_Weee
+"Total Incl. Tax","Gesamt inkl. MwSt.",module,Magento_Weee
 "Final Price",Endpreis,module,Magento_Weee
 "Fixed Product Taxes","Feste Produktsteuern",module,Magento_Weee
 "Enable FPT","FPT aktivieren",module,Magento_Weee
