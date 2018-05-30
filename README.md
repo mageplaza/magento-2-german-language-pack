@@ -112,7 +112,7 @@ Now time to active the German language pack for your Magento 2 store. From Magen
 
 ## 4. How to contribute
 
-![language pack](http://progressed.io/bar/{{process}}?title=translated)
+![language pack](http://progressed.io/bar/73?title=translated)
 
 Contribute to this language at https://crowdin.com/project/magento-2/de
 
