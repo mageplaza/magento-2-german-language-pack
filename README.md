@@ -7,18 +7,21 @@ Read more [Magento 2 German Language Pack](https://www.mageplaza.com/magento-2-g
 
 ## Overview
 
-- Download & Contribute
-- Install German Language Pack
-- How to Install German Language Pack
+- 1. Language Package Process
+- 2. Install German Language Pack
+- 3. How to active German language pack
+- 4. How to contribute
+- 5. Supported Magento versions
 
-## 1. Download & Contribute to German Language Pack
+## 1. Language Package Process
 
-Below are two active buttons which are required operations before installing the language package. Let's hit them to download and contribute Magento 2 German Language Pack immediately!
+This is status of German Language Pack, you can see how many percentage of this project has been done.
 
-**Download packages**:
+![language pack](http://progressed.io/bar/{{process}}?title=translated)
 
-- [Download .zip](https://github.com/mageplaza/magento-2-german-language-pack/archive/master.zip)
-- [Download .tar.gz](https://github.com/mageplaza/magento-2-german-language-pack/tarball/master)
+It is not fully translated? Feel free to contribute:
+- [On Crowdin]({{crowdin}}): It takes time to approve your contribution by Magento team.
+- [On Github])({{github_url}}/blob/master/HOW-TO-CONTRIBUTE.md): It's faster, our team will approve it after you send pull request.
 
 
 Find other [language packs here](https://www.mageplaza.com/kb/magento-2-language-pack/)
@@ -33,20 +36,14 @@ Install the German language pack via composer is never easier.
 **Install German pack**:
 
 ```
-composer require mageplaza/magento-2-german-language-pack:dev-master
-php bin/magento setup:static-content:deploy de_DE
-php bin/magento cache:flush
-
+{{composer_install}}
 ```
 
 
 **Update  German pack**:
 
 ```
-composer update mageplaza/magento-2-german-language-pack:dev-master
-php bin/magento setup:static-content:deploy de_DE
-php bin/magento cache:flush
-
+{{composer_update}}
 ```
 
 #### Authentication required (If any)
@@ -76,7 +73,7 @@ Unzip the German language pack to Magento 2 root folder. In this guide, we extra
 Your Magento 2 root folder can be: `/home/account_name/yourstore.com/public_html/`
 
 ```
-unzip fr.zip app/i18n/Mageplaza/de_de
+unzip master.zip app/i18n/Mageplaza/{{magento_package_code}}
 ```
 
 You also can unzip locally and upload them to Magento 2 root folder.
@@ -92,8 +89,8 @@ To download and install German pack manually, you have to access to your server 
 
 #### Step 1: Download the package
 
-- [Download .zip](https://github.com/mageplaza/magento-2-german-language-pack/archive/master.zip)
-- [Download .tar.gz](https://github.com/mageplaza/magento-2-german-language-pack/tarball/master)
+- [Download .zip]({{github_latest_version}})
+- [Download .tar.gz]({{github_latest_version_tar}})
 
 #### Step 1: Unzip and upload
 
@@ -105,14 +102,12 @@ Follow this guide to [Flush Cache on your Magento 2 store](https://www.mageplaza
 
 
 ## 3. How to active German language pack
-O
+
 Now time to active the German language pack for your Magento 2 store. From Magento 2 admin panel, navigate to `Stores > Configuration > General > Locale Options`
 ![{{Magento 2 German language pack}}](https://cdn.mageplaza.com/media/general/aPSUA0l.png)
 
 
 ## 4. How to contribute
-
-![language pack](http://progressed.io/bar/73?title=translated)
 
 Contribute to this language at https://crowdin.com/project/magento-2/de
 
@@ -120,21 +115,17 @@ Contribute to this language at https://crowdin.com/project/magento-2/de
 
 It supports all Magento 2 versions include [Magento 2 open-source](https://www.mageplaza.com/download-magento/), Magento 2 Commerce.
 
-
-- Magento v2.0.x
-- Magento v2.1.x
-- Magento v2.2.x
-
+{{magento_versions}}
 
 
 ## 6. Note
 
 - This project automatically updates weekly from Crowdin.
-- Any question, issue please [create a new issue](https://github.com/mageplaza/magento-2-german-language-pack/issues/new)
+- Any question, issue please [create a new issue]({{github_url}}/issues/new)
 
 ## 7. Language package authors
 
-- [Magento official translations project for Magento 2](https://crowdin.com/project/magento-2)
+- [Magento official translations project for Magento 2]({{crowdin}})
 - Language packages built by [Mageplaza team](https://www.mageplaza.com/)
 
 
@@ -142,10 +133,6 @@ It supports all Magento 2 versions include [Magento 2 open-source](https://www.m
 
 - https://www.mageplaza.com/magento-2-german-language-pack.html
 - https://crowdin.com/project/magento-2
-
-
-
-
 
 
 
@@ -159,15 +146,10 @@ It supports all Magento 2 versions include [Magento 2 open-source](https://www.m
 - [Blog](https://github.com/mageplaza/magento-2-blog)
 - [Security](https://marketplace.magento.com/mageplaza-module-security.html)
 - [Social Login](https://github.com/mageplaza/magento-2-social-login)
-
 - [SEO](https://github.com/mageplaza/magento-2-seo) ; [SEO on Marketplace](https://marketplace.magento.com/mageplaza-magento-2-seo-extension.html)
-
 - [SMTP](https://github.com/mageplaza/magento-2-smtp)
-
 - [Product Slider](https://github.com/mageplaza/magento-2-product-slider)
-
 - [Banner](https://github.com/mageplaza/magento-2-banner-slider)
-
 - [Sample Payment Method](https://github.com/mageplaza/magento-2-sample-payment-method)
 
 
