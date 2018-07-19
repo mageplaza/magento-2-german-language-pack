@@ -7,6 +7,8 @@
   },
   "type": "magento2-language",
   "version": "1.0.1",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
   "license": [
     "MIT"
   ],
