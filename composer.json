@@ -6,7 +6,7 @@
     "mageplaza/module-core": "^1.3.9|dev-master"
   },
   "type": "magento2-language",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "minimum-stability": "dev",
   "prefer-stable": true,
   "license": [
