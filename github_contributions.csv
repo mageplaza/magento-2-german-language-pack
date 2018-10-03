@@ -1,1 +1,26 @@
-Mageplaza,Mageplaza
+"Credit memo for your %store_name order","Gutschrift für Ihre Bestellung bei %store_name",module,Magento_Sales
+"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>","Bei Fragen zu Ihrer Bestellung erreichen Sie uns per E-Mail unter <a href=""mailto:%store_email"">%store_email</a>",module,Magento_Sales
+"Our hours are <span class=""no-link"">%store_hours</span>.","Unsere Öffnungszeiten sind <span class=""no-link"">%store_hours</span>.",module,Magento_Sales
+"Your Credit Memo #%creditmemo_id for Order #%order_id","Ihre Gutschrift #%creditmemo_id für die Bestellung #%order_id",module,Magento_Sales
+"Update to your %store_name credit memo","Aktualisierung Ihrer Gutschrift bei %store_name",module,Magento_Sales
+"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Der Status Ihrer Bestellung #%increment_id wurde aktualisiert zu: <strong>%order_status</strong>.",module,Magento_Sales
+"Your Invoice #%invoice_id for Order #%order_id","Rechnung #%invoice_id zu Ihrer Bestellung #%order_id",module,Magento_Sales
+"Your %store_name order confirmation","Ihre %store_name Bestellbestätigung",module,Magento_Sales
+"Once your package ships we will send you a tracking number.","Sobald Ihre Sendung verschickt wurde werden wir Ihnen eine Nummer zur Sendungsverfolgung zukommen lassen.",module,Magento_Sales
+"Your Order <span class=""no-link"">#%increment_id</span>","Ihre Bestellung <span class=""no-link"">#%increment_id</span>",module,Magento_Sales
+"Placed on <span class=""no-link"">%created_at</span>","Aufgegeben am <span class=""no-link"">%created_at</span>",module,Magento_Sales
+"Once your package ships we will send an email with a link to track your order.","Sobald Ihre Sendung verschickt wurde werden wir Ihnen einen Link zur Sendungsverfolgung zukommen lassen.",module,Magento_Sales
+"Update to your %store_name order","Aktualisierung Ihrer %store_name Bestellung",module,Magento_Sales
+"Your %store_name order has shipped","Ihre Bestellung bei %store_name wurde verschickt",module,Magento_Sales
+"Your shipping confirmation is below. Thank you again for your business.","Unten finden Sie Ihre Versandbestätigung. Vielen Dank erneut für Ihre Bestellung.",module,Magento_Sales
+"Your Shipment #%shipment_id for Order #%order_id","Ihr Versand #%shipment_id für die Bestellung #%order_id",module,Magento_Sales
+"Update to your %store_name shipment","Aktualisierung Ihres %store_name Versands",module,Magento_Sales
+"You have item changes","Es wurden Elemente aktualisiert",module,Magento_Sales
+"Create","Erstellen",module,Magento_Sales
+"Send Order Email","Bestellbestätigungs-E-Mail senden",module,Magento_Sales
+"Accept or Deny Payment","Zahlung annehmen oder ablehnen",module,Magento_Sales
+"Send Sales Emails","Verkaufs-E-Mails senden",module,Magento_Sales
+"Sales Section","Verkaufsabteilung",module,Magento_Sales
+"Sales Emails Section","Verkaufs-E-Mails Abteilung",module,Magento_Sales
+"Choose whether a customer IP is shown in orders, invoices, shipments, and credit memos.","Wählen Sie aus, ob die IP des Kunden in Bestellungen, Rechnungen, Lieferscheinen und Gutschriften angezeigt werden soll",module,Magento_Sales
+"Checkout Totals Sort Order","Reihenfolge der Bestell-Gesamtsummen",module,Magento_Sales
