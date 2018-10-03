@@ -24,3 +24,5 @@
 "Sales Emails Section","Verkaufs-E-Mails Abteilung",module,Magento_Sales
 "Choose whether a customer IP is shown in orders, invoices, shipments, and credit memos.","Wählen Sie aus, ob die IP des Kunden in Bestellungen, Rechnungen, Lieferscheinen und Gutschriften angezeigt werden soll",module,Magento_Sales
 "Checkout Totals Sort Order","Reihenfolge der Bestell-Gesamtsummen",module,Magento_Sales
+"or call us at <a href=""tel:%store_phone"">%store_phone</a>","oder rufen Sie uns an unter <a href=""tel:%store_phone"">%store_phone</a>",module,Magento_Sales
+"Shipped By","Zustellung durch",module,Magento_Sales
