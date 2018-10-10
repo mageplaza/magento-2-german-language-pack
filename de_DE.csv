@@ -4546,6 +4546,7 @@ Bitte versuchen Sie die Bestellung nochmal abzuschließen.",module,Magento_Check
 "Store alternative addresses (for shipping to multiple family members and friends)","Alternative Lieferadressen speichern (für den Versand an mehrere Familienmitglieder und Freunde)",module,Magento_Customer
 "Please confirm your %store_name account","Bitte bestätigen Sie Ihr %store_name-Konto",module,Magento_Customer
 "You must confirm your %customer_email email before you can sign in (link is only valid once):","Sie müssen ihre %customer_email E-Mail bestätigen, bevor Sie sich einloggen können (Der Link ist nur einmal gültig):",module,Magento_Customer
+"Confirm Your Account","Bestätigen Sie Ihr Kundenkonto",module,Magento_Customer
 "Thank you for confirming your %store_name account.","Vielen Dank für die Bestätigung Ihres %store_name Kundenkontos.",module,Magento_Customer
 "To sign in to our site and set a password, click on the <a href=""%create_password_url"">link</a>:","Um sich bei uns zu registrieren und ein Benutzerkonto anzulegen, benutzten Sie bitte folgenden <a href=""%create_password_url"">link</a>:",module,Magento_Customer
 "Your %store_name email has been changed","Ihre %store_name E-Mail-Adresse wurde geändert",module,Magento_Customer
