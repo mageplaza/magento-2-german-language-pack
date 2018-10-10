@@ -246,23 +246,23 @@ Bestimme die ID und versuche es erneut.",module,Magento_AdvancedCheckout
 "Error while checking if topic is synchronous","Fehler beim Überprüfen, wenn das Thema synchron ist",module,Magento_Amqp
 "Subscription status","Abonnementstatus",module,Magento_Analytics
 "Sorry, there has been an error processing your request. Please try again later.","Es tut uns leid, bei der Bearbeitung Ihrer Anfrage ist ein Fehler aufgetreten. Bitte versuchen Sie es später erneut.",module,Magento_Analytics
-"The time value is using an unsupported format. Enter a supported format and try again.","The time value is using an unsupported format. Enter a supported format and try again.",module,Magento_Analytics
+"The time value is using an unsupported format. Enter a supported format and try again.","Der Zeitwert nutzt ein nicht unterstütztes Format. Geben Sie ein unterstütztes Format ein und versuchen Sie es erneut.",module,Magento_Analytics
 "Cron settings can't be saved","Cron-Einstellungen konnten nicht gespeichert werden",module,Magento_Analytics
 "There was an error save new configuration value.","Beim Speichern der Konfigurationswerte ist ein Fehler aufgetreten.",module,Magento_Analytics
-"Please select an industry.","Please select an industry.",module,Magento_Analytics
+"Please select an industry.","Bitte wählen Sie eine Branche aus.",module,Magento_Analytics
 "--Please Select--","-- Bitte wählen --",module,Magento_Analytics
 "Command was not found.","Befehl wurde nicht gefunden.",module,Magento_Analytics
-"The data is invalid. Enter the data as a string or data that can be converted into a string and try again.","The data is invalid. Enter the data as a string or data that can be converted into a string and try again.",module,Magento_Analytics
-"The data is invalid. Enter the data as a string and try again.","The data is invalid. Enter the data as a string and try again.",module,Magento_Analytics
-"The data is invalid. Use a valid cipher method and try again.","The data is invalid. Use a valid cipher method and try again.",module,Magento_Analytics
-"Enter the encryption key and try again.","Enter the encryption key and try again.",module,Magento_Analytics
-"The ""%1"" source doesn't exist.","The ""%1"" source doesn't exist.",module,Magento_Analytics
+"The data is invalid. Enter the data as a string or data that can be converted into a string and try again.","Die Daten sind ungültig. Geben Sie die Daten als String ein oder als Daten, die in einen String umgewandelt werden können, und versuchen Sie es erneut.",module,Magento_Analytics
+"The data is invalid. Enter the data as a string and try again.","Die Daten sind ungültig. Geben Sie die Daten als String ein, und versuchen Sie es erneut.",module,Magento_Analytics
+"The data is invalid. Use a valid cipher method and try again.","Die Daten sind ungültig. Verwenden Sie eine gültige Verschlüsselungsmethode und versuchen Sie es erneut.",module,Magento_Analytics
+"Enter the encryption key and try again.","Geben Sie den Kodierungsschlüssel ein und versuchen Sie es erneut.",module,Magento_Analytics
+"The ""%1"" source doesn't exist.","Die ""%1"" Quelle existiert nicht.",module,Magento_Analytics
 "These arguments can't be empty ""%1""","Diese Argumente dürfen nicht leer sein ""%1""",module,Magento_Analytics
 "Cannot find predefined integration user!","Vordefinierter Integrationsbenutzer konnte nicht gefunden werden!",module,Magento_Analytics
 "File is not ready yet.","Die Datei ist noch nicht bereit.",module,Magento_Analytics
 "Your Base URL has been changed and your reports are being updated. Advanced Reporting will be available once this change has been processed. Please try again later.","Ihre Basis-URL wurde geändert und Ihre Berichte werden aktualisiert. Das ""Advanced Reporting"" wird verfügbar sein, sobald diese Änderung verarbeitet wurde. Bitte versuchen Sie es später erneut.",module,Magento_Analytics
 "Failed to synchronize data to the Magento Business Intelligence service.","Fehler beim Synchronisieren der Daten mit dem Magento Business Intelligence-Dienst.",module,Magento_Analytics
-"Retry Synchronization","Retry Synchronization",module,Magento_Analytics
+"Retry Synchronization","Synchronisierung erneut versuchen",module,Magento_Analytics
 "TestMessage","Testnachricht",module,Magento_Analytics
 "Apps and Games","Apps und Games",module,Magento_Analytics
 "Athletic/Sporting Goods","Sportartikel",module,Magento_Analytics
@@ -1685,7 +1685,7 @@ Bitte überprüfe diesen Vorgangs-bericht und versuche es nochmal.",module,Magen
 "A total of %1 record(s) were updated.","Insgesamt wurden %1 Einträge aktualisiert.",module,Magento_Catalog
 "Something went wrong while updating the product(s) attributes.","Während der Aktualisierung der Produktattribute ging etwas schief.",module,Magento_Catalog
 "Unable to add attribute","Attribut konnte nicht hinzugefügt werden",module,Magento_Catalog
-"Attributes were missing and must be specified.","Attributes were missing and must be specified.",module,Magento_Catalog
+"Attributes were missing and must be specified.","Attribute fehlten und müssen angegeben werden.",module,Magento_Catalog
 "Catalog","Katalog",module,Magento_Catalog
 "Manage Product Attributes","Produkt-Attribute verwalten",module,Magento_Catalog
 "We can't delete the attribute.","Das Attribut kann nicht gelöscht werden.",module,Magento_Catalog
@@ -1701,9 +1701,9 @@ Bitte überprüfe diesen Vorgangs-bericht und versuche es nochmal.",module,Magen
 "You saved the product attribute.","Sie haben das Produkt-Attribute gespeichert.",module,Magento_Catalog
 "An attribute with this code already exists.","Ein Attribut mit diesem Code existiert bereits.",module,Magento_Catalog
 "An attribute with the same code (%1) already exists.","Ein Attribut mit dem gleichen Code (%1) existiert bereits.",module,Magento_Catalog
-"A ""%1"" attribute set name already exists. Create a new name and try again.","A ""%1"" attribute set name already exists. Create a new name and try again.",module,Magento_Catalog
-"The value of Admin must be unique. (%1)","The value of Admin must be unique. (%1)",module,Magento_Catalog
-"The value of Admin scope can't be empty.","The value of Admin scope can't be empty.",module,Magento_Catalog
+"A ""%1"" attribute set name already exists. Create a new name and try again.","Ein ""%1"" Attributset-Name existiert bereits. Erstellen Sie einen neuen Namen und versuchen Sie es erneut.",module,Magento_Catalog
+"The value of Admin must be unique. (%1)","Der Wert für Admin muss eindeutig sein. (%1)",module,Magento_Catalog
+"The value of Admin scope can't be empty.","Der Wert für den Admin Bereich darf nicht leer sein.",module,Magento_Catalog
 "You duplicated the product.","Artikel wurde dupliziert.",module,Magento_Catalog
 "This product doesn't exist.","Das Produkt existiert nicht.",module,Magento_Catalog
 "Invalid product id. Should be numeric value greater than 0","Ungültige Produkt-ID. ID sollte ein numerischer Wert größer als 0 sein",module,Magento_Catalog
@@ -1713,7 +1713,7 @@ Bitte überprüfe diesen Vorgangs-bericht und versuche es nochmal.",module,Magen
 "A total of %1 record(s) have been deleted.","Insgesamt wurden %1 Einträge gelöscht.",module,Magento_Catalog
 "A total of %1 record(s) have been updated.","Insgesamt wurden %1 Einträge aktualisiert.",module,Magento_Catalog
 "Something went wrong while updating the product(s) status.","Während der Aktualisierung des Produkt-Status ist ein Fehler aufgetreten.",module,Magento_Catalog
-"The product was unable to be saved. Please try again.","The product was unable to be saved. Please try again.",module,Magento_Catalog
+"The product was unable to be saved. Please try again.","Das Produkt konnte nicht gespeichert werden. Bitte versuchen Sie es erneut.",module,Magento_Catalog
 "You saved the product.","Das Produkt wurde gespeichert.",module,Magento_Catalog
 "SKU for product %1 has been changed to %2.","SKU für Produkt %1 wurde in %2 geändert.",module,Magento_Catalog
 "The image cannot be removed as it has been assigned to the other image role","Das Bild kann nicht entfernt werden, weil es einer anderen Bildrolle zugewiesen wurde",module,Magento_Catalog
@@ -1746,7 +1746,7 @@ Bitte überprüfe diesen Vorgangs-bericht und versuche es nochmal.",module,Magen
 "We can't move the category because the parent category name matches the child category name.","Wir können die Kategorie nicht verschieben, da der Name der übergeordneten Kategorie mit dem der Kind-Kategorie übereinstimmt.",module,Magento_Catalog
 "Something went wrong while getting the image url.","Beim Speichern der Bild-URL ging etwas schief.",module,Magento_Catalog
 "Can't delete root category.","Root-Kategorie kann nicht gelöscht werden.",module,Magento_Catalog
-"The value of the ""%1"" attribute isn't unique. Set a unique value and try again.","The value of the ""%1"" attribute isn't unique. Set a unique value and try again.",module,Magento_Catalog
+"The value of the ""%1"" attribute isn't unique. Set a unique value and try again.","Der Wert des Attributs ""%1"" ist nicht eindeutig. Legen Sie einen eindeutigen Wert fest und versuchen Sie es erneut.",module,Magento_Catalog
 "Default Product Listing Sort by does not exist in Available Product Listing Sort By.","Standardsortierung der Artikelliste steht in den verfügbaren Sortierungen nicht zur Auswahl.",module,Magento_Catalog
 "No layout updates","Keine Layout Aktualisierungen",module,Magento_Catalog
 "Products only","Nur Produkte",module,Magento_Catalog
@@ -1755,7 +1755,7 @@ Bitte überprüfe diesen Vorgangs-bericht und versuche es nochmal.",module,Magen
 "Please select a static block.","Bitte wählen Sie einen statischen Block.",module,Magento_Catalog
 "frontend_label","frontend_label",module,Magento_Catalog
 "Could not save product ""%1"" with position %2 to category %3","Produkt ""%1"" mit der Position %2 konnte nicht in der Kategorie %3 gespeichert werden",module,Magento_Catalog
-"The category doesn't contain the specified product.","The category doesn't contain the specified product.",module,Magento_Catalog
+"The category doesn't contain the specified product.","Die Kategorie enthält nicht das angegebene Produkt.",module,Magento_Catalog
 "Could not save product ""%product"" with position %position to category %category","Produkt ""%product"" mit Position %position in Kategorie %category konnte nicht gespeichert werden",module,Magento_Catalog
 "Operation do not allow to move a parent category to any of children category","Eine Hauptkategorie darf keiner Unterkategorie zugeordnet werden.",module,Magento_Catalog
 "Could not move category","Die Kategorie konnte nicht verschoben werden",module,Magento_Catalog
@@ -1786,7 +1786,7 @@ Bitte überprüfe diesen Vorgangs-bericht und versuche es nochmal.",module,Magen
 "Center","Mitte",module,Magento_Catalog
 "%1 doesn't extends \Magento\Framework\Model\AbstractModel","%1 erweitert nicht \Magento\Framework\Model\AbstractModel",module,Magento_Catalog
 "Something went wrong while saving the file(s).","Beim Speichern der Datei(en) ist etwas schiefgegangen.",module,Magento_Catalog
-"File validation failed.","File validation failed.",module,Magento_Catalog
+"File validation failed.","Dateiüberprüfung fehlgeschlagen.",module,Magento_Catalog
 "File can not be saved to the destination folder.","Datei kann im Zielordner nicht gespeichert werden.",module,Magento_Catalog
 "Unknown EAV indexer type ""%1"".","Unbekannter EAV Index Typ ""%1"".",module,Magento_Catalog
 "We can't rebuild the index for an undefined product.","Wir können den Index für ein undefiniertes Produkt nicht neu erstellen.",module,Magento_Catalog
@@ -1798,47 +1798,47 @@ Bitte überprüfe diesen Vorgangs-bericht und versuche es nochmal.",module,Magen
 "The attribute model is not defined.","Das Attribut-Modell ist nicht definiert.",module,Magento_Catalog
 "Category","Kategorie",module,Magento_Catalog
 "%1 - %2","%1 – %2",module,Magento_Catalog
-"The %1 value wasn't found in the algorithms.","The %1 value wasn't found in the algorithms.",module,Magento_Catalog
+"The %1 value wasn't found in the algorithms.","Der %1 Wert wurde nicht in den Algorithmen gefunden.",module,Magento_Catalog
 "%1 doesn't extend \Magento\Catalog\Model\Layer\Filter\Dynamic\AlgorithmInterface","%1 erweitert nicht \Magento\Catalog\Model\Layer\Filter\Dynamic\AlgorithmInterface",module,Magento_Catalog
 "%1 doesn't extends \Magento\Catalog\Model\Layer\Filter\AbstractFilter","%1 erweitert nicht \Magento\Catalog\Model\Layer\Filter\AbstractFilter",module,Magento_Catalog
 "The filter must be an object. Please set the correct filter.","Der Filter muss ein Objekt sein. Bitte verwenden Sie einen korrekten Filter.",module,Magento_Catalog
 "Clear Price","Preis löschen",module,Magento_Catalog
 "%1 and above","%1 und mehr",module,Magento_Catalog
-"The filters are invalid. Set them in an array and try again.","The filters are invalid. Set them in an array and try again.",module,Magento_Catalog
-"The product wasn't registered.","The product wasn't registered.",module,Magento_Catalog
-"The store wasn't registered. Verify the store and try again.","The store wasn't registered. Verify the store and try again.",module,Magento_Catalog
+"The filters are invalid. Set them in an array and try again.","Die Filter sind ungültig. Setzen Sie sie in ein Array und versuchen Sie es erneut.",module,Magento_Catalog
+"The product wasn't registered.","Das Produkt wurde nicht registriert.",module,Magento_Catalog
+"The store wasn't registered. Verify the store and try again.","Der Store wurde nicht registriert. Verifizieren Sie den Store und versuchen Sie es erneut.",module,Magento_Catalog
 "Group price must be a number greater than 0.","Gruppenpreis muss eine Zahl größer als 0 sein.",module,Magento_Catalog
 "Media Gallery converter should be an instance of EntryConverterInterface.","Media Gallery converter should be an instance of EntryConverterInterface.",module,Magento_Catalog
 "There is no MediaGalleryEntryConverter for given type","Es gibt keinen MediaGalleryEntryConverter für den gegebenen Typ",module,Magento_Catalog
 "Please enter a number 0 or greater in this field.","Bitte geben Sie eine gültige Nummer in dieses Feld ein.",module,Magento_Catalog
-"The ""%1"" attribute value is empty. Set the attribute and try again.","The ""%1"" attribute value is empty. Set the attribute and try again.",module,Magento_Catalog
+"The ""%1"" attribute value is empty. Set the attribute and try again.","Der ""%1"" Attributwert ist leer. Wählen Sie das Attribut und versuchen Sie es erneut.",module,Magento_Catalog
 "SKU length should be %1 characters maximum.","Die Länge der Artikelnummer sollte maximal %1 Zeichen betragen.",module,Magento_Catalog
 "Please enter a valid number in this field.","Bitte geben Sie eine gültige Zahl in diesem Feld ein.",module,Magento_Catalog
 "We found a duplicate website, tier price, customer group and quantity.","Wir fanden Webseite, Staffelpreis, Kundengruppe und Menge als Dublette.",module,Magento_Catalog
 "Percentage value must be a number between 0 and 100.","Prozentualer Wert muss eine Zahl zwischen 0 und 100 sein.",module,Magento_Catalog
 "Invalid option id %1","Ungültige Option Id %1",module,Magento_Catalog
-"The attribute set couldn't be created because it's based on a non-product attribute set.","The attribute set couldn't be created because it's based on a non-product attribute set.",module,Magento_Catalog
-"The attribute set couldn't be created because it's based on a non-existing attribute set.","The attribute set couldn't be created because it's based on a non-existing attribute set.",module,Magento_Catalog
+"The attribute set couldn't be created because it's based on a non-product attribute set.","Das Attributset konnte nicht erstellt werden, da es auf einem Nicht-Produkt-Attribut beruht.",module,Magento_Catalog
+"The attribute set couldn't be created because it's based on a non-existing attribute set.","Das Attributset konnte nicht erstellt werden, da es auf einem nicht existierenden Attributset beruht.",module,Magento_Catalog
 "Provided Attribute set non product Attribute set.","Angegebenes Attribut-Set ist kein Produkt-Attribut-Set.",module,Magento_Catalog
 "Use config","Konfiguration verwenden",module,Magento_Catalog
 "Enabled","Aktiviert",module,Magento_Catalog
 "Disabled","Deaktiviert",module,Magento_Catalog
 "Attribute Set already exists.","Dieses Attribut-Set ist bereits vorhanden.",module,Magento_Catalog
 "We couldn't copy file %1. Please delete media with non-existing images and try again.","Wir konnten die Datei %1 nicht kopieren. Löschen Sie Medien mit nicht vorhandenen Bildern und versuchen Sie es erneut.",module,Magento_Catalog
-"The image content is invalid. Verify the content and try again.","The image content is invalid. Verify the content and try again.",module,Magento_Catalog
+"The image content is invalid. Verify the content and try again.","Der Bildinhalt ist ungültig. Überprüfen Sie den Inhalt und versuchen Sie es erneut.",module,Magento_Catalog
 "The product can't be saved.","Der Artikel kann nicht gespeichert werden.",module,Magento_Catalog
-"The new media gallery entry failed to save.","The new media gallery entry failed to save.",module,Magento_Catalog
-"No image with the provided ID was found. Verify the ID and try again.","No image with the provided ID was found. Verify the ID and try again.",module,Magento_Catalog
-"The product doesn't exist. Verify and try again.","The product doesn't exist. Verify and try again.",module,Magento_Catalog
-"The image doesn't exist. Verify and try again.","The image doesn't exist. Verify and try again.",module,Magento_Catalog
+"The new media gallery entry failed to save.","Der neue Mediengalerie-Eintrag konnte nicht gespeichert werden.",module,Magento_Catalog
+"No image with the provided ID was found. Verify the ID and try again.","Kein Bild mit der angegebenen ID gefunden. Überprüfen Sie die ID und versuchen Sie es erneut.",module,Magento_Catalog
+"The product doesn't exist. Verify and try again.","Das Produkt ist nicht vorhanden. Überprüfen Sie es und versuchen Sie es erneut.",module,Magento_Catalog
+"The image doesn't exist. Verify and try again.","Das Bild ist nicht vorhanden. Überprüfen Sie es und versuchen Sie es erneut.",module,Magento_Catalog
 "The image doesn't exist.","Das Bild ist nicht vorhanden.",module,Magento_Catalog
-"The image type for the file is invalid. Enter the correct image type and try again.","The image type for the file is invalid. Enter the correct image type and try again.",module,Magento_Catalog
-"The ""%1"" file couldn't be moved.","The ""%1"" file couldn't be moved.",module,Magento_Catalog
-"Can't get information about the picture: %1","Can't get information about the picture: %1",module,Magento_Catalog
-"The option type to get group instance is incorrect.","The option type to get group instance is incorrect.",module,Magento_Catalog
-"Select type options required values rows.","Select type options required values rows.",module,Magento_Catalog
+"The image type for the file is invalid. Enter the correct image type and try again.","Der Bildtyp für die Datei ist ungültig. Geben Sie den korrekten Bildtyp ein und versuchen Sie es erneut.",module,Magento_Catalog
+"The ""%1"" file couldn't be moved.","Die ""%1"" Datei konnte nicht verschoben werden.",module,Magento_Catalog
+"Can't get information about the picture: %1","Keine Informationen über das Bild erhältlich: %1",module,Magento_Catalog
+"The option type to get group instance is incorrect.","Der Optionstyp um eine Gruppeninstanz zu bekommen ist falsch.",module,Magento_Catalog
+"Select type options required values rows.","Typenoptionen für benötigte Wertezeilen auswählen.",module,Magento_Catalog
 "The ProductSku is empty. Set the ProductSku and try again.","Die Product Sku ist leer. Legen Sie die Product Sku und versuchen Sie es erneut.",module,Magento_Catalog
-"The custom option couldn't be removed.","The custom option couldn't be removed.",module,Magento_Catalog
+"The custom option couldn't be removed.","Die benutzerdefinierte Option konnte nicht entfernt werden.",module,Magento_Catalog
 "Please specify date required option(s).","Bitte geben Sie die Datums Option(en) ein.",module,Magento_Catalog
 "Please specify time required option(s).","Bitte geben Sie die Zeit Option(en) ein.",module,Magento_Catalog
 "The product's required option(s) weren't entered. Make sure the options are entered and try again.","The product's required option(s) weren't entered. Make sure the options are entered and try again.",module,Magento_Catalog
@@ -1859,10 +1859,10 @@ Bitte überprüfe diesen Vorgangs-bericht und versuche es nochmal.",module,Magen
 "File '%1' is not an image.","Datei '%1' ist kein Bild.",module,Magento_Catalog
 "The validation failed. Make sure the required options are entered and the file is uploaded, then try again.","The validation failed. Make sure the required options are entered and the file is uploaded, then try again.",module,Magento_Catalog
 "The file was too big and couldn't be uploaded. Use a file smaller than %1 MBs and try to upload again.","The file was too big and couldn't be uploaded. Use a file smaller than %1 MBs and try to upload again.",module,Magento_Catalog
-"The required option wasn't entered. Enter the option and try again.","The required option wasn't entered. Enter the option and try again.",module,Magento_Catalog
-"The file is empty. Select another file and try again.","The file is empty. Select another file and try again.",module,Magento_Catalog
+"The required option wasn't entered. Enter the option and try again.","Die erforderliche Option wurde nicht eingegeben. Geben Sie die Option an und versuchen Sie es erneut.",module,Magento_Catalog
+"The file is empty. Select another file and try again.","Die Datei ist leer. Wählen Sie eine andere Datei und versuchen Sie es erneut.",module,Magento_Catalog
 "Some of the selected item options are not currently available.","Einige der ausgewählten Elementoptionen sind nicht verfügbar.",module,Magento_Catalog
-"The text is too long. Shorten the text and try again.","The text is too long. Shorten the text and try again.",module,Magento_Catalog
+"The text is too long. Shorten the text and try again.","Der Text ist zu lang. Kürzen Sie den Text und versuchen Sie es erneut.",module,Magento_Catalog
 "Invalid attribute %fieldName = %fieldValue.","Ungültiges Attribut %fieldName = %fieldValue.",module,Magento_Catalog
 "Requested store is not found. Row ID: SKU = %SKU, Store ID: %storeId.","Requested store is not found. Row ID: SKU = %SKU, Store ID: %storeId.",module,Magento_Catalog
 "Invalid attribute Cost = %cost. Row ID: SKU = %SKU, Store ID: %storeId.","Invalid attribute Cost = %cost. Row ID: SKU = %SKU, Store ID: %storeId.",module,Magento_Catalog
@@ -2428,7 +2428,7 @@ Bitte überprüfe diesen Vorgangs-bericht und versuche es nochmal.",module,Magen
 "In Stock","Auf Lager",module,Magento_CatalogInventory
 "Out of Stock","Nicht auf Lager",module,Magento_CatalogInventory
 "The stock item was unable to be saved. Please try again.","Der Artikelbestand konnte nicht gespeichert werden. Bitte versuchen Sie es erneut.",module,Magento_CatalogInventory
-"The stock item with the ""%1"" ID wasn't found. Verify the ID and try again.","The stock item with the ""%1"" ID wasn't found. Verify the ID and try again.",module,Magento_CatalogInventory
+"The stock item with the ""%1"" ID wasn't found. Verify the ID and try again.","Der Lagerartikel mit der ID ""%1"" wurde nicht gefunden. Überprüfen Sie die ID und versuchen Sie es erneut.",module,Magento_CatalogInventory
 "The stock was unable to be saved. Please try again.","Der Bestand konnte nicht gespeichert werden. Bitte versuchen Sie es erneut.",module,Magento_CatalogInventory
 "The stock with the ""%1"" ID wasn't found. Verify the ID and try again.","The stock with the ""%1"" ID wasn't found. Verify the ID and try again.",module,Magento_CatalogInventory
 "Unable to remove Stock with id ""%1""","Lagerbestand von ID ""%1"" konnte nicht gelöscht werden",module,Magento_CatalogInventory
@@ -2818,7 +2818,7 @@ Bitte überprüfe diesen Vorgangs-bericht und versuche es nochmal.",module,Magen
 "You added %1 to your shopping cart.","Sie haben %1 in Ihren Warenkorb gelegt.",module,Magento_Checkout
 "We can't add this item to your shopping cart right now.","Der Artikel konnte nicht in Ihren Warenkorb gelegt werden.",module,Magento_Checkout
 "Out of stock","Nicht lieferbar",module,Magento_Checkout
-"The quote item isn't found. Verify the item and try again.","The quote item isn't found. Verify the item and try again.",module,Magento_Checkout
+"The quote item isn't found. Verify the item and try again.","Die Angebotsposition wurde nicht gefunden. Überprüfen Sie die Position und versuchen Sie es erneut.",module,Magento_Checkout
 "We cannot configure the product.","Wir können das Produkt nicht konfigurieren.",module,Magento_Checkout
 "You used coupon code ""%1"".","Sie haben den Gutschein-Code ""%1"" verwendet.",module,Magento_Checkout
 "The coupon code ""%1"" is not valid.","Der Gutschein-Code ""%1"" ist ungültig.",module,Magento_Checkout
@@ -2832,12 +2832,12 @@ Bitte überprüfe diesen Vorgangs-bericht und versuche es nochmal.",module,Magen
 "Guest checkout is disabled.","Gastbestellungen sind nicht erlaubt.",module,Magento_Checkout
 "Checkout","Kasse",module,Magento_Checkout
 "Page not found.","Seite nicht gefunden.",module,Magento_Checkout
-"The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.","The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.",module,Magento_Checkout
+"The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.","Die Bestellung wurde nicht erstellt. Bitte stimmen Sie erst den allgemeinen Geschäftsbedingungen zu und versuchen Sie es dann erneut.",module,Magento_Checkout
 "Something went wrong while processing your order. Please try again later.","Etwas ist bei der Abwicklung Ihrer Bestellung schief gegangen. Bitte versuchen Sie es später erneut.",module,Magento_Checkout
 "%1 doesn't extend \Magento\Checkout\CustomerData\ItemInterface","%1 erweitert nicht \Magento\Checkout\CustomerData\ItemInterface",module,Magento_Checkout
 "Payment Method","Payment Method",module,Magento_Checkout
 "Payment Page","Zahlungsseite",module,Magento_Checkout
-"The product wasn't found. Verify the product and try again.","The product wasn't found. Verify the product and try again.",module,Magento_Checkout
+"The product wasn't found. Verify the product and try again.","Das Produkt wurde nicht gefunden. Überprüfen Sie das Produkt und versuchen Sie es erneut.",module,Magento_Checkout
 "We found an invalid request for adding product to quote.","Es wurde eine ungültige Anforderung zum Hinzufügen eines Produkts zum Angebot gefunden.",module,Magento_Checkout
 "The product does not exist.","Der Artikel existiert nicht.",module,Magento_Checkout
 "We don't have some of the products you want.","Wir haben einige der Produkte, die Sie wollen nicht.",module,Magento_Checkout
@@ -2848,11 +2848,12 @@ Bitte überprüfe diesen Vorgangs-bericht und versuche es nochmal.",module,Magen
 "Display number of items in cart","Zeige Anzahl der Produkte im Warenkorb",module,Magento_Checkout
 "Display item quantities","Zeige Artikelanzahl",module,Magento_Checkout
 "An error occurred on the server. Please try to place the order again.","Ein Serverfehler ist aufgetreten. Bitte geben Sie die Bestellung erneut auf.",module,Magento_Checkout
-"A server error stopped your order from being placed. Please try to place your order again.","A server error stopped your order from being placed. Please try to place your order again.",module,Magento_Checkout
-"The shipping address is missing. Set the address and try again.","The shipping address is missing. Set the address and try again.",module,Magento_Checkout
-"The shipping information was unable to be saved. Verify the input data and try again.","The shipping information was unable to be saved. Verify the input data and try again.",module,Magento_Checkout
+"A server error stopped your order from being placed. Please try to place your order again.","Ein Serverfehler verhindert, dass Ihre Bestellung erstellt werden kann.
+Bitte versuchen Sie die Bestellung nochmal abzuschließen.",module,Magento_Checkout
+"The shipping address is missing. Set the address and try again.","Die Lieferadresse ist nicht vorhanden. Geben Sie die Adresse ein und versuchen Sie es erneut.",module,Magento_Checkout
+"The shipping information was unable to be saved. Verify the input data and try again.","Die Versandinformation konnte nicht gespeichert werden. Bitte überprüfen Sie die eingegebenen Daten und versuchen Sie es erneut.",module,Magento_Checkout
 "Carrier with such method not found: %1, %2","Ein Versand mit der Methode %1,%2 konnte nicht gefunden werden",module,Magento_Checkout
-"The shipping method can't be set for an empty cart. Add an item to cart and try again.","The shipping method can't be set for an empty cart. Add an item to cart and try again.",module,Magento_Checkout
+"The shipping method can't be set for an empty cart. Add an item to cart and try again.","Die Versandart kann nicht für einen leeren Warenkorb festgelegt werden. Bitte fügen Sie ein Produkt zum Warenkorb hinzu und versuchen Sie es erneut.",module,Magento_Checkout
 "item","Artikel",module,Magento_Checkout
 "items","Artikel",module,Magento_Checkout
 "Totals calculation is not applicable to empty cart","Summenberechnung gilt nicht für leeren Warenkorb",module,Magento_Checkout
@@ -2951,7 +2952,7 @@ Bitte überprüfe diesen Vorgangs-bericht und versuche es nochmal.",module,Magen
 "Select a new payment method","Neue Zahlungsart auswählen",module,Magento_Checkout
 "Shipping","Versand",module,Magento_Checkout
 "Save Address","Adresse speichern",module,Magento_Checkout
-"The shipping method is missing. Select the shipping method and try again.","The shipping method is missing. Select the shipping method and try again.",module,Magento_Checkout
+"The shipping method is missing. Select the shipping method and try again.","Die Versandart fehlt. Bitte wählen Sie die Versandart und versuchen Sie es erneut.",module,Magento_Checkout
 "Checkout Options","Checkout-Optionen",module,Magento_Checkout
 "Enable Onepage Checkout","Onepage Bezahlung aktivieren",module,Magento_Checkout
 "Allow Guest Checkout","Gastbestellung aktivieren",module,Magento_Checkout
@@ -2960,7 +2961,7 @@ Bitte überprüfe diesen Vorgangs-bericht und versuche es nochmal.",module,Magen
 "Quote Lifetime (days)","Gültigkeit der Preise im Warenkorb (in Tagen)",module,Magento_Checkout
 "After Adding a Product Redirect to Shopping Cart","Nach Hinzufügen eines Artikels zum Warenkorb weiterleiten",module,Magento_Checkout
 "Number of Items to Display Pager","Anzahl der Elemente zum Anzeigen der Pager",module,Magento_Checkout
-"Show Cross-sell Items in the Shopping Cart","Show Cross-sell Items in the Shopping Cart",module,Magento_Checkout
+"Show Cross-sell Items in the Shopping Cart","Cross-Selling-Artikel im Warenkorb anzeigen",module,Magento_Checkout
 "My Cart Link","Link zu meinem Warenkorb",module,Magento_Checkout
 "Display Cart Summary","Warenkorbzusammenfassung anzeigen",module,Magento_Checkout
 "Shopping Cart Sidebar","Warenkorb-Sidebar",module,Magento_Checkout
@@ -3246,12 +3247,12 @@ Bitte überprüfe diesen Vorgangs-bericht und versuche es nochmal.",module,Magen
 "Save & Close","Speichern & Schließen",module,Magento_Company
 "Companies","Firmen",module,Magento_Company
 "Add New Company","Neue Firma hinzufügen",module,Magento_Company
-"(me)","(me)",module,Magento_Company
+"(me)","(ich)",module,Magento_Company
 "Company Name:","Firmenname:",module,Magento_Company
-"Company Legal Name:","Company Legal Name:",module,Magento_Company
+"Company Legal Name:","Rechtlicher Name des Unternehmens:",module,Magento_Company
 "Company Email:","Firmen-E-Mail:",module,Magento_Company
 "VAT/TAX ID:","USt.-ID:",module,Magento_Company
-"Re-seller ID:","Re-seller ID:",module,Magento_Company
+"Re-seller ID:","Reseller-ID:",module,Magento_Company
 "Street Address:","Straße:",module,Magento_Company
 "City:","Stadt:",module,Magento_Company
 "Country:","Land:",module,Magento_Company
@@ -3260,7 +3261,7 @@ Bitte überprüfe diesen Vorgangs-bericht und versuche es nochmal.",module,Magen
 "Phone Number:","Telefonnummer:",module,Magento_Company
 "Job Title:","Job-Titel:",module,Magento_Company
 "Email Address:","E-Mail-Adresse:",module,Magento_Company
-"Prefix:","Prefix:",module,Magento_Company
+"Prefix:","Präfix:",module,Magento_Company
 "First Name:","Vorname:",module,Magento_Company
 "Middle Name/Initial:","Middle Name/Initial:",module,Magento_Company
 "Last Name:","Nachname:",module,Magento_Company
@@ -3271,59 +3272,59 @@ Bitte überprüfe diesen Vorgangs-bericht und versuche es nochmal.",module,Magen
 "Page not found.","Seite nicht gefunden.",module,Magento_Company
 "Something went wrong.","Es ist ein Fehler aufgetreten.",module,Magento_Company
 "New Company","Neue Firma",module,Magento_Company
-"Thank you! We're reviewing your request and will contact you soon","Thank you! We're reviewing your request and will contact you soon",module,Magento_Company
-"An error occurred on the server. Your changes have not been saved.","An error occurred on the server. Your changes have not been saved.",module,Magento_Company
+"Thank you! We're reviewing your request and will contact you soon","Danke! Wir prüfen Ihre Anfrage und werden Sie in Kürze kontaktierern",module,Magento_Company
+"An error occurred on the server. Your changes have not been saved.","Auf dem Server ist ein Fehler aufgetreten. Ihre Änderungen wurden nicht gespeichert.",module,Magento_Company
 "Incorrect CAPTCHA","Falsches CAPTCHA",module,Magento_Company
 "Create New Company","Neue Firma erstellen",module,Magento_Company
 "A total of %1 record(s) were updated.","Insgesamt wurden %1 Einträge aktualisiert.",module,Magento_Company
 "Something went wrong. Please try again later.","Es ist ein Fehler aufgetreten. Bitte versuchen Sie es später erneut.",module,Magento_Company
-"Invalid value of ""%value"" provided for the email field.","Invalid value of ""%value"" provided for the email field.",module,Magento_Company
-"Invalid value ""%value"" given for the website ID field.","Invalid value ""%value"" given for the website ID field.",module,Magento_Company
-"You have deleted company %companyName.","You have deleted company %companyName.",module,Magento_Company
+"Invalid value of ""%value"" provided for the email field.","Ungültiger Wert für ""%value"" im E-Mail-Feld.",module,Magento_Company
+"Invalid value ""%value"" given for the website ID field.","Ungültiger Wert ""%value"" im Website-ID-Feld angegeben.",module,Magento_Company
+"You have deleted company %companyName.","Sie haben die Firma %companyName gelöscht.",module,Magento_Company
 "The company no longer exists.","Diese Firma existiert nicht mehr.",module,Magento_Company
 "The requested company is not found","Die angeforderte Firma wurde nicht gefunden",module,Magento_Company
-"Please correct the data sent.","Please correct the data sent.",module,Magento_Company
-"can not be saved","can not be saved",module,Magento_Company
-"A total of %1 record(s) were deleted.","A total of %1 record(s) were deleted.",module,Magento_Company
+"Please correct the data sent.","Bitte korrigieren Sie die gesendeten Daten.",module,Magento_Company
+"can not be saved","kann nicht gespeichert werden",module,Magento_Company
+"A total of %1 record(s) were deleted.","Insgesamt wurden %1 Eintragung(en) gelöscht.",module,Magento_Company
 "Could not save company","Die Firma konnte nicht gespeichert werden",module,Magento_Company
 "You have saved company %companyName.","Sie haben die Firma %companyName gespeichert.",module,Magento_Company
 "You have created company %companyName.","Sie haben die Firma %companyName erstellt.",module,Magento_Company
-"A user with this email address already exists in the system. If you proceed, the user will be linked to your company.","A user with this email address already exists in the system. If you proceed, the user will be linked to your company.",module,Magento_Company
-"A user with this email address is already a member of your company.","A user with this email address is already a member of your company.",module,Magento_Company
-"A user with this email address already exists in the system. Enter a different email address to create this user.","A user with this email address already exists in the system. Enter a different email address to create this user.",module,Magento_Company
-"You are not allowed to do this.","You are not allowed to do this.",module,Magento_Company
-"Cannot create the customer.","Cannot create the customer.",module,Magento_Company
-"The customer was successfully created.","The customer was successfully created.",module,Magento_Company
-"You cannot delete yourself.","You cannot delete yourself.",module,Magento_Company
-"Cannot delete this user.","Cannot delete this user.",module,Magento_Company
-"The customer was successfully deleted.","The customer was successfully deleted.",module,Magento_Company
-"The customer was successfully updated.","The customer was successfully updated.",module,Magento_Company
-"Company Profile","Company Profile",module,Magento_Company
-"The changes you made on the company profile have been successfully saved.","The changes you made on the company profile have been successfully saved.",module,Magento_Company
-"You must fill in all required fields before you can continue.","You must fill in all required fields before you can continue.",module,Magento_Company
-"Bad Request","Bad Request",module,Magento_Company
-"You have deleted role %companyRoleName.","You have deleted role %companyRoleName.",module,Magento_Company
-"Add New Role","Add New Role",module,Magento_Company
-"Edit Role","Edit Role",module,Magento_Company
-"Roles and Permissions","Roles and Permissions",module,Magento_Company
-"The tree retrieved successfully.","The tree retrieved successfully.",module,Magento_Company
-"The item was successfully moved.","The item was successfully moved.",module,Magento_Company
-"The team was successfully deleted.","The team was successfully deleted.",module,Magento_Company
-"The team was successfully updated.","The team was successfully updated.",module,Magento_Company
-"The team was successfully created.","The team was successfully created.",module,Magento_Company
-"Company Users","Company Users",module,Magento_Company
-"A customer with the same email already assigned to company.","A customer with the same email already assigned to company.",module,Magento_Company
-"Active","Active",module,Magento_Company
-"Pending Approval","Pending Approval",module,Magento_Company
-"Rejected","Rejected",module,Magento_Company
-"Blocked","Blocked",module,Magento_Company
-"The company admin cannot be moved to a different location in the company structure.","The company admin cannot be moved to a different location in the company structure.",module,Magento_Company
-"A user or a team cannot be moved under itself.","A user or a team cannot be moved under itself.",module,Magento_Company
-"A user or a team cannot be moved under its child user or team.","A user or a team cannot be moved under its child user or team.",module,Magento_Company
-"The specified parent ID belongs to a different company. The specified entity (team or user) and its new parent must belong to the same company.","The specified parent ID belongs to a different company. The specified entity (team or user) and its new parent must belong to the same company.",module,Magento_Company
-"Unable to move customer structure.","Unable to move customer structure.",module,Magento_Company
-"Cannot delete company with id %1","Cannot delete company with id %1",module,Magento_Company
-"No company admin email is specified in request.","No company admin email is specified in request.",module,Magento_Company
+"A user with this email address already exists in the system. If you proceed, the user will be linked to your company.","Ein Benutzer mit dieser E-Mail-Adresse existiert bereits im System. Wenn Sie fortfahren, wird dieser Benutzer mit Ihrem Unternehmen verknüpft.",module,Magento_Company
+"A user with this email address is already a member of your company.","Ein Benutzer mit dieser E-Mail-Adresse ist bereits ein Mitglied Ihres Unternehmens.",module,Magento_Company
+"A user with this email address already exists in the system. Enter a different email address to create this user.","Ein Benutzer mit dieser E-Mail-Adresse existiert bereits im System. Bitte geben Sie eine andere E-Mail-Adresse an, um diesen Benutzer zu erstellen.",module,Magento_Company
+"You are not allowed to do this.","Sie haben keine Berechtigung, um dies zu tun.",module,Magento_Company
+"Cannot create the customer.","Kunde kann nicht erstellt werden.",module,Magento_Company
+"The customer was successfully created.","Der Kunde wurde erfolgreich erstellt.",module,Magento_Company
+"You cannot delete yourself.","Sie können sich nicht selbst löschen.",module,Magento_Company
+"Cannot delete this user.","Dieser Benutzer kann nicht gelöscht werden.",module,Magento_Company
+"The customer was successfully deleted.","Der Kunde wurde erfolgreich gelöscht.",module,Magento_Company
+"The customer was successfully updated.","Der Kunde wurde erfolgreich aktualisiert.",module,Magento_Company
+"Company Profile","Unternehmensprofil",module,Magento_Company
+"The changes you made on the company profile have been successfully saved.","Die Änderungen im Unternehmensprofil wurden erfolgreich gespeichert.",module,Magento_Company
+"You must fill in all required fields before you can continue.","Sie müssen alle erforderlichen Felder ausfüllen, um fortfahren zu können.",module,Magento_Company
+"Bad Request","Ungültige Anfrage",module,Magento_Company
+"You have deleted role %companyRoleName.","Sie haben die Rolle %companyRoleName gelöscht.",module,Magento_Company
+"Add New Role","Neue Rolle hinzufügen",module,Magento_Company
+"Edit Role","Rolle bearbeiten",module,Magento_Company
+"Roles and Permissions","Rollen und Berechtigungen",module,Magento_Company
+"The tree retrieved successfully.","Der Baum wurde erfolgreich abgerufen.",module,Magento_Company
+"The item was successfully moved.","Die Position wurde erfolgreich verschoben.",module,Magento_Company
+"The team was successfully deleted.","Das Team wurde erfolgreich gelöscht.",module,Magento_Company
+"The team was successfully updated.","Das Team wurde erfolgreich aktualisiert.",module,Magento_Company
+"The team was successfully created.","Das Team wurde erfolgreich erstellt.",module,Magento_Company
+"Company Users","Unternehmensbenutzer",module,Magento_Company
+"A customer with the same email already assigned to company.","Ein Kunde mit der gleichen E-Mail-Adresse ist dieser Firma bereits zugeordnet.",module,Magento_Company
+"Active","Aktiv",module,Magento_Company
+"Pending Approval","Genehmigung ausstehend",module,Magento_Company
+"Rejected","Abgelehnt",module,Magento_Company
+"Blocked","Gesperrt",module,Magento_Company
+"The company admin cannot be moved to a different location in the company structure.","Der Administrator des Unternehmens kann nicht an einen anderen Ort in der Unternehmensstruktur verschoben werden.",module,Magento_Company
+"A user or a team cannot be moved under itself.","Ein Benutzer oder Team kann nicht unter sich selbst verschoben werden.",module,Magento_Company
+"A user or a team cannot be moved under its child user or team.","Ein Benutzer oder Team kann nicht unter seine untergeordneten Benutzer oder Team verschoben werden.",module,Magento_Company
+"The specified parent ID belongs to a different company. The specified entity (team or user) and its new parent must belong to the same company.","Die angegebene übergeordnete ID gehört zu einem anderen Unternehmen. Die angegebene Einheit (Team oder Benutzer) und die neue übergeordnete Einheit müssen zum selben Unternehmen gehören.",module,Magento_Company
+"Unable to move customer structure.","Kundenstruktur konnte nicht verschoben werden.",module,Magento_Company
+"Cannot delete company with id %1","Unternehmen mit der ID %1 kann nicht gelöscht werden",module,Magento_Company
+"No company admin email is specified in request.","In der Anfrage ist keine Unternehmens-E-Mail-Adresse angegeben.",module,Magento_Company
 "No company admin website ID is specified in request.","No company admin website ID is specified in request.",module,Magento_Company
 "No such entity with id = %idValue","No such entity with id = %idValue",module,Magento_Company
 "The user %1 is the company admin and cannot be set to inactive. You must set another user as the company admin first.","The user %1 is the company admin and cannot be set to inactive. You must set another user as the company admin first.",module,Magento_Company
@@ -3378,56 +3379,56 @@ Bitte überprüfe diesen Vorgangs-bericht und versuche es nochmal.",module,Magen
 "Role Name","Role Name",module,Magento_Company
 "Role Name 15","Role Name 15",module,Magento_Company
 "Edit","Edit",module,Magento_Company
-"Delete","Delete",module,Magento_Company
-"Duplicate","Duplicate",module,Magento_Company
-"Company Name","Company Name",module,Magento_Company
-"Customer Type:","Customer Type:",module,Magento_Company
-"Company:","Company:",module,Magento_Company
-"Company Information","Company Information",module,Magento_Company
-"Company Legal Name","Company Legal Name",module,Magento_Company
-"Company Email","Company Email",module,Magento_Company
-"VAT/TAX ID","VAT/TAX ID",module,Magento_Company
-"Re-seller ID","Re-seller ID",module,Magento_Company
-"Legal Address","Legal Address",module,Magento_Company
-"Street Address","Street Address",module,Magento_Company
-"City","City",module,Magento_Company
-"Country","Country",module,Magento_Company
-"State/Province","State/Province",module,Magento_Company
-"Please select a region, state or province.","Please select a region, state or province.",module,Magento_Company
-"ZIP/Postal Code","ZIP/Postal Code",module,Magento_Company
-"Phone Number","Phone Number",module,Magento_Company
+"Delete","Löschen",module,Magento_Company
+"Duplicate","Kopieren",module,Magento_Company
+"Company Name","Firmenname",module,Magento_Company
+"Customer Type:","Kundentyp:",module,Magento_Company
+"Company:","Firma:",module,Magento_Company
+"Company Information","Unternehmensinformation",module,Magento_Company
+"Company Legal Name","Rechtlicher Name des Unternehmens",module,Magento_Company
+"Company Email","Firmen-E-Mail",module,Magento_Company
+"VAT/TAX ID","USt.-ID",module,Magento_Company
+"Re-seller ID","Reseller-ID",module,Magento_Company
+"Legal Address","Meldeadresse",module,Magento_Company
+"Street Address","Straße",module,Magento_Company
+"City","Stadt",module,Magento_Company
+"Country","Land",module,Magento_Company
+"State/Province","Bundesland",module,Magento_Company
+"Please select a region, state or province.","Wählen Sie eine Region, Bundesland oder Provinz.",module,Magento_Company
+"ZIP/Postal Code","Postleitzahl",module,Magento_Company
+"Phone Number","Telefonnummer",module,Magento_Company
 "Company Administrator","Company Administrator",module,Magento_Company
-"Job Title","Job Title",module,Magento_Company
-"Email","Email",module,Magento_Company
-"Submit","Submit",module,Magento_Company
-"New Company Account","New Company Account",module,Magento_Company
+"Job Title","Job-Titel",module,Magento_Company
+"Email","E-Mail",module,Magento_Company
+"Submit","Absenden",module,Magento_Company
+"New Company Account","Neues Unternehmenskonto",module,Magento_Company
 "If you represent a company, you will want to use our company account area. Creating a company account provides all company members with access to B2B features like quoting, company users management, quick order, and more.","If you represent a company, you will want to use our company account area. Creating a company account provides all company members with access to B2B features like quoting, company users management, quick order, and more.",module,Magento_Company
-"Create a Company Account","Create a Company Account",module,Magento_Company
-"Business Structure","Business Structure",module,Magento_Company
-"Expand All","Expand All",module,Magento_Company
-"Collapse All","Collapse All",module,Magento_Company
-"Add User","Add User",module,Magento_Company
-"Add Team","Add Team",module,Magento_Company
-"Edit Selected","Edit Selected",module,Magento_Company
-"Delete Selected","Delete Selected",module,Magento_Company
-"Error","Error",module,Magento_Company
-"User Role","User Role",module,Magento_Company
-"First Name","First Name",module,Magento_Company
-"Last Name","Last Name",module,Magento_Company
+"Create a Company Account","Unternehmenskonto erstellen",module,Magento_Company
+"Business Structure","Unternehmensstruktur",module,Magento_Company
+"Expand All","Alle aufklappen",module,Magento_Company
+"Collapse All","Alle zuklappen",module,Magento_Company
+"Add User","Benutzer hinzufügen",module,Magento_Company
+"Add Team","Team hinzufügen",module,Magento_Company
+"Edit Selected","Auswahl bearbeiten",module,Magento_Company
+"Delete Selected","Auswahl löschen",module,Magento_Company
+"Error","Fehler",module,Magento_Company
+"User Role","Benutzerrolle",module,Magento_Company
+"First Name","Vorname",module,Magento_Company
+"Last Name","Nachname",module,Magento_Company
 "Status","Status",module,Magento_Company
-"Team Title","Team Title",module,Magento_Company
-"Description","Description",module,Magento_Company
-"You don't have a company account yet.","You don't have a company account yet.",module,Magento_Company
-"Account Information","Account Information",module,Magento_Company
-"VAT/TAX ID:","VAT/TAX ID:",module,Magento_Company
-"Re-seller ID:","Re-seller ID:",module,Magento_Company
-"You have no other address entries in your address book.","You have no other address entries in your address book.",module,Magento_Company
+"Team Title","Titel des Teams",module,Magento_Company
+"Description","Beschreibung",module,Magento_Company
+"You don't have a company account yet.","Sie haben noch kein Unternehmenskonto.",module,Magento_Company
+"Account Information","Kontoinformation",module,Magento_Company
+"VAT/TAX ID:","USt.-ID:",module,Magento_Company
+"Re-seller ID:","Reseller-ID:",module,Magento_Company
+"You have no other address entries in your address book.","Sie haben keine andere Adresseinträgen in Ihrem Adressbuch.",module,Magento_Company
 "T: %1","T: %1",module,Magento_Company
-"Contacts","Contacts",module,Magento_Company
-"Sales Representative","Sales Representative",module,Magento_Company
-"Your company account is blocked and you cannot place orders. If you have questions, please contact your company administrator.","Your company account is blocked and you cannot place orders. If you have questions, please contact your company administrator.",module,Magento_Company
-"Role Information","Role Information",module,Magento_Company
-"Role Permissions","Role Permissions",module,Magento_Company
+"Contacts","Kontakte",module,Magento_Company
+"Sales Representative","Vertriebsmitarbeiter",module,Magento_Company
+"Your company account is blocked and you cannot place orders. If you have questions, please contact your company administrator.","Ihr Unternehmenskonto ist gesperrt und Sie können keine Bestellungen aufgeben. Wenn Sie Fragen haben, kontaktieren Sie bitte den Administrator Ihres Unternehmens.",module,Magento_Company
+"Role Information","Rolleninformationen",module,Magento_Company
+"Role Permissions","Rollenberechtigungen",module,Magento_Company
 "Save Role","Save Role",module,Magento_Company
 "Add New User","Add New User",module,Magento_Company
 "Company","Company",module,Magento_Company
@@ -3502,24 +3503,24 @@ Bitte überprüfe diesen Vorgangs-bericht und versuche es nochmal.",module,Magen
 "Popup title","Popup title",module,Magento_Company
 "Cannot delete the user","Cannot delete the user",module,Magento_Company
 "This user cannot be deleted because he/she is a company admin.","This user cannot be deleted because he/she is a company admin.",module,Magento_Company
-"Edit User","Edit User",module,Magento_Company
-"Cannot Delete User","Cannot Delete User",module,Magento_Company
-"Delete this user?","Delete this user?",module,Magento_Company
-"This action cannot be undone. Are you sure you want to delete this user?","This action cannot be undone. Are you sure you want to delete this user?",module,Magento_Company
-"Edit Team","Edit Team",module,Magento_Company
-"Cannot Delete This Team","Cannot Delete This Team",module,Magento_Company
-"Delete this team?","Delete this team?",module,Magento_Company
-"This action cannot be undone. Are you sure you want to delete this team?","This action cannot be undone. Are you sure you want to delete this team?",module,Magento_Company
-"Delete This Role?","Delete This Role?",module,Magento_Company
-"This action cannot be undone. Are you sure you want to delete this role?","This action cannot be undone. Are you sure you want to delete this role?",module,Magento_Company
-"Cannot Delete Role","Cannot Delete Role",module,Magento_Company
-"Cannot Delete Customer","Cannot Delete Customer",module,Magento_Company
-"Set Inactive","Set Inactive",module,Magento_Company
-"Select Delete to permanently delete the user account and content. User's orders and quotes are still visible for the merchant. Select Set Inactive to temporarily lock the user. The user’s content is still available to parent users.","Select Delete to permanently delete the user account and content. User's orders and quotes are still visible for the merchant. Select Set Inactive to temporarily lock the user. The user’s content is still available to parent users.",module,Magento_Company
-"User with this email already exists in the system. Enter a different email address to continue. If you want to use your current account as an administrator account, please contact the seller.","User with this email already exists in the system. Enter a different email address to continue. If you want to use your current account as an administrator account, please contact the seller.",module,Magento_Company
-"Enable Company","Enable Company",module,Magento_Company
-"Company Configuration","Company Configuration",module,Magento_Company
-"General","General",module,Magento_Company
+"Edit User","Benutzer bearbeiten",module,Magento_Company
+"Cannot Delete User","Nutzer kann nicht gelöscht werden",module,Magento_Company
+"Delete this user?","Diesen Benutzer löschen?",module,Magento_Company
+"This action cannot be undone. Are you sure you want to delete this user?","Diese Aktion kann nicht rückgängig gemacht werden. Sind Sie sicher, dass Sie diesen Benutzer löschen möchten?",module,Magento_Company
+"Edit Team","Team bearbeiten",module,Magento_Company
+"Cannot Delete This Team","Dieses Team kann nicht gelöscht werden",module,Magento_Company
+"Delete this team?","Dieses Team löschen?",module,Magento_Company
+"This action cannot be undone. Are you sure you want to delete this team?","Diese Aktion kann nicht rückgängig gemacht werden. Sind Sie sicher, dass Sie dieses Team löschen möchten?",module,Magento_Company
+"Delete This Role?","Diese Rolle löschen?",module,Magento_Company
+"This action cannot be undone. Are you sure you want to delete this role?","Diese Aktion kann nicht rückgängig gemacht werden. Sind Sie sicher, dass Sie diese Rolle löschen möchten?",module,Magento_Company
+"Cannot Delete Role","Rolle kann nicht gelöscht werden",module,Magento_Company
+"Cannot Delete Customer","Kunde kann nicht gelöscht werden",module,Magento_Company
+"Set Inactive","Inaktiv setzen",module,Magento_Company
+"Select Delete to permanently delete the user account and content. User's orders and quotes are still visible for the merchant. Select Set Inactive to temporarily lock the user. The user’s content is still available to parent users.","Wählen Sie Löschen, um das Benutzerkonto samt Inhalt dauerhaft zu löschen. Des Benutzers Bestellungen und Angebote sind für den Händler weiterhin sichtbar. Wählen Sie Inaktiv setzen, um den Benutzer vorübergehend zu sperren. Die Nutzerinhalte stehen den übergeordneten Benutzern weiter zur Verfügung.",module,Magento_Company
+"User with this email already exists in the system. Enter a different email address to continue. If you want to use your current account as an administrator account, please contact the seller.","Benutzer mit dieser E-Mail-Adresse existiert bereits im System. Geben Sie eine andere E-Mail-Adresse ein um weiterzumachen. Wenn Sie Ihr aktuelles Konto als ein Administratorkonto verwenden möchten, kontaktieren Sie den Verkäufer.",module,Magento_Company
+"Enable Company","Unternehmen freischalten",module,Magento_Company
+"Company Configuration","Unternehmenskonfiguration",module,Magento_Company
+"General","Allgemein",module,Magento_Company
 "Allow Company Registration from the Storefront","Allow Company Registration from the Storefront",module,Magento_Company
 "Email Options - Company Registration","Email Options - Company Registration",module,Magento_Company
 "Company Registration Email Recipient","Company Registration Email Recipient",module,Magento_Company
@@ -3742,20 +3743,20 @@ Bitte überprüfe diesen Vorgangs-bericht und versuche es nochmal.",module,Magen
 "Purchase Order","Purchase Order",module,Magento_CompanyCredit
 "You will be charged for","You will be charged for",module,Magento_CompanyCredit
 "Order Total","Order Total",module,Magento_CompanyCredit
-"All Payment Methods","All Payment Methods",module,Magento_CompanyPayment
-"Specific Payment Methods","Specific Payment Methods",module,Magento_CompanyPayment
-"B2B Payment Methods","B2B Payment Methods",module,Magento_CompanyPayment
-"All Enabled Payment Methods","All Enabled Payment Methods",module,Magento_CompanyPayment
-"(disabled)","(disabled)",module,Magento_CompanyPayment
-"Payment Information","Payment Information",module,Magento_CompanyPayment
-"Available Payment Methods","Available Payment Methods",module,Magento_CompanyPayment
-"This company has no payment methods. Please contact store administrator.","This company has no payment methods. Please contact store administrator.",module,Magento_CompanyPayment
-"Default B2B Payment Methods","Default B2B Payment Methods",module,Magento_CompanyPayment
-"Applicable Payment Methods","Applicable Payment Methods",module,Magento_CompanyPayment
-"Payment Methods","Payment Methods",module,Magento_CompanyPayment
-"By default, the selected payment methods are available for all new companies. If your Magento site has multiple websites, on a specific website the buyer will be able to pay with the methods available for that website only.","By default, the selected payment methods are available for all new companies. If your Magento site has multiple websites, on a specific website the buyer will be able to pay with the methods available for that website only.",module,Magento_CompanyPayment
-"Payment Information (View)","Payment Information (View)",module,Magento_CompanyPayment
-"Use config settings","Use config settings",module,Magento_CompanyPayment
+"All Payment Methods","Alle Zahlungsarten",module,Magento_CompanyPayment
+"Specific Payment Methods","Spezielle Zahlungsarten",module,Magento_CompanyPayment
+"B2B Payment Methods","B2B Zahlungsarten",module,Magento_CompanyPayment
+"All Enabled Payment Methods","Alle aktivierten Zahlungsarten",module,Magento_CompanyPayment
+"(disabled)","(deaktiviert)",module,Magento_CompanyPayment
+"Payment Information","Zahlungsinformation",module,Magento_CompanyPayment
+"Available Payment Methods","Verfügbare Zahlungsarten",module,Magento_CompanyPayment
+"This company has no payment methods. Please contact store administrator.","Diese Firma hat keine Zahlungsarten. Bitte kontaktieren Sie den Store-Administrator.",module,Magento_CompanyPayment
+"Default B2B Payment Methods","Standard B2B Zahlungsarten",module,Magento_CompanyPayment
+"Applicable Payment Methods","Verfügbare Zahlungsarten",module,Magento_CompanyPayment
+"Payment Methods","Zahlungsarten",module,Magento_CompanyPayment
+"By default, the selected payment methods are available for all new companies. If your Magento site has multiple websites, on a specific website the buyer will be able to pay with the methods available for that website only.","Standardmäßig stehen die ausgewählten Zahlungsarten für alle neuen Unternehmen zur Verfügung. Wenn Ihr Magento-Shop mehrere Websites hat, kann ein Käufer nur jene Zahlungsarten nutzen, die für die entsprechende Website hinterlegt sind.",module,Magento_CompanyPayment
+"Payment Information (View)","Zahlungsinformation (Ansehen)",module,Magento_CompanyPayment
+"Use config settings","Konfigurationseinstellungen verwenden",module,Magento_CompanyPayment
 "Default Config","Standardkonfiguration",module,Magento_Config
 "Save Config","Konfiguration speichern",module,Magento_Config
 "[GLOBAL]","[GLOBAL]",module,Magento_Config
@@ -5327,9 +5328,9 @@ Bitte überprüfe diesen Vorgangs-bericht und versuche es nochmal.",module,Magen
 "Order id cannot be null","Bestellnummer darf nicht null sein",module,Magento_Downloadable
 "Order item id cannot be null","Die ID des Bestellelements darf nicht 0 sein",module,Magento_Downloadable
 "The product needs to be the downloadable type. Verify the product and try again.","The product needs to be the downloadable type. Verify the product and try again.",module,Magento_Downloadable
-"The link information is invalid. Verify the link and try again.","The link information is invalid. Verify the link and try again.",module,Magento_Downloadable
-"The link type is invalid. Verify and try again.","The link type is invalid. Verify and try again.",module,Magento_Downloadable
-"The link title is empty. Enter the link title and try again.","The link title is empty. Enter the link title and try again.",module,Magento_Downloadable
+"The link information is invalid. Verify the link and try again.","Die Linkinformation ist ungültig. Überprüfen Sie den Link und versuchen Sie es erneut.",module,Magento_Downloadable
+"The link type is invalid. Verify and try again.","Der Linktyp ist ungültig. Überprüfen Sie ihn und versuchen Sie es erneut.",module,Magento_Downloadable
+"The link title is empty. Enter the link title and try again.","Der Linktitel ist leer. Geben Sie den Linktitel ein und versuchen Sie es erneut.",module,Magento_Downloadable
 "No downloadable link with the provided ID was found. Verify the ID and try again.","No downloadable link with the provided ID was found. Verify the ID and try again.",module,Magento_Downloadable
 "The downloadable link isn't related to the product. Verify the link and try again.","The downloadable link isn't related to the product. Verify the link and try again.",module,Magento_Downloadable
 "The link with ""%1"" ID can't be deleted.","The link with ""%1"" ID can't be deleted.",module,Magento_Downloadable
