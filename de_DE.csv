@@ -4288,7 +4288,7 @@ Bitte versuchen Sie die Bestellung nochmal abzuschließen.",module,Magento_Check
 "The email address is incorrect. Verify the email address and try again.","The email address is incorrect. Verify the email address and try again.",module,Magento_Customer
 "We're unable to send the password reset email.","Die E-Mail zum Zurücksetzen des Passworts konnte nicht gesendet werden.",module,Magento_Customer
 "Please enter your email.","Bitte geben Sie Ihre E-Mail Adresse ein.",module,Magento_Customer
-"If there is an account associated with %1 you will receive an email with a link to reset your password.","Wenn ein Kundenkonto mit %1 verknüpft ist, erhalten Sie per e-Mail einen Link zum Zurücksetzen Ihres Passworts.",module,Magento_Customer
+"If there is an account associated with %1 you will receive an email with a link to reset your password.","Wenn ein Kundenkonto mit %1 verknüpft ist, erhalten Sie per E-Mail einen Link zum Zurücksetzen Ihres Passworts.",module,Magento_Customer
 "This account is not confirmed. <a href=""%1"">Click here</a> to resend confirmation email.","Dieses Kundenkonto wurde noch nicht bestätigt. "" ""<a href=""%1""> Klicken Sie hier</a>, um die Bestätigungs-Email erneut zu senden.",module,Magento_Customer
 "An unspecified error occurred. Please contact us for assistance.","Ein unbekannter Fehler ist aufgetreten. Bitte kontaktieren Sie uns wenn Sie Hilfe benötigen.",module,Magento_Customer
 "A login and a password are required.","Kundenkonto und Passwort sind erforderlich.",module,Magento_Customer
@@ -4321,7 +4321,7 @@ Bitte versuchen Sie die Bestellung nochmal abzuschließen.",module,Magento_Check
 "Please correct the data sent.","Bitte korrigieren Sie die gesendeten Daten.",module,Magento_Customer
 "A total of %1 record(s) were updated.","Insgesamt wurden %1 Einträge aktualisiert.",module,Magento_Customer
 "A total of %1 record(s) were deleted.","Insgesamt wurden %1 Einträge gelöscht.",module,Magento_Customer
-"The customer will receive an email with a link to reset password.","Der Kunde erhält eine e-Mail mit einem Link um sein Passwort zurückzusetzen.",module,Magento_Customer
+"The customer will receive an email with a link to reset password.","Der Kunde erhält eine E-Mail mit einem Link, um sein Passwort zurückzusetzen.",module,Magento_Customer
 "Something went wrong while resetting customer password.","Irgendetwas ging schief beim Kundenkennwort zurücksetzen.",module,Magento_Customer
 "You saved the customer.","Der Kunde wurde gespeichert.",module,Magento_Customer
 "Something went wrong while saving the customer.","Beim Speichern des Kunden ging etwas schief.",module,Magento_Customer
@@ -4356,7 +4356,7 @@ Bitte versuchen Sie die Bestellung nochmal abzuschließen.",module,Magento_Check
 """%1"" is a required value.","""%1"" is a required value.",module,Magento_Customer
 "Global","Global",module,Magento_Customer
 "Per Website","Pro Website",module,Magento_Customer
-"We can't share customer accounts globally when the accounts share identical email addresses on more than one website.","Wir können Kundenkonten nicht global verwenden, wenn die Konten identische e-Mail-Adressen auf mehr als einer Website haben.",module,Magento_Customer
+"We can't share customer accounts globally when the accounts share identical email addresses on more than one website.","Wir können Kundenkonten nicht global verwenden, wenn die Konten identische E-Mail-Adressen auf mehr als einer Website haben.",module,Magento_Customer
 "Billing Address","Rechnungsadresse",module,Magento_Customer
 "Shipping Address","Lieferadresse",module,Magento_Customer
 "-- Please Select --","-- Bitte wählen --",module,Magento_Customer
@@ -4496,7 +4496,7 @@ Bitte versuchen Sie die Bestellung nochmal abzuschließen.",module,Magento_Check
 "Use as my default shipping address","Als meine Standard-Lieferadresse verwenden",module,Magento_Customer
 "Save Address","Adresse speichern",module,Magento_Customer
 "Go back","Zurück",module,Magento_Customer
-"Please enter your email below and we will send you the confirmation link.","Bitte geben Sie Ihre e-Mail Adresse ein und wir senden Ihnen die Bestätigungs-Link.",module,Magento_Customer
+"Please enter your email below and we will send you the confirmation link.","Bitte geben Sie Ihre E-Mail Adresse ein und wir senden Ihnen den Bestätigungs-Link.",module,Magento_Customer
 "Email","E-Mail",module,Magento_Customer
 "Send confirmation link","Bestätigungs-Link senden",module,Magento_Customer
 "Back to Sign In","Zurück zur Anmeldung",module,Magento_Customer
@@ -4508,10 +4508,10 @@ Bitte versuchen Sie die Bestellung nochmal abzuschließen.",module,Magento_Check
 "No Password","Kein Passwort",module,Magento_Customer
 "Confirm New Password","Neues Passwort bestätigen",module,Magento_Customer
 "Save","Speichern",module,Magento_Customer
-"Please enter your email address below to receive a password reset link.","Bitte geben Sie Ihre e-Mail-Adresse ein um einen Kennwort zurücksetzen-Link zu erhalten.",module,Magento_Customer
+"Please enter your email address below to receive a password reset link.","Bitte geben Sie Ihre E-Mail-Adresse ein, um einen &quot;Kennwort zurücksetzen&quot;-Link zu erhalten.",module,Magento_Customer
 "Reset My Password","Mein Passwort zurücksetzen",module,Magento_Customer
 "Registered Customers","Registrierte Kunden",module,Magento_Customer
-"If you have an account, sign in with your email address.","Wenn Sie ein Konto haben, melden Sie sich mit Ihrer e-Mail-Adresse.",module,Magento_Customer
+"If you have an account, sign in with your email address.","Wenn Sie ein Konto haben, melden Sie sich mit Ihrer E-Mail-Adresse an.",module,Magento_Customer
 "Password","Passwort",module,Magento_Customer
 "Forgot Your Password?","Passwort vergessen?",module,Magento_Customer
 "Subscription option","Abonnement Option",module,Magento_Customer
@@ -4545,7 +4545,7 @@ Bitte versuchen Sie die Bestellung nochmal abzuschließen.",module,Magento_Check
 "View past orders","Frühere Bestellungen anzeigen",module,Magento_Customer
 "Store alternative addresses (for shipping to multiple family members and friends)","Alternative Lieferadressen speichern (für den Versand an mehrere Familienmitglieder und Freunde)",module,Magento_Customer
 "Please confirm your %store_name account","Bitte bestätigen Sie Ihr %store_name-Konto",module,Magento_Customer
-"You must confirm your %customer_email email before you can sign in (link is only valid once):","You must confirm your %customer_email email before you can sign in (link is only valid once):",module,Magento_Customer
+"You must confirm your %customer_email email before you can sign in (link is only valid once):","Sie müssen ihre %customer_email E-Mail bestätigen, bevor Sie sich einloggen können (Der Link ist nur einmal gültig):",module,Magento_Customer
 "Confirm Your Account","Bestätigen Sie Ihr Kundenkonto",module,Magento_Customer
 "Thank you for confirming your %store_name account.","Vielen Dank für die Bestätigung Ihres %store_name Kundenkontos.",module,Magento_Customer
 "To sign in to our site and set a password, click on the <a href=""%create_password_url"">link</a>:","Um sich bei uns zu registrieren und ein Benutzerkonto anzulegen, benutzten Sie bitte folgenden <a href=""%create_password_url"">link</a>:",module,Magento_Customer
@@ -5455,7 +5455,7 @@ Bitte versuchen Sie die Bestellung nochmal abzuschließen.",module,Magento_Check
 """%1"" is an empty string.","""%1"" ist eine leere Zeichenfolge.",module,Magento_Eav
 """%1"" contains non-numeric characters.","""%1"" enthält nicht numerische Zeichen.",module,Magento_Eav
 """%1"" contains non-alphabetic characters.","""%1"" enthält nicht alphabetische Zeichen.",module,Magento_Eav
-"""%1"" is not a valid email address.","""%1"" ist keine gültige e-Mail-Adresse.",module,Magento_Eav
+"""%1"" is not a valid email address.","""%1"" ist keine gültige E-Mail-Adresse.",module,Magento_Eav
 """%1"" is not a valid hostname.","""%1"" ist kein gültiger Hostname.",module,Magento_Eav
 """%1"" uses too many characters.","""%1"" verwendet zu viele Zeichen.",module,Magento_Eav
 "'%value%' looks like an IP address, which is not an acceptable format.","'%value%' sieht wie eine IP-Adresse aus, was kein akzeptiertes Format ist.",module,Magento_Eav
@@ -11618,7 +11618,7 @@ Bitte versuchen Sie die Bestellung nochmal abzuschließen.",module,Magento_Check
 "You can't send messages more than %1 times an hour.","Der Link wurde an einen Freund versendet.",module,Magento_SendFriend
 "The link to a friend was sent.","Der Link an einen Freund wurde gesendet.",module,Magento_SendFriend
 "We found some problems with the data.","Wir haben ein paar Probleme mit den Daten gefunden.",module,Magento_SendFriend
-"Some emails were not sent.","Einige e-Mails wurden nicht gesendet.",module,Magento_SendFriend
+"Some emails were not sent.","Einige E-Mails wurden nicht gesendet.",module,Magento_SendFriend
 "You've met your limit of %1 sends in an hour.","Sie haben die Begrenzung von %1 Sendungen pro Stunde erreicht.",module,Magento_SendFriend
 "Please enter a sender name.","Bitte geben Sie den Namen des Absenders ein.",module,Magento_SendFriend
 "Invalid Sender Email","Ungültige Absender E-Mail",module,Magento_SendFriend
@@ -14087,7 +14087,7 @@ Bitte versuchen Sie die Bestellung nochmal abzuschließen.",module,Magento_Check
 "Conditions","Bedingungen",module,Magento_Widget
 "Widget ID","Widget-ID",module,Magento_Widget
 "Wish List","Wunschliste",module,Magento_Wishlist
-"Wish List Sharing","Sie haben keine Artikel auf Ihrer Wunschliste.",module,Magento_Wishlist
+"Wish List Sharing","Wunschliste Teilen",module,Magento_Wishlist
 "My Wish List","Meine Wunschliste",module,Magento_Wishlist
 "%1's Wish List","%1's Wunschliste",module,Magento_Wishlist
 "Page not found.","Seite nicht gefunden.",module,Magento_Wishlist
