@@ -26,3 +26,5 @@
 "Checkout Totals Sort Order","Reihenfolge der Bestell-Gesamtsummen",module,Magento_Sales
 "or call us at <a href=""tel:%store_phone"">%store_phone</a>","oder rufen Sie uns an unter <a href=""tel:%store_phone"">%store_phone</a>",module,Magento_Sales
 "Shipped By","Zustellung durch",module,Magento_Sales
+"Systems","Systeme",module,Magento_Catalog
+"Systems","Systeme",module,Magento_LayeredNavigation
