@@ -1,10 +1,10 @@
 All,Alle,module,Magento_AdminGws
 None,Keine,module,Magento_AdminGws
 "Allowed Scopes","Zulässige Bereiche",module,Magento_AdminGws
-"More permissions are needed to delete the ""%1"" item.","More permissions are needed to delete the ""%1"" item.",module,Magento_AdminGws
+"More permissions are needed to delete the ""%1"" item.","Weitere Berechtigungen sind erforderlich, um das Element ""%1"" zu löschen.",module,Magento_AdminGws
 "You need more permissions to apply some of the rule updates.","Sie benötigen weitere Berechtigungen, um diese Regel-Änderungen anzuwenden.",module,Magento_AdminGws
-"This entity needs to be assigned to a store view. Verify the entity assignment and try again.","This entity needs to be assigned to a store view. Verify the entity assignment and try again.",module,Magento_AdminGws
-"Orders can only be completed in an active store. Verify the store and try again.","Orders can only be completed in an active store. Verify the store and try again.",module,Magento_AdminGws
+"This entity needs to be assigned to a store view. Verify the entity assignment and try again.","Die Entität muss einer Store View zugeordnet werden. Überprüfen Sie die Zuordnung und versuchen Sie es erneut.",module,Magento_AdminGws
+"Orders can only be completed in an active store. Verify the store and try again.","Bestellungen können nur in einem aktiven Shop abgeschlossen werden. Überprüfen Sie den Shop und versuchen Sie es erneut.",module,Magento_AdminGws
 "This item needs to be assigned to a store view. Assign item and try again.","This item needs to be assigned to a store view. Assign item and try again.",module,Magento_AdminGws
 "More permissions are needed to save this item.","More permissions are needed to save this item.",module,Magento_AdminGws
 "More permissions are needed to delete this item.","More permissions are needed to delete this item.",module,Magento_AdminGws
