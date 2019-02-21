@@ -28,3 +28,10 @@
 "Shipped By","Zustellung durch",module,Magento_Sales
 "You added %1 to your <a href=""%2"">shopping cart</a>.","Sie haben %1 in Ihren <a href=""%2"">Warenkorb</a> gelegt.",module,Magento_Checkout
 "The requested qty is not available","Die gewünschte Menge ist nicht verfügbar",module,Magento_CatalogInventory
+"Proceed to Checkout","Zur Kasse",module,Magento_NegotiableQuote
+"See order and shipping status","Bestell- und Versandstatus",module,Magento_Customer
+"Track order history","Bestellhistorie",module,Magento_Customer
+"Checkout using your account","Anmelden und Bezahlen",module,Magento_Customer
+"Email Address",E-Mail-Adresse,module,Magento_Customer
+"Item in Cart","Artikel im Warenkorb",module,Magento_Checkout
+"Items in Cart","Artikel im Warenkorb",module,Magento_Checkout
