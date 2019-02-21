@@ -35,3 +35,4 @@
 "Email Address",E-Mail-Adresse,module,Magento_Customer
 "Item in Cart","Artikel im Warenkorb",module,Magento_Checkout
 "Items in Cart","Artikel im Warenkorb",module,Magento_Checkout
+"Your order number is: %1.","Ihre Bestellnummer lautet: %1.",module,Magento_InstantPurchase
