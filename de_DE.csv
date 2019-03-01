@@ -105,14 +105,14 @@ Configure,Konfigurieren,module,Magento_AdvancedCheckout
 "You must buy at least %1 of these per purchase.","Du musst mindestens %1 dieser Produkte dieser pro Einkauf kaufen.",module,Magento_AdvancedCheckout
 "Specify the product's options.","Bitte geben sie Produkt Optionen an.",module,Magento_AdvancedCheckout
 "Alert me when this item is available.","Benachrichtigen Sie mich, wenn dieser Artikel verfügbar ist.",module,Magento_AdvancedCheckout
-"This customer couldn't be found. Verify the customer and try again.","This customer couldn't be found. Verify the customer and try again.",module,Magento_AdvancedCheckout
+"This customer couldn't be found. Verify the customer and try again.","Dieser Kunde konnte nicht gefunden werden. Überprüfen Sie den Kunden und versuchen Sie es erneut.",module,Magento_AdvancedCheckout
 "Shopping cart management is disabled for this customer.","Warenkorb Verwaltung ist für diesen Kunden deaktiviert.",module,Magento_AdvancedCheckout
-"This store couldn't be found. Verify the store and try again.","This store couldn't be found. Verify the store and try again.",module,Magento_AdvancedCheckout
+"This store couldn't be found. Verify the store and try again.","Dieser Shop konnte nicht gefunden werden. Überprüfen Sie den Shop und versuchen Sie es erneut.",module,Magento_AdvancedCheckout
 Customers,Kunden,module,Magento_AdvancedCheckout
 "Shopping Cart",Warenkorb,module,Magento_AdvancedCheckout
-"An error occurred. For details, see the error log.","An error occurred. For details, see the error log.",module,Magento_AdvancedCheckout
+"An error occurred. For details, see the error log.","Ein Fehler ist aufgetreten. Für Details schauen Sie bitte in das Fehlerprotokoll.",module,Magento_AdvancedCheckout
 "You do not have access to this.","Sie haben darauf keinen Zugriff.",module,Magento_AdvancedCheckout
-"Orders can only be completed in an active store. Verify the store and try again.","Orders can only be completed in an active store. Verify the store and try again.",module,Magento_AdvancedCheckout
+"Orders can only be completed in an active store. Verify the store and try again.","Bestellungen können nur in einem aktiven Shop abgeschlossen werden. Überprüfen Sie den Shop und versuchen Sie es erneut.",module,Magento_AdvancedCheckout
 "The ordered item needs to be loaded. Load the item and try again.","The ordered item needs to be loaded. Load the item and try again.",module,Magento_AdvancedCheckout
 "The quote item ID needs to be received. Set the ID and try again.","The quote item ID needs to be received. Set the ID and try again.",module,Magento_AdvancedCheckout
 "The quote item needs to be loaded. Load the item and try again.","The quote item needs to be loaded. Load the item and try again.",module,Magento_AdvancedCheckout
@@ -148,7 +148,7 @@ Customers,Kunden,module,Magento_AdvancedCheckout
 "Yes, for Specified Customer Groups","Ja, für angegebene Kundengruppen",module,Magento_AdvancedCheckout
 "Yes, for Everyone","Ja, für alle",module,Magento_AdvancedCheckout
 No,Nein,module,Magento_AdvancedCheckout
-"The file is corrupt and can't be used.","The file is corrupt and can't be used.",module,Magento_AdvancedCheckout
+"The file is corrupt and can't be used.","Die Datei ist beschädigt und kann nicht verwendet werden.",module,Magento_AdvancedCheckout
 "Please upload the file in .csv format.","Bitte laden Sie die Datei im CSV-Format hoch.",module,Magento_AdvancedCheckout
 "%1 item(s) need your attention.","%1 Artikel benötigen ihre Aufmerksamkeit.",module,Magento_AdvancedCheckout
 "Apply Coupon Code","Gutscheincode anwenden",module,Magento_AdvancedCheckout
@@ -2883,18 +2883,18 @@ State/Province,Bundesland,module,Magento_Checkout
 "We can't remove the item.","Der Artikel kann nicht entfernt werden.",module,Magento_Checkout
 "%1 was updated in your shopping cart.","%1 wurde in Ihrem Warenkorb aktualisiert.",module,Magento_Checkout
 "We can't update the item right now.","Wir können das Element jetzt nicht aktualisieren.",module,Magento_Checkout
-"Something went wrong while saving the page. Please refresh the page and try again.","Something went wrong while saving the page. Please refresh the page and try again.",module,Magento_Checkout
+"Something went wrong while saving the page. Please refresh the page and try again.","Beim Speichern der Seite ist etwas schief gelaufen. Bitte aktualisieren Sie die Seite und versuchen Sie es erneut.",module,Magento_Checkout
 "We can't update the shopping cart.","Warenkorb konnte nicht aktualisiert werden.",module,Magento_Checkout
 "One-page checkout is turned off.","One-Page Checkout ist deaktiviert.",module,Magento_Checkout
 "Guest checkout is disabled.","Gastbestellungen sind nicht erlaubt.",module,Magento_Checkout
 Checkout,Kasse,module,Magento_Checkout
 "Page not found.","Seite nicht gefunden.",module,Magento_Checkout
-"The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.","The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.",module,Magento_Checkout
+"The order wasn't placed. First, agree to the terms and conditions, then try placing your order again.","Die Bestellung wurde nicht aufgenommen. Bitte stimmen Sie zuerst den Allgemeinen Geschäftsbedingungen zu, bevor Sie die Bestellung erneut aufgeben.",module,Magento_Checkout
 "Something went wrong while processing your order. Please try again later.","Etwas ist bei der Abwicklung Ihrer Bestellung schief gegangen. Bitte versuchen Sie es später erneut.",module,Magento_Checkout
 "%1 doesn't extend \Magento\Checkout\CustomerData\ItemInterface","%1 erweitert nicht \Magento\Checkout\CustomerData\ItemInterface",module,Magento_Checkout
 "Payment Method","Payment Method",module,Magento_Checkout
 "Payment Page",Zahlungsseite,module,Magento_Checkout
-"The product wasn't found. Verify the product and try again.","The product wasn't found. Verify the product and try again.",module,Magento_Checkout
+"The product wasn't found. Verify the product and try again.","Das Produkt wurde nicht gefunden. Überprüfen Sie das Produkt und versuchen Sie es erneut.",module,Magento_Checkout
 "We found an invalid request for adding product to quote.","Es wurde eine ungültige Anforderung zum Hinzufügen eines Produkts zum Angebot gefunden.",module,Magento_Checkout
 "The product does not exist.","Der Artikel existiert nicht.",module,Magento_Checkout
 "We don't have some of the products you want.","Wir haben einige der Produkte, die Sie wollen nicht.",module,Magento_Checkout
@@ -2905,9 +2905,9 @@ Checkout,Kasse,module,Magento_Checkout
 "Display number of items in cart","Zeige Anzahl der Produkte im Warenkorb",module,Magento_Checkout
 "Display item quantities","Zeige Artikelanzahl",module,Magento_Checkout
 "An error occurred on the server. Please try to place the order again.","Ein Serverfehler ist aufgetreten. Bitte geben Sie die Bestellung erneut auf.",module,Magento_Checkout
-"A server error stopped your order from being placed. Please try to place your order again.","A server error stopped your order from being placed. Please try to place your order again.",module,Magento_Checkout
-"The shipping address is missing. Set the address and try again.","The shipping address is missing. Set the address and try again.",module,Magento_Checkout
-"The shipping information was unable to be saved. Verify the input data and try again.","The shipping information was unable to be saved. Verify the input data and try again.",module,Magento_Checkout
+"A server error stopped your order from being placed. Please try to place your order again.","Aufgrund eines Serverfehlers konnte Ihre Bestellung nicht aufgenommen werden. Bitte versuchen Sie es erneut.",module,Magento_Checkout
+"The shipping address is missing. Set the address and try again.","Die Lieferadresse ist nicht vorhanden. Geben Sie die Adresse ein und versuchen Sie es erneut.",module,Magento_Checkout
+"The shipping information was unable to be saved. Verify the input data and try again.","Die Versandinformation konnte nicht gespeichert werden. Bitte überprüfen Sie die eingegebenen Daten und versuchen Sie es erneut.",module,Magento_Checkout
 "Carrier with such method not found: %1, %2","Ein Versand mit der Methode %1,%2 konnte nicht gefunden werden",module,Magento_Checkout
 "The shipping method can't be set for an empty cart. Add an item to cart and try again.","The shipping method can't be set for an empty cart. Add an item to cart and try again.",module,Magento_Checkout
 item,Artikel,module,Magento_Checkout
@@ -2948,7 +2948,7 @@ Edit,Bearbeiten,module,Magento_Checkout
 "Estimate Tax","Geschätzte Steuer",module,Magento_Checkout
 "Estimate Shipping and Tax","Geschätzter Versand und Steuern",module,Magento_Checkout
 "Excl. Tax","Exkl. Steuern",module,Magento_Checkout
-"You added %1 to your <a href=""%2"">shopping cart</a>.","You added %1 to your <a href=""%2"">shopping cart</a>.",module,Magento_Checkout
+"You added %1 to your <a href=""%2"">shopping cart</a>.","Sie haben %1 zu Ihrem <a href=""%2"">Warenkorb</a> hinzugefügt.",module,Magento_Checkout
 Loading...,"Wird geladen …",module,Magento_Checkout
 "Order #","Bestellung #",module,Magento_Checkout
 "Proceed to Checkout","Zur Kasse",module,Magento_Checkout
@@ -2999,7 +2999,7 @@ edit,bearbeiten,module,Magento_Checkout
 "View Details","Details anzeigen",module,Magento_Checkout
 Field,Feld,module,Magento_Checkout
 "is required.","ist erforderlich.",module,Magento_Checkout
-"Something went wrong with your request. Please try again later.","Something went wrong with your request. Please try again later.",module,Magento_Checkout
+"Something went wrong with your request. Please try again later.","Mit Ihrer Anfrage ist etwas schief gelaufen. Bitte versuchen Sie es später erneut.",module,Magento_Checkout
 "Provided Zip/Postal Code seems to be invalid.","Die angegebene Postleitzahl ist ungültig.",module,Magento_Checkout
 Example:,Beispiel:,module,Magento_Checkout
 "If you believe it is the right one you can ignore this notice.","Wenn Sie glauben, dass dies richtig ist, können Sie den Hinweis ignorieren.",module,Magento_Checkout
@@ -3009,8 +3009,8 @@ Example:,Beispiel:,module,Magento_Checkout
 "Select a new payment method","Neue Zahlungsart auswählen",module,Magento_Checkout
 Shipping,Versand,module,Magento_Checkout
 "Save Address","Adresse speichern",module,Magento_Checkout
-"The shipping method is missing. Select the shipping method and try again.","The shipping method is missing. Select the shipping method and try again.",module,Magento_Checkout
-"Please specify a regionId in shipping address.","Please specify a regionId in shipping address.",module,Magento_Checkout
+"The shipping method is missing. Select the shipping method and try again.","Die Versandart ist nicht vorhanden. Bitte wählen Sie eine Versandart und versuchen Sie es erneut.",module,Magento_Checkout
+"Please specify a regionId in shipping address.","Bitte geben Sie eine regionId in der Lieferadresse an.",module,Magento_Checkout
 "Checkout Options",Checkout-Optionen,module,Magento_Checkout
 "Enable Onepage Checkout","Onepage Bezahlung aktivieren",module,Magento_Checkout
 "Allow Guest Checkout","Gastbestellung aktivieren",module,Magento_Checkout
@@ -3019,7 +3019,7 @@ Shipping,Versand,module,Magento_Checkout
 "Quote Lifetime (days)","Gültigkeit der Preise im Warenkorb (in Tagen)",module,Magento_Checkout
 "After Adding a Product Redirect to Shopping Cart","Nach Hinzufügen eines Artikels zum Warenkorb weiterleiten",module,Magento_Checkout
 "Number of Items to Display Pager","Anzahl der Elemente zum Anzeigen der Pager",module,Magento_Checkout
-"Show Cross-sell Items in the Shopping Cart","Show Cross-sell Items in the Shopping Cart",module,Magento_Checkout
+"Show Cross-sell Items in the Shopping Cart","Cross-Selling-Artikel im Warenkorb anzeigen",module,Magento_Checkout
 "My Cart Link","Link zu meinem Warenkorb",module,Magento_Checkout
 "Display Cart Summary","Warenkorbzusammenfassung anzeigen",module,Magento_Checkout
 "Shopping Cart Sidebar",Warenkorb-Sidebar,module,Magento_Checkout
@@ -4232,7 +4232,7 @@ Email,E-Mail,module,Magento_CustomAttributeManagement
 "Address Book",Adressbuch,module,Magento_Customer
 "Edit Address","Rechnungsadresse ändern",module,Magento_Customer
 "Add New Address","Neue Adresse hinzufügen",module,Magento_Customer
-"Customer not logged in","Customer not logged in",module,Magento_Customer
+"Customer not logged in","Kunde nicht eingeloggt",module,Magento_Customer
 region,Gebiet,module,Magento_Customer
 "Create Order","Neue Bestellung",module,Magento_Customer
 "Save Customer","Kunde speichern",module,Magento_Customer
@@ -4339,7 +4339,7 @@ Download,Herunterladen,module,Magento_Customer
 "This email does not require confirmation.","Für diese E-Mail ist keine Bestätigung notwendig.",module,Magento_Customer
 "Wrong email.","E-Mail-Adresse falsch.",module,Magento_Customer
 "Your password reset link has expired.","Ihr Link zum Zurücksetzen des Passworts ist abgelaufen.",module,Magento_Customer
-"Invalid Form Key. Please refresh the page.","Invalid Form Key. Please refresh the page.",module,Magento_Customer
+"Invalid Form Key. Please refresh the page.","Ungültiger Formularschlüssel. Bitte aktualisieren Sie die Seite.",module,Magento_Customer
 "You must confirm your account. Please check your email for the confirmation link or <a href=""%1"">click here</a> for a new link.","Sie müssen Ihr Konto bestätigen. Bitte überprüfen Sie Ihre E-Mail-Adresse für den Bestätigungslink oder <a href=""%1"">Klicken Sie hier</a> für einen neuen Link.",module,Magento_Customer
 "There is already an account with this email address. If you are sure that it is your email address, <a href=""%1"">click here</a> to get your password and access your account.","Es gibt bereits ein Konto mit dieser E-Mail-Adresse. Ist das Ihre E-Mail-Adresse? Dann <a href=""%1""> Klicken Sie hier </a>, um Ihr Passwort anzufordern und Zugriff auf Ihr Konto zu bekommen.",module,Magento_Customer
 "We can't save the customer.","Der Kunde kann nicht gespeichert werden.",module,Magento_Customer
@@ -4349,9 +4349,9 @@ Download,Herunterladen,module,Magento_Customer
 "Account Information",Kontoinformation,module,Magento_Customer
 "You saved the account information.","Konto-Informationen wurden gespeichert.",module,Magento_Customer
 "The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.",module,Magento_Customer
-"Password confirmation doesn't match entered password.","Password confirmation doesn't match entered password.",module,Magento_Customer
-"The password doesn't match this account. Verify the password and try again.","The password doesn't match this account. Verify the password and try again.",module,Magento_Customer
-"The email address is incorrect. Verify the email address and try again.","The email address is incorrect. Verify the email address and try again.",module,Magento_Customer
+"Password confirmation doesn't match entered password.","Passwortbestätigung stimmt nicht mit dem eingegebenen Passwort überein.",module,Magento_Customer
+"The password doesn't match this account. Verify the password and try again.","Das Passwort stimmt nicht mit diesem Konto überein. Überprüfen Sie das Passwort und versuchen Sie es erneut.",module,Magento_Customer
+"The email address is incorrect. Verify the email address and try again.","Die E-Mail-Adresse ist falsch. Überprüfen Sie die E-Mail-Adresse und versuchen Sie es erneut.",module,Magento_Customer
 "We're unable to send the password reset email.","Die E-Mail zum Zurücksetzen des Passworts konnte nicht gesendet werden.",module,Magento_Customer
 "Please enter your email.","Bitte geben Sie Ihre E-Mail Adresse ein.",module,Magento_Customer
 "If there is an account associated with %1 you will receive an email with a link to reset your password.","Wenn ein Kundenkonto mit %1 verknüpft ist, erhalten Sie per e-Mail einen Link zum Zurücksetzen Ihres Passworts.",module,Magento_Customer
@@ -4415,7 +4415,7 @@ Customers,Kunden,module,Magento_Customer
 "The ""%1"" section source isn't supported.","The ""%1"" section source isn't supported.",module,Magento_Customer
 "%1 doesn't extend \Magento\Customer\CustomerData\SectionSourceInterface","%1 erweitert nicht \Magento\Customer\CustomerData\SectionSourceInterface",module,Magento_Customer
 "Confirmation isn't needed.","Confirmation isn't needed.",module,Magento_Customer
-"The account is already active.","The account is already active.",module,Magento_Customer
+"The account is already active.","Das Konto ist bereits aktiv.",module,Magento_Customer
 "The confirmation token is invalid. Verify the token and try again.","The confirmation token is invalid. Verify the token and try again.",module,Magento_Customer
 "The account is locked.","Dieses Konto ist gesperrt.",module,Magento_Customer
 "This account isn't confirmed. Verify and try again.","This account isn't confirmed. Verify and try again.",module,Magento_Customer
@@ -8439,10 +8439,10 @@ Purchased,Gekauft,module,Magento_Paypal
 "Billing Agreement View","Billing Agreement View",module,Magento_Paypal
 "Are you sure you want to authorize full order amount?","Are you sure you want to authorize full order amount?",module,Magento_Paypal
 Authorize,Authorize,module,Magento_Paypal
-"View Transaction Details","View Transaction Details",module,Magento_Paypal
+"View Transaction Details","Transaktionsdetails anzeigen",module,Magento_Paypal
 "Reference Information","Reference Information",module,Magento_Paypal
-"Transaction Information","Transaction Information",module,Magento_Paypal
-"PayPal Fee Information","PayPal Fee Information",module,Magento_Paypal
+"Transaction Information",Transaktionsinformationen,module,Magento_Paypal
+"PayPal Fee Information","PayPal Gebühreninformation",module,Magento_Paypal
 "PayPal Settlement Reports","PayPal Abrechnungen",module,Magento_Paypal
 "We are connecting to the PayPal SFTP server to retrieve new reports. Are you sure you want to continue?","We are connecting to the PayPal SFTP server to retrieve new reports. Are you sure you want to continue?",module,Magento_Paypal
 "Fetch Updates","Aktualisierungen abrufen",module,Magento_Paypal
@@ -8542,9 +8542,9 @@ Never,Niemals,module,Magento_Paypal
 "The authorized amount is %1.","The authorized amount is %1.",module,Magento_Paypal
 "A payer is not identified.","A payer is not identified.",module,Magento_Paypal
 "Cannot get secure form URL from PayPal","Cannot get secure form URL from PayPal",module,Magento_Paypal
-"Last Transaction ID","Last Transaction ID",module,Magento_Paypal
+"Last Transaction ID","Letzte Transaktionsnummer",module,Magento_Paypal
 "This customer didn't include a confirmed address.","Dieser Kunde hat keine bestätigte Adresse.",module,Magento_Paypal
-"The payment is authorized but not settled.","The payment is authorized but not settled.",module,Magento_Paypal
+"The payment is authorized but not settled.","Die Zahlung ist authorisiert aber noch nicht abgeschlossen.",module,Magento_Paypal
 "The payment eCheck is not cleared.","The payment eCheck is not cleared.",module,Magento_Paypal
 "The merchant holds a non-U.S. account and doesn't have a withdrawal mechanism.","Der Händler hat kein US-Konto und keinen Rückzug-Mechanismus.",module,Magento_Paypal
 "The payment currency doesn't match any of the merchant's balances currency.","Die Zahlungswährung entspricht keine Salden Währung des Händlers.",module,Magento_Paypal
@@ -8586,13 +8586,13 @@ Never,Niemals,module,Magento_Paypal
 "Buyer's Tax ID","Steuernummer des Käufers",module,Magento_Paypal
 "Buyer's Tax ID Type","Umsatzsteuer-ID-Typ des Käufers",module,Magento_Paypal
 Chargeback,Chargeback,module,Magento_Paypal
-Complaint,Complaint,module,Magento_Paypal
+Complaint,Beschwerde,module,Magento_Paypal
 Dispute,Dispute,module,Magento_Paypal
 "Matched Address only (no ZIP)","Matched Address only (no ZIP)",module,Magento_Paypal
 "Matched Address only (no ZIP) International","Matched Address only (no ZIP) International",module,Magento_Paypal
 "No Details matched","No Details matched",module,Magento_Paypal
 "No Details matched. International","No Details matched. International",module,Magento_Paypal
-"Exact Match.","Exact Match.",module,Magento_Paypal
+"Exact Match.","Exakte Übereinstimmung.",module,Magento_Paypal
 "Exact Match. Address and Postal Code. International","Exact Match. Address and Postal Code. International",module,Magento_Paypal
 "Exact Match. Address and Postal Code. UK-specific","Exact Match. Address and Postal Code. UK-specific",module,Magento_Paypal
 "N/A. Not allowed for MOTO (Internet/Phone) transactions","N/A. Not allowed for MOTO (Internet/Phone) transactions",module,Magento_Paypal
@@ -8628,7 +8628,7 @@ expires,expires,module,Magento_Paypal
 "IPN ""%1"". Case type ""%2"". Case ID ""%3"" %4","IPN ""%1"". Case type ""%2"". Case ID ""%3"" %4",module,Magento_Paypal
 "IPN ""%1"". A dispute has been resolved and closed. %2 Transaction amount %3.","IPN ""%1"". A dispute has been resolved and closed. %2 Transaction amount %3.",module,Magento_Paypal
 "You notified customer about invoice #%1.","You notified customer about invoice #%1.",module,Magento_Paypal
-"We cannot cancel this order.","We cannot cancel this order.",module,Magento_Paypal
+"We cannot cancel this order.","Wir können diese Bestellung nicht stornieren.",module,Magento_Paypal
 "IPN ""%1"". %2 Transaction amount %3. Transaction ID: ""%4""","IPN ""%1"". %2 Transaction amount %3. Transaction ID: ""%4""",module,Magento_Paypal
 "You notified customer about creditmemo #%1.","You notified customer about creditmemo #%1.",module,Magento_Paypal
 "IPN ""%1""","IPN ""%1""",module,Magento_Paypal
@@ -8811,7 +8811,7 @@ Edit,Bearbeiten,module,Magento_Paypal
 "Buy now with PayPal","Jetzt mit PayPal kaufen",module,Magento_Paypal
 "Edit Payment Information","Edit Payment Information",module,Magento_Paypal
 "Items in Your Shopping Cart","Items in Your Shopping Cart",module,Magento_Paypal
-"Edit Shopping Cart","Edit Shopping Cart",module,Magento_Paypal
+"Edit Shopping Cart","Warenkorb bearbeiten",module,Magento_Paypal
 "Place Order","Jetzt kaufen",module,Magento_Paypal
 "Submitting order information...","Bestellung wird übermittelt …",module,Magento_Paypal
 Item,Artikel,module,Magento_Paypal
