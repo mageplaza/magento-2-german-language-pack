@@ -2158,7 +2158,7 @@ Availability,Verfügbarkeit,module,Magento_Catalog
 "We don't recognize or support this file extension type.","We don't recognize or support this file extension type.",module,Magento_Catalog
 "Configure Product","Konfiguriere Produkt",module,Magento_Catalog
 OK,OK,module,Magento_Catalog
-"This value does not follow the specified format (for example, 200X300).","This value does not follow the specified format (for example, 200X300).",module,Magento_Catalog
+"This value does not follow the specified format (for example, 200X300).","Dieser Wert entspricht nicht der vorgegebenen Formatierung (zum Beispiel 200x300).",module,Magento_Catalog
 "Select type of option.","Wählen Sie den Typ der Option.",module,Magento_Catalog
 "Please add rows to option.","Bitte fügen Sie Zeilen zur Option hinzu.",module,Magento_Catalog
 "An item needs to be selected. Select and try again.","An item needs to be selected. Select and try again.",module,Magento_Catalog
@@ -3724,7 +3724,7 @@ Reverted,Reverted,module,Magento_CompanyCredit
 Edit,Edit,module,Magento_CompanyCredit
 "%1 made an update. %2 can exceed the Credit Limit.","%1 made an update. %2 can exceed the Credit Limit.",module,Magento_CompanyCredit
 "%1 made an update. %2 cannot exceed the Credit Limit.","%1 made an update. %2 cannot exceed the Credit Limit.",module,Magento_CompanyCredit
-"Order # %1","Order # %1",module,Magento_CompanyCredit
+"Order # %1","Bestellung #%1",module,Magento_CompanyCredit
 "%1 changed the credit currency from %2 to %3 at the conversion rate of %2/%3 %4.","%1 changed the credit currency from %2 to %3 at the conversion rate of %2/%3 %4.",module,Magento_CompanyCredit
 "Outstanding Balance:","Outstanding Balance:",module,Magento_CompanyCredit
 "Available Credit:","Available Credit:",module,Magento_CompanyCredit
@@ -6837,9 +6837,9 @@ Updated,Aktualisiert,module,Magento_Indexer
 "Your order number is: %1.","Ihre Bestellnummer lautet: %1.",module,Magento_InstantPurchase
 "Something went wrong while processing your order. Please try again later.","Bei der Verarbeitung Ihrer Bestellung ist ein Fehler aufgetreten. Bitte versuchen Sie es später erneut.",module,Magento_InstantPurchase
 "A payment method isn't defined for instance purchase. Verify and try again.","Für den Sofortkauf ist keine Zahlungsart festgelegt. Überprüfen Sie die Zahlungsart und versuchen Sie es erneut.",module,Magento_InstantPurchase
-"Shipping address is not defined for instance purchase.","Shipping address is not defined for instance purchase.",module,Magento_InstantPurchase
-"Billing address is not defined for instance purchase.","Billing address is not defined for instance purchase.",module,Magento_InstantPurchase
-"Shipping method is not defined for instance purchase.","Shipping method is not defined for instance purchase.",module,Magento_InstantPurchase
+"Shipping address is not defined for instance purchase.","Versandadresse ist nicht für den Sofortkauf definiert.",module,Magento_InstantPurchase
+"Billing address is not defined for instance purchase.","Rechnungsadresse ist nicht für den Sofortkauf definiert.",module,Magento_InstantPurchase
+"Shipping method is not defined for instance purchase.","Versandart ist nicht für den Sofortkauf definiert.",module,Magento_InstantPurchase
 "Specified payment method is not available now.","Angegebene Zahlungsart ist nicht verfügbar.",module,Magento_InstantPurchase
 "Specified shipping method is not available.","Angegebene Versandart ist nicht verfügbar.",module,Magento_InstantPurchase
 "Appropriate shipping method is not available.","Appropriate shipping method is not available.",module,Magento_InstantPurchase
@@ -6847,14 +6847,14 @@ Updated,Aktualisiert,module,Magento_Indexer
 "Instant purchase integration not available for token.","Sofortkauf-Integration ist für Token nicht verfügbar.",module,Magento_InstantPurchase
 "Instant Purchase",Sofortkauf,module,Magento_InstantPurchase
 "Instant Purchase Confirmation","Sofortkauf Bestätigung",module,Magento_InstantPurchase
-"Are you sure you want to place order and pay?","Are you sure you want to place order and pay?",module,Magento_InstantPurchase
+"Are you sure you want to place order and pay?","Sind Sie sicher, dass Sie bestellen und bezahlen möchten?",module,Magento_InstantPurchase
 "Shipping Address",Lieferadresse,module,Magento_InstantPurchase
 "Billing Address",Rechnungsadresse,module,Magento_InstantPurchase
 "Payment Method",Zahlungsart,module,Magento_InstantPurchase
 "Shipping Method",Versandart,module,Magento_InstantPurchase
 Enabled,Aktiviert,module,Magento_InstantPurchase
 "Payment method with vault and instant purchase support should be enabled.","Payment method with vault and instant purchase support should be enabled.",module,Magento_InstantPurchase
-"Button Text","Button Text",module,Magento_InstantPurchase
+"Button Text",Schaltflächentext,module,Magento_InstantPurchase
 Integrations,Integrationen,module,Magento_Integration
 "Add New Integration","Neue Integration hinzufügen",module,Magento_Integration
 API,API,module,Magento_Integration
@@ -8021,13 +8021,13 @@ Proceed,Proceed,module,Magento_NegotiableQuote
 "Cannot Upload File","Cannot Upload File",module,Magento_NegotiableQuote
 "Quote request rules","Quote request rules",module,Magento_NegotiableQuote
 "Coupon codes and gift cards are not allowed on quotes. Choose whether you'd like to keep the coupon code/gift card without requesting a quote, or request a quote without the coupon code/gift card.","Coupon codes and gift cards are not allowed on quotes. Choose whether you'd like to keep the coupon code/gift card without requesting a quote, or request a quote without the coupon code/gift card.",module,Magento_NegotiableQuote
-"Go to Checkout","Go to Checkout",module,Magento_NegotiableQuote
+"Go to Checkout","Zur Kasse gehen",module,Magento_NegotiableQuote
 Save,Save,module,Magento_NegotiableQuote
 "The shopping cart isn't empty","The shopping cart isn't empty",module,Magento_NegotiableQuote
 "You have items in your shopping cart. Would you like to merge items in this order with items of this shopping cart or replace them?","You have items in your shopping cart. Would you like to merge items in this order with items of this shopping cart or replace them?",module,Magento_NegotiableQuote
 "Select Cancel to stay on the current page.","Select Cancel to stay on the current page.",module,Magento_NegotiableQuote
 "Are you sure you want to delete this quote?","Are you sure you want to delete this quote?",module,Magento_NegotiableQuote
-"Go to Checkout?","Go to Checkout?",module,Magento_NegotiableQuote
+"Go to Checkout?","Zur Kasse gehen?",module,Magento_NegotiableQuote
 "Enable B2B Quote","Enable B2B Quote",module,Magento_NegotiableQuote
 General,General,module,Magento_NegotiableQuote
 "Minimum Amount","Minimum Amount",module,Magento_NegotiableQuote
@@ -8351,7 +8351,7 @@ Import,Importieren,module,Magento_OfflineShipping
 "Specify grace period in seconds for config file generation. If field is empty default value 300 will be saved. This grace period will be used to serve cached content when the server is healthy. If the server is not healthy, cached content will be served for 3 days before failing.","Specify grace period in seconds for config file generation. If field is empty default value 300 will be saved. This grace period will be used to serve cached content when the server is healthy. If the server is not healthy, cached content will be served for 3 days before failing.",module,Magento_PageCache
 "Export Configuration","Konfigurationen exportieren",module,Magento_PageCache
 "TTL for public content","TTL für öffentliche Inhalte",module,Magento_PageCache
-"Public content cache lifetime in seconds. If field is empty default value 86400 will be saved.","Public content cache lifetime in seconds. If field is empty default value 86400 will be saved.",module,Magento_PageCache
+"Public content cache lifetime in seconds. If field is empty default value 86400 will be saved.","Cache-Lebensdauer für öffentlichen Inhalt in Sekunden. Wenn das Feld leer ist, wird der Standardwert 86400 gespeichert.",module,Magento_PageCache
 "Page Cache",Seiten-Cache,module,Magento_PageCache
 "Full page caching",Seiten-Caching,module,Magento_PageCache
 "We cannot retrieve the payment method model object.","Die Zahlungsbewertungsaktion ist nicht verfügbar.",module,Magento_Payment
@@ -8628,7 +8628,7 @@ expires,expires,module,Magento_Paypal
 "Note: %1","Hinweis: %1",module,Magento_Paypal
 "IPN ""%1"". Case type ""%2"". Case ID ""%3"" %4","IPN ""%1"". Case type ""%2"". Case ID ""%3"" %4",module,Magento_Paypal
 "IPN ""%1"". A dispute has been resolved and closed. %2 Transaction amount %3.","IPN ""%1"". A dispute has been resolved and closed. %2 Transaction amount %3.",module,Magento_Paypal
-"You notified customer about invoice #%1.","You notified customer about invoice #%1.",module,Magento_Paypal
+"You notified customer about invoice #%1.","Sie haben den Kunden über Rechnung #%1 informiert.",module,Magento_Paypal
 "We cannot cancel this order.","Wir können diese Bestellung nicht stornieren.",module,Magento_Paypal
 "IPN ""%1"". %2 Transaction amount %3. Transaction ID: ""%4""","IPN ""%1"". %2 Transaction amount %3. Transaction ID: ""%4""",module,Magento_Paypal
 "You notified customer about creditmemo #%1.","You notified customer about creditmemo #%1.",module,Magento_Paypal
@@ -8769,8 +8769,8 @@ Customer,Kunde,module,Magento_Paypal
 "Created At","Erstellt am",module,Magento_Paypal
 "Updated At","Aktualisiert am",module,Magento_Paypal
 "Not sure what PayPal payment method to use? Click","Not sure what PayPal payment method to use? Click",module,Magento_Paypal
-here,here,module,Magento_Paypal
-"to learn more.","to learn more.",module,Magento_Paypal
+here,hier,module,Magento_Paypal
+"to learn more.","um mehr zu erfahren.",module,Magento_Paypal
 Important:,Wichtig:,module,Magento_Paypal
 "To use PayPal Payments Advanced, you must configure your PayPal Payments Advanced account on the PayPal website.","To use PayPal Payments Advanced, you must configure your PayPal Payments Advanced account on the PayPal website.",module,Magento_Paypal
 "Once you log into your PayPal Advanced account, navigate to the Service Settings - Hosted Checkout Pages - Set Up menu and set the options described below","Once you log into your PayPal Advanced account, navigate to the Service Settings - Hosted Checkout Pages - Set Up menu and set the options described below",module,Magento_Paypal
@@ -8778,9 +8778,9 @@ Important:,Wichtig:,module,Magento_Paypal
 "Once you log into your PayPal Payflow Link account, navigate to the Service Settings - Hosted Checkout Pages - Set Up menu and set the options described below","Once you log into your PayPal Payflow Link account, navigate to the Service Settings - Hosted Checkout Pages - Set Up menu and set the options described below",module,Magento_Paypal
 "Credit Card Type","Credit Card Type",module,Magento_Paypal
 "Credit Card Number","Credit Card Number",module,Magento_Paypal
-"Expiration Date","Expiration Date",module,Magento_Paypal
-"Card Verification Number","Card Verification Number",module,Magento_Paypal
-"Save for later use.","Save for later use.",module,Magento_Paypal
+"Expiration Date",Ablaufdatum,module,Magento_Paypal
+"Card Verification Number",Kartenprüfnummer,module,Magento_Paypal
+"Save for later use.","Für die spätere Verwendung speichern.",module,Magento_Paypal
 "Billing Agreement #","Billing Agreement #",module,Magento_Paypal
 "Agreement Information","Agreement Information",module,Magento_Paypal
 "Reference ID:","Reference ID:",module,Magento_Paypal
@@ -8811,7 +8811,7 @@ Create...,Erstellen...,module,Magento_Paypal
 Edit,Bearbeiten,module,Magento_Paypal
 "Buy now with PayPal","Jetzt mit PayPal kaufen",module,Magento_Paypal
 "Edit Payment Information","Edit Payment Information",module,Magento_Paypal
-"Items in Your Shopping Cart","Items in Your Shopping Cart",module,Magento_Paypal
+"Items in Your Shopping Cart","Artikel in Ihrem Warenkorb",module,Magento_Paypal
 "Edit Shopping Cart","Warenkorb bearbeiten",module,Magento_Paypal
 "Place Order","Jetzt kaufen",module,Magento_Paypal
 "Submitting order information...","Bestellung wird übermittelt …",module,Magento_Paypal
@@ -8821,7 +8821,7 @@ Qty,Menge,module,Magento_Paypal
 Subtotal,Zwischensumme,module,Magento_Paypal
 "Please update order data to get shipping methods and rates","Please update order data to get shipping methods and rates",module,Magento_Paypal
 or,oder,module,Magento_Paypal
-"Checkout with PayPal","Checkout with PayPal",module,Magento_Paypal
+"Checkout with PayPal","Mit PayPal bezahlen",module,Magento_Paypal
 "Please do not refresh the page until you complete payment.","Please do not refresh the page until you complete payment.",module,Magento_Paypal
 "You will be required to enter your payment details after you place an order.","You will be required to enter your payment details after you place an order.",module,Magento_Paypal
 Continue,Fortsetzen,module,Magento_Paypal
@@ -8838,8 +8838,8 @@ Continue,Fortsetzen,module,Magento_Paypal
 "PayPal Section","PayPal Section",module,Magento_Paypal
 "PayPal Settlement","PayPal Settlement",module,Magento_Paypal
 Fetch,Fetch,module,Magento_Paypal
-Actions,Actions,module,Magento_Paypal
-Manage,Manage,module,Magento_Paypal
+Actions,Aktionen,module,Magento_Paypal
+Manage,Verwalten,module,Magento_Paypal
 "Place Order Using Billing Agreements","Place Order Using Billing Agreements",module,Magento_Paypal
 Orders,Bestellungen,module,Magento_Paypal
 "Payment Amount Authorization","Payment Amount Authorization",module,Magento_Paypal
@@ -8872,14 +8872,14 @@ Orders,Bestellungen,module,Magento_Paypal
 "<a href=""http://www.magentocommerce.com/paypal"">Start accepting payments via PayPal!</a>","<a href=""http://www.magentocommerce.com/paypal"">Beginnen Sie Zahlungen per PayPal zu akzeptieren!</a>",module,Magento_Paypal
 "Don't have a PayPal account? Simply enter your email address.","Don't have a PayPal account? Simply enter your email address.",module,Magento_Paypal
 "API Authentication Methods","API Authentication Methods",module,Magento_Paypal
-"API Username","API Username",module,Magento_Paypal
+"API Username",API-Benutzername,module,Magento_Paypal
 "API Password","API Passwort",module,Magento_Paypal
 "Get Credentials from PayPal","Get Credentials from PayPal",module,Magento_Paypal
 "Sandbox Mode","Sandbox Modus",module,Magento_Paypal
 "API Uses Proxy","API verwendet Proxy",module,Magento_Paypal
 "Proxy Host",Proxy-Host,module,Magento_Paypal
 "Proxy Port",Proxy-Port,module,Magento_Paypal
-"Enable this Solution","Enable this Solution",module,Magento_Paypal
+"Enable this Solution","Lösung aktivieren",module,Magento_Paypal
 "Enable In-Context Checkout Experience","Enable In-Context Checkout Experience",module,Magento_Paypal
 "See PayPal Feature Support details and list of supported regions
                     <a href=""https://developer.paypal.com/docs/classic/express-checkout/in-context/"" target=""_blank"">here</a>.","See PayPal Feature Support details and list of supported regions
@@ -8911,9 +8911,9 @@ Orders,Bestellungen,module,Magento_Paypal
 Display,Display,module,Magento_Paypal
 Position,Reihenfolge,module,Magento_Paypal
 Size,Größe,module,Magento_Paypal
-"Catalog Category Page","Catalog Category Page",module,Magento_Paypal
-"Catalog Product Page","Catalog Product Page",module,Magento_Paypal
-"Checkout Cart Page","Checkout Cart Page",module,Magento_Paypal
+"Catalog Category Page",Kategorieseite,module,Magento_Paypal
+"Catalog Product Page",Produktseite,module,Magento_Paypal
+"Checkout Cart Page",Warenkorb-Seite,module,Magento_Paypal
 "Basic Settings - PayPal Express Checkout","Basic Settings - PayPal Express Checkout",module,Magento_Paypal
 Title,Titel,module,Magento_Paypal
 "It is recommended to set this value to ""PayPal"" per store views.","It is recommended to set this value to ""PayPal"" per store views.",module,Magento_Paypal
@@ -8931,10 +8931,10 @@ Title,Titel,module,Magento_Paypal
 "Also affects mini-shopping cart.","Also affects mini-shopping cart.",module,Magento_Paypal
 "Payment Applicable From","Payment Applicable From",module,Magento_Paypal
 "Countries Payment Applicable From","Countries Payment Applicable From",module,Magento_Paypal
-"Debug Mode","Debug Mode",module,Magento_Paypal
-"Enable SSL verification","Enable SSL verification",module,Magento_Paypal
-"Transfer Cart Line Items","Transfer Cart Line Items",module,Magento_Paypal
-"Transfer Shipping Options","Transfer Shipping Options",module,Magento_Paypal
+"Debug Mode",Debug-Modus,module,Magento_Paypal
+"Enable SSL verification","SSL-Prüfung aktivieren",module,Magento_Paypal
+"Transfer Cart Line Items","Artikel des Warenkorbs übertragen",module,Magento_Paypal
+"Transfer Shipping Options","Versandoptionen übertragen",module,Magento_Paypal
 "If this option is enabled, customer can change shipping address and shipping method on PayPal website. In live mode works via HTTPS protocol only.","If this option is enabled, customer can change shipping address and shipping method on PayPal website. In live mode works via HTTPS protocol only.",module,Magento_Paypal
 "Notice that PayPal can handle up to 10 shipping options. That is why Magento will transfer only first 10 cheapest shipping options if there are more than 10 available.","Notice that PayPal can handle up to 10 shipping options. That is why Magento will transfer only first 10 cheapest shipping options if there are more than 10 available.",module,Magento_Paypal
 "Shortcut Buttons Flavor","Shortcut Buttons Flavor",module,Magento_Paypal
@@ -8944,11 +8944,11 @@ Title,Titel,module,Magento_Paypal
 "This feature needs be enabled first for the merchant account through PayPal technical support.","This feature needs be enabled first for the merchant account through PayPal technical support.",module,Magento_Paypal
 "Billing Agreement Signup","Billing Agreement Signup",module,Magento_Paypal
 "Whether to create a billing agreement, if there are no active billing agreements available.","Whether to create a billing agreement, if there are no active billing agreements available.",module,Magento_Paypal
-"Merchants need to apply to PayPal for enabling billing agreements feature. Do not enable this option until PayPal confirms that billing agreements are enabled for your merchant account.","Merchants need to apply to PayPal for enabling billing agreements feature. Do not enable this option until PayPal confirms that billing agreements are enabled for your merchant account.",module,Magento_Paypal
+"Merchants need to apply to PayPal for enabling billing agreements feature. Do not enable this option until PayPal confirms that billing agreements are enabled for your merchant account.","Händler müssen sich für die Verwendung der ""Zahlungsvereinbarung"" bei PayPal anmelden. Bitte aktivieren Sie diese Option erst, wenn PayPal die Zahlungsvereinbarungen für Ihr Händlerkonto freigeschaltet hat.",module,Magento_Paypal
 "Skip Order Review Step","Skip Order Review Step",module,Magento_Paypal
 "PayPal Billing Agreement Settings","PayPal Billing Agreement Settings",module,Magento_Paypal
 Enabled,Aktiviert,module,Magento_Paypal
-"Will appear as a payment option only for customers who have at least one active billing agreement.","Will appear as a payment option only for customers who have at least one active billing agreement.",module,Magento_Paypal
+"Will appear as a payment option only for customers who have at least one active billing agreement.","Wird nur dann als Zahlungsoption angezeigt, wenn der Kunde mindestens eine aktive Zahlungsvereinbarung besitzt.",module,Magento_Paypal
 "Allow in Billing Agreement Wizard","Allow in Billing Agreement Wizard",module,Magento_Paypal
 "Settlement Report Settings","Settlement Report Settings",module,Magento_Paypal
 "SFTP Credentials","SFTP Zugangsdaten",module,Magento_Paypal
@@ -8970,13 +8970,13 @@ Schedule,Zeitplan,module,Magento_Paypal
 "Page Style","Page Style",module,Magento_Paypal
 "Allowable values: ""paypal"", ""primary"" (default), your_custom_value (a custom payment page style from your merchant account profile).","Allowable values: ""paypal"", ""primary"" (default), your_custom_value (a custom payment page style from your merchant account profile).",module,Magento_Paypal
 "Header Image URL","Header Image URL",module,Magento_Paypal
-"The image at the top left of the checkout page. Max size is 750x90-pixel. <strong style=""color:red"">https</strong> is highly encouraged.","The image at the top left of the checkout page. Max size is 750x90-pixel. <strong style=""color:red"">https</strong> is highly encouraged.",module,Magento_Paypal
+"The image at the top left of the checkout page. Max size is 750x90-pixel. <strong style=""color:red"">https</strong> is highly encouraged.","Das Bild oben links auf der Bezahlseite. Max. 750px × 90px. <strong style=""color:red"">https</strong> wird dringend empfohlen.",module,Magento_Paypal
 "Header Background Color","Header Background Color",module,Magento_Paypal
-"The background color for the header of the checkout page. Case-insensitive six-character HTML hexadecimal color code in ASCII.","The background color for the header of the checkout page. Case-insensitive six-character HTML hexadecimal color code in ASCII.",module,Magento_Paypal
+"The background color for the header of the checkout page. Case-insensitive six-character HTML hexadecimal color code in ASCII.","Die Hintergrundfarbe des Kopfbereichs der Bezahlseite. 6-stelliger Hex-Farbcode in ASCII Zeichen.",module,Magento_Paypal
 "Header Border Color","Header Border Color",module,Magento_Paypal
 "2-pixel perimeter around the header space.","2-pixel perimeter around the header space.",module,Magento_Paypal
 "Page Background Color","Page Background Color",module,Magento_Paypal
-"The background color for the checkout page around the header and payment form.","The background color for the checkout page around the header and payment form.",module,Magento_Paypal
+"The background color for the checkout page around the header and payment form.","Die Hintergrundfarbe für die Checkout Seite rund um den Kopfbreich und das Zahlungsformular.",module,Magento_Paypal
 "Payments Advanced","Payments Advanced",module,Magento_Paypal
 "Accept payments with a PCI-compliant checkout that keeps customers on your site. (<u>Includes Express Checkout</u>)","Accept payments with a PCI-compliant checkout that keeps customers on your site. (<u>Includes Express Checkout</u>)",module,Magento_Paypal
 "Payments Advanced and Express Checkout","Payments Advanced and Express Checkout",module,Magento_Paypal
@@ -9666,7 +9666,7 @@ Action,Aktion,module,Magento_Reports
 "Average (Approved)","Average (Approved)",module,Magento_Reports
 "Last Review","Last Review",module,Magento_Reports
 "Order Created","Order Created",module,Magento_Reports
-"Order Updated","Order Updated",module,Magento_Reports
+"Order Updated","Bestellung aktualisiert",module,Magento_Reports
 "The Order Updated report is created in real time and does not require a refresh.","The Order Updated report is created in real time and does not require a refresh.",module,Magento_Reports
 "Last Invoice Created Date","Last Invoice Created Date",module,Magento_Reports
 "Last Credit Memo Created Date","Last Credit Memo Created Date",module,Magento_Reports
@@ -10635,7 +10635,7 @@ Reorder,Nachbestellen,module,Magento_Sales
 "Shipment #%1 created","Lieferschein Nr. %1 erstellt",module,Magento_Sales
 "Shipment #%1 comment added","Shipment #%1 comment added",module,Magento_Sales
 "Invoice #%1 created","Rechnung #%1 erstellt",module,Magento_Sales
-"Invoice #%1 comment added","Invoice #%1 comment added",module,Magento_Sales
+"Invoice #%1 comment added","Kommentar für Rechnung #%1 hinzugefügt",module,Magento_Sales
 "Tracking number %1 for %2 assigned","Tracking number %1 for %2 assigned",module,Magento_Sales
 "Comments History",Kommentarverlauf,module,Magento_Sales
 "Order History",Auftragsverlauf,module,Magento_Sales
@@ -11128,7 +11128,7 @@ Actions,Aktionen,module,Magento_Sales
 "No shipping information available","No shipping information available",module,Magento_Sales
 "Print Order","Bestellung drucken",module,Magento_Sales
 "Print All Invoices","Print All Invoices",module,Magento_Sales
-"Invoice #","Invoice #",module,Magento_Sales
+"Invoice #","Rechnung #",module,Magento_Sales
 "Print Invoice","Rechnung drucken",module,Magento_Sales
 "Qty Invoiced","Menge in Rechnung gestellt",module,Magento_Sales
 Close,Schließen,module,Magento_Sales
@@ -11148,7 +11148,7 @@ Search,Suche,module,Magento_Sales
 "%name,","%name,",module,Magento_Sales
 "Thank you for your order from %store_name.","Vielen Dank für Ihre Bestellung bei %store_name.",module,Magento_Sales
 "You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","Sie können den Status Ihrer Bestellung überprüfen, indem Sie sich bei <a href=""%account_url"">Ihrem Konto anmelden</a>.",module,Magento_Sales
-"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>","If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>",module,Magento_Sales
+"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>","Wenn Sie fragen bezüglich Ihrer Bestellung haben, können Sie uns über die E-Mail-Adresse <a href=""mailto:%store_email"">%store_email</a> kontaktieren",module,Magento_Sales
 "or call us at <a href=""tel:%store_phone"">%store_phone</a>","oder rufen Sie uns unter <a href=""tel:%store_phone"">%store_phone</a> an",module,Magento_Sales
 "Our hours are <span class=""no-link"">%store_hours</span>.","Our hours are <span class=""no-link"">%store_hours</span>.",module,Magento_Sales
 "Your Credit Memo #%creditmemo_id for Order #%order_id","Your Credit Memo #%creditmemo_id for Order #%order_id",module,Magento_Sales
@@ -11164,7 +11164,7 @@ Search,Suche,module,Magento_Sales
 "Once your package ships we will send you a tracking number.","Once your package ships we will send you a tracking number.",module,Magento_Sales
 "Your Order <span class=""no-link"">#%increment_id</span>","Your Order <span class=""no-link"">#%increment_id</span>",module,Magento_Sales
 "Placed on <span class=""no-link"">%created_at</span>","Placed on <span class=""no-link"">%created_at</span>",module,Magento_Sales
-"Once your package ships we will send an email with a link to track your order.","Once your package ships we will send an email with a link to track your order.",module,Magento_Sales
+"Once your package ships we will send an email with a link to track your order.","Sobald Ihr Paket verschickt wurde, senden wir Ihnen den Link zur Sendungsverfolgung per E-Mail.",module,Magento_Sales
 "Update to your %store_name order","Update to your %store_name order",module,Magento_Sales
 "Your %store_name order has shipped","Your %store_name order has shipped",module,Magento_Sales
 "Your shipping confirmation is below. Thank you again for your business.","Your shipping confirmation is below. Thank you again for your business.",module,Magento_Sales
@@ -11499,7 +11499,7 @@ is,ist,module,Magento_SalesRule
 "Percent of product price discount","Prozentualer Rabatt je Artikel",module,Magento_SalesRule
 "Fixed amount discount","Fester Rabattbetrag",module,Magento_SalesRule
 "Fixed amount discount for whole cart","Fester Rabattbetrag für den gesamten Warenkorb",module,Magento_SalesRule
-"Buy X get Y free (discount amount is Y)","X kaufen, Y kostenlos bekommen (Rabattmenge ist Y)",module,Magento_SalesRule
+"Buy X get Y free (discount amount is Y)","X kaufen, Y kostenlos bekommen (Rabattbetrag ist Y)",module,Magento_SalesRule
 Active,Aktiv,module,Magento_SalesRule
 Inactive,Inaktiv,module,Magento_SalesRule
 "Specified rule does not allow automatic coupon generation","Specified rule does not allow automatic coupon generation",module,Magento_SalesRule
@@ -11537,7 +11537,7 @@ To,Bis,module,Magento_SalesRule
 Apply,Anwenden,module,Magento_SalesRule
 "Discount Amount",Rabattbetrag,module,Magento_SalesRule
 "Maximum Qty Discount is Applied To","Maximale Anzahl, auf die der Rabatt angewendet wird",module,Magento_SalesRule
-"Discount Qty Step (Buy X)","Discount Qty Step (Buy X)",module,Magento_SalesRule
+"Discount Qty Step (Buy X)","Rabatt-Mengenschritt (X kaufen)",module,Magento_SalesRule
 "Discount amount is applied to subtotal only","Rabattbetrag wird nur auf die Zwischensumme angewendet",module,Magento_SalesRule
 "Discount amount is applied to subtotal and shipping amount separately","Rabattbetrag wird auf Zwischensumme und Versandkosten Betrag separat angewendet",module,Magento_SalesRule
 "Apply to Shipping Amount","Auf Versandbetrag anwenden",module,Magento_SalesRule
@@ -11571,7 +11571,7 @@ Actions,Actions,module,Magento_SalesRuleStaging
 Apply,Anwenden,module,Magento_SalesRuleStaging
 "Discount Amount",Rabattbetrag,module,Magento_SalesRuleStaging
 "Maximum Qty Discount is Applied To","Maximale Anzahl, auf die der Rabatt angewendet wird",module,Magento_SalesRuleStaging
-"Discount Qty Step (Buy X)","Discount Qty Step (Buy X)",module,Magento_SalesRuleStaging
+"Discount Qty Step (Buy X)","Rabatt-Mengenschritt (X kaufen)",module,Magento_SalesRuleStaging
 "Apply to Shipping Amount","Auf Versandbetrag anwenden",module,Magento_SalesRuleStaging
 "Discard subsequent rules","Nachfolgende Regeln verwerfen",module,Magento_SalesRuleStaging
 Labels,Bezeichnungen,module,Magento_SalesRuleStaging
@@ -14571,7 +14571,7 @@ Footer,Fußzeile,theme,frontend/Magento/luma
 "Credit memo for your %store_name order","Gutschrift für Ihre %store_name Bestellung",theme,frontend/Magento/luma
 "Thank you for your order from %store_name.","Vielen Dank für Ihre Bestellung bei %store_name.",theme,frontend/Magento/luma
 "You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","Sie können den Status Ihrer Bestellung überprüfen, indem Sie sich bei <a href=""%account_url"">Ihrem Konto anmelden</a>.",theme,frontend/Magento/luma
-"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Wenn Sie fragen bezüglich der Bestellung haben können sie sich über folgende Email Adresse kontaktieren <a href=""mailto:%store_email"">%store_email</a>.",theme,frontend/Magento/luma
+"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Wenn Sie fragen bezüglich Ihrer Bestellung haben, können Sie uns über die E-Mail-Adresse <a href=""mailto:%store_email"">%store_email</a> kontaktieren.",theme,frontend/Magento/luma
 "Your Credit Memo #%creditmemo_id for Order #%order_id","Ihre Gutschrift #%creditmemo_id für die Bestellung #%order_id",theme,frontend/Magento/luma
 "Billing Info",Zahlungsinformationen,theme,frontend/Magento/luma
 "Shipping Info",Versandinformationen,theme,frontend/Magento/luma
