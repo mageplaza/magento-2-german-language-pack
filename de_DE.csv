@@ -130,7 +130,7 @@ Bestimme die ID und versuche es erneut.",module,Magento_AdvancedCheckout
 "Availability: Out of stock.","Verfügbarkeit: Nicht auf Lager.",module,Magento_AdvancedCheckout
 "We don't have as many of these as you want.","Es gibt nicht mehr so viele Artikel wie sie wollen.",module,Magento_AdvancedCheckout
 "You can't add this many to your cart.","Sie dürfen nicht so viele Artikel zu ihrem Warenkorb hinzufügen.",module,Magento_AdvancedCheckout
-"You need to choose options for your item.","Sie müssen eine Optionen für Ihren Artikel wählen.",module,Magento_AdvancedCheckout
+"You need to choose options for your item.","Sie müssen Optionen für Ihren Artikel wählen.",module,Magento_AdvancedCheckout
 "We can't add the item to your cart.","Wir können den Artikel nicht dem Warenkorb hinzufügen.",module,Magento_AdvancedCheckout
 "Please enter an actual number in the ""Qty"" field.","Bitte geben Sie eine echte Zahl in das ""Anzahl"" Feld ein.",module,Magento_AdvancedCheckout
 "This product is assigned to another website.","Dieses Produkt ist einer anderen Website zugewiesen.",module,Magento_AdvancedCheckout
@@ -1425,7 +1425,7 @@ Cancel,Abbrechen,module,Magento_Bundle
 "Add Selected Products","Füge ausgewählte Artikel hinzu",module,Magento_Bundle
 "Add Option","Option hinzufügen",module,Magento_Bundle
 "New Option","Neue Option",module,Magento_Bundle
-"Option Title",Preisart,module,Magento_Bundle
+"Option Title","Titel Option",module,Magento_Bundle
 "Default Title",Standardtitel,module,Magento_Bundle
 "Store View Title","Titel des Store View",module,Magento_Bundle
 "Input Type",Eingabeart,module,Magento_Bundle
@@ -1887,7 +1887,7 @@ Disabled,Deaktiviert,module,Magento_Catalog
 "We can't add the product to the cart because of an option validation issue.","Wir können den Artikel aufgrund eines Validierungsproblems einer Option nicht zum Warenkorb hinzufügen.",module,Magento_Catalog
 "%1 doesn't extends \Magento\Catalog\Model\Product\Option\Type\DefaultType","%1 erweitert nicht \Magento\Catalog\Model\Product\Option\Type\DefaultType",module,Magento_Catalog
 "The file options format is invalid. Use a correct format and try again.","The file options format is invalid. Use a correct format and try again.",module,Magento_Catalog
-px.,aufklappen,module,Magento_Catalog
+px.,px.,module,Magento_Catalog
 "Full file path is expected.","Voller Dateipfad wird erwartet.",module,Magento_Catalog
 "The file '%1' for '%2' has an invalid extension.","Die Datei '%1' für '%2' hat eine ungültige Erweiterung.",module,Magento_Catalog
 "The maximum allowed image size for '%1' is %2x%3 px.","Die maximal erlaubte Bildgröße für '%1' ist %2x%3 px.",module,Magento_Catalog
@@ -1994,11 +1994,11 @@ Done,Fertig,module,Magento_Catalog
 "Select Attribute","Attribute auswählen",module,Magento_Catalog
 "Create New Attribute","Neues Attribut erstellen",module,Magento_Catalog
 "Customizable Options","Konfigurierbare Optionen",module,Magento_Catalog
-"Custom options let customers choose the product variations they want.","Custom options let customers choose the product variations they want.",module,Magento_Catalog
+"Custom options let customers choose the product variations they want.","Konfigurierbare Optionen lassen Kunden die Produktvariationen auswählen, die sie wünschen.",module,Magento_Catalog
 "Add Option","Option Hinzufügen",module,Magento_Catalog
 "New Option","Neue Option",module,Magento_Catalog
 "Select Product","Artikel auswählen",module,Magento_Catalog
-"Option Title",Preisart,module,Magento_Catalog
+"Option Title","Titel Option",module,Magento_Catalog
 "Add Value","Wert hinzufügen",module,Magento_Catalog
 Title,Titel,module,Magento_Catalog
 "Option Type",Optionstyp,module,Magento_Catalog
@@ -3183,7 +3183,7 @@ Delete,Löschen,module,Magento_Cms
 "Are you sure you want to delete a %1 record?","Sind Sie sicher, dass Sie den Datensatz %1 löschen möchten?",module,Magento_Cms
 "All Store Views","Alle Store Views",module,Magento_Cms
 View,Anzeigen,module,Magento_Cms
-px.,aufklappen,module,Magento_Cms
+px.,px.,module,Magento_Cms
 "No files found","Keine Dateien gefunden",module,Magento_Cms
 "Upload Images","Bilder hochladen",module,Magento_Cms
 "Collapse All","Alle zuklappen",module,Magento_Cms
@@ -3976,7 +3976,7 @@ Summary,Zusammenfassung,module,Magento_ConfigurableProduct
 "Product with id ""%1"" does not contain required attribute ""%2"".","Produkt mit Id ""%1"" enthält kein das erforderliche Attribut ""%2"" nicht.",module,Magento_ConfigurableProduct
 "Products ""%1"" and ""%2"" have the same set of attribute values.","Produkte ""%1"" und %2 haben den gleichen Satz von Attributwerten.",module,Magento_ConfigurableProduct
 "You can't add the item to shopping cart.","Sie können dieses Produkt nicht dem Warenkorb hinzufügen.",module,Magento_ConfigurableProduct
-"You need to choose options for your item.","Sie müssen eine Optionen für Ihren Artikel wählen.",module,Magento_ConfigurableProduct
+"You need to choose options for your item.","Sie müssen Optionen für Ihren Artikel wählen.",module,Magento_ConfigurableProduct
 "Some product variations fields are not valid.","Einige Felder der Produktvariationen sind ungültig.",module,Magento_ConfigurableProduct
 "Contribution must have attributes specified. Enter attributes and try again.","Contribution must have attributes specified. Enter attributes and try again.",module,Magento_ConfigurableProduct
 "Type %1 is not an instance of %2","Typ %1 ist nicht vom Typ %2",module,Magento_ConfigurableProduct
