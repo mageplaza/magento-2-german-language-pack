@@ -121,7 +121,7 @@ Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/
 
 See this screenshot
 
-![German pack](https://cdn2.mageplaza.com/media/general2/tS668yC.png)
+![German pack](https://cdn3.mageplaza.com/media/general/language-pack.png)
 
 #### Step 2: Flush cache
 
