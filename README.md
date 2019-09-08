@@ -4,7 +4,7 @@
 
 Read more [Magento 2 German Language Pack](https://www.mageplaza.com/magento-2-german-language-pack.html)
 
-![Mageplaza German language pack](https://i.imgur.com/qjWPj1W.png)
+![Mageplaza German language pack](https://cdn3.mageplaza.com/media/general/qjWPj1W.png)
 
 ## Overview
 
