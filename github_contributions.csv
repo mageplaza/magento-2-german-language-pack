@@ -3,3 +3,4 @@
 "Sale Products","Produkte im Sale",module,Magento_Catalog
 "Latest Products","Neuste Produkte",module,Magento_Catalog
 "Random Products","Zufällige Produkte",module,Magento_Catalog
+"As low as","Ab",module,Magento_ConfigurableProduct
