@@ -15316,3 +15316,9 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Please enter a date from the past.","Bitte geben Sie ein Datum aus der Vergangenheit an.",lib,web
 "custom.definition","custom.definition",lib,web
 "component.behaviours","component.behaviours",lib,web
+"If you have an account, sign in with your email address.","Wenn Sie ein Konto haben, melden Sie sich mit Ihrer e-Mail-Adresse an.",module,Magento_Customer
+"Featured Products","Vorgestellte Produkte",module,Magento_Catalog
+"Sale Products","Produkte im Sale",module,Magento_Catalog
+"Latest Products","Neuste Produkte",module,Magento_Catalog
+"Random Products","Zufällige Produkte",module,Magento_Catalog
+"As low as","Ab",module,Magento_ConfigurableProduct
