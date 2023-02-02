@@ -4658,7 +4658,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Minimum of different classes of characters in password is %1. Classes of characters: Lower Case, Upper Case, Digits, Special Characters.","Minimum der verschiedenen Zeichenklassen im Passwort ist %1. Zeichenklassen: Kleinbuchstaben, Großbuchstaben, Ziffern, Sonderzeichen.",module,Magento_Customer
 "The password can't be the same as the email address. Create a new password and try again.","The password can't be the same as the email address. Create a new password and try again.",module,Magento_Customer
 "This customer already exists in this store.","Dieser Kunde ist bereits in diesem Store vorhanden.",module,Magento_Customer
-"A customer with the same email address already exists in an associated website.","A customer with the same email address already exists in an associated website.",module,Magento_Customer
+"A customer with the same email address already exists in an associated website.","Ein Kunde mit der gleichen E-Mail-Adresse existiert bereits in einer zugeordneten Website.",module,Magento_CustomerGraphQl
 "The store view is not in the associated website.","Dieser Store-View gehört nicht zu dieser Website.",module,Magento_Customer
 "Invalid value of ""%value"" provided for the %fieldName field.","Ungültiger Wert ""%Wert"" für Feld %FeldName.",module,Magento_Customer
 """%fieldName"" is required. Enter and try again.","""%fieldName"" is required. Enter and try again.",module,Magento_Customer
