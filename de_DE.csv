@@ -691,7 +691,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "You saved the store.","Sie haben den Store gespeichert.",module,Magento_Backend
 "Something went wrong while saving. Please review the error log.","Beim Speichern ist etwas schief gegangen. Bitte überprüfen Sie das Fehlerprotokoll.",module,Magento_Backend
 "Authentication storage is incorrect.","Authentifizierung-Speicher ist nicht korrekt.",module,Magento_Backend
-"The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.",module,Magento_Backend
+"The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","Die Kontoanmeldung war falsch oder Ihr Konto wurde vorübergehend deaktiviert. Bitte warten Sie und versuchen Sie es später erneut.",module,Magento_Backend
 "An authentication error occurred. Verify and try again.","An authentication error occurred. Verify and try again.",module,Magento_Backend
 "The Admin session lifetime is invalid. Set the lifetime to 31536000 seconds (one year) or shorter and try again.","The Admin session lifetime is invalid. Set the lifetime to 31536000 seconds (one year) or shorter and try again.",module,Magento_Backend
 "The Admin session lifetime is invalid. Set the lifetime to 60 seconds or longer and try again.","The Admin session lifetime is invalid. Set the lifetime to 60 seconds or longer and try again.",module,Magento_Backend
@@ -7234,7 +7234,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "Integration '%1' has been sent for activation.","Integration '%1' wurde für die Aktivierung versendet.",module,Magento_Integration
 "A consumer with ""%1"" ID doesn't exist. Verify the ID and try again.","A consumer with ""%1"" ID doesn't exist. Verify the ID and try again.",module,Magento_Integration
 "title","Titel",module,Magento_Integration
-"The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.",module,Magento_Integration
+"The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","Die Kontoanmeldung war falsch oder Ihr Konto wurde vorübergehend deaktiviert. Bitte warten Sie und versuchen Sie es später erneut.",module,Magento_Integration
 "The tokens couldn't be revoked.","The tokens couldn't be revoked.",module,Magento_Integration
 "An error occurred during the attempt to grant permissions. For details, see the exceptions log.","An error occurred during the attempt to grant permissions. For details, see the exceptions log.",module,Magento_Integration
 "Something went wrong while deleting roles and permissions. You can find out more in the exceptions log.","Entschuldigung, beim Löschen der Rollen und Berechtigungen ist ein Fehler aufgetreten. Sie können im Ausnahme-Protokoll mehr erfahren.",module,Magento_Integration
@@ -9593,20 +9593,20 @@ or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" 
 " product(s) require(s) your attention."," Produkt(e) erfordern Ihre Aufmerksamkeit.",module,Magento_QuickOrder
 "Enable Quick Order","Schnellbestellung freischalten",module,Magento_QuickOrder
 "Download Sample","Beispiel herunterladen",module,Magento_QuickOrder
-"The address failed to save. Verify the address and try again.","The address failed to save. Verify the address and try again.",module,Magento_Quote
-"The product quantity should be greater than 0","The product quantity should be greater than 0",module,Magento_Quote
-"Could not find a product with SKU ""%sku""","Could not find a product with SKU ""%sku""",module,Magento_Quote
-"Wrong format of the entered option data","Wrong format of the entered option data",module,Magento_Quote
-"Required fields are not present: sku, quantity","Required fields are not present: sku, quantity",module,Magento_Quote
+"The address failed to save. Verify the address and try again.","Die Adresse konnte nicht gespeichert werden. Überprüfen Sie die Adresse und versuchen Sie es erneut.",module,Magento_Quote
+"The product quantity should be greater than 0","Die Produktmenge sollte größer als 0 sein",module,Magento_Quote
+"Could not find a product with SKU ""%sku""","Es konnte kein Produkt mit der SKU ""%sku"" gefunden werden",module,Magento_Quote
+"Wrong format of the entered option data","Falsches Format der eingegebenen Optionsdaten",module,Magento_Quote
+"Required fields are not present: sku, quantity","Erforderliche Felder sind nicht vorhanden: sku, menge",module,Magento_Quote
 "Required fields are not present EnteredOption.uid, EnteredOption.value","Required fields are not present EnteredOption.uid, EnteredOption.value",module,Magento_Quote
-"The ""%1"" Cart doesn't contain products.","The ""%1"" Cart doesn't contain products.",module,Magento_Quote
-"Cart isn't assigned to correct store","Cart isn't assigned to correct store",module,Magento_Quote
-"'The coupon code couldn't be applied: ' .","'The coupon code couldn't be applied: ' .",module,Magento_Quote
-"The coupon code couldn't be applied. Verify the coupon code and try again.","The coupon code couldn't be applied. Verify the coupon code and try again.",module,Magento_Quote
-"The coupon code isn't valid. Verify the code and try again.","The coupon code isn't valid. Verify the code and try again.",module,Magento_Quote
-"The coupon code couldn't be deleted. Verify the coupon code and try again.","The coupon code couldn't be deleted. Verify the coupon code and try again.",module,Magento_Quote
-"You don't have the correct permissions to assign the customer to the cart.","You don't have the correct permissions to assign the customer to the cart.",module,Magento_Quote
-"The shipping address is missing. Set the address and try again.","The shipping address is missing. Set the address and try again.",module,Magento_Quote
+"The ""%1"" Cart doesn't contain products.","Der Einkaufswagen ""%1"" enthält keine Produkte.",module,Magento_Quote
+"Cart isn't assigned to correct store","Warenkorb ist nicht dem richtigen Geschäft zugeordnet",module,Magento_Quote
+"'The coupon code couldn't be applied: ' .","'Der Gutscheincode konnte nicht angewendet werden: ' .",module,Magento_Quote
+"The coupon code couldn't be applied. Verify the coupon code and try again.","Der Gutscheincode konnte nicht angewendet werden. Überprüfen Sie den Gutscheincode und versuchen Sie es erneut.",module,Magento_Quote
+"The coupon code isn't valid. Verify the code and try again.","Der Gutscheincode ist ungültig. Überprüfen Sie den Code und versuchen Sie es erneut.",module,Magento_Quote
+"The coupon code couldn't be deleted. Verify the coupon code and try again.","Der Gutscheincode konnte nicht gelöscht werden. Überprüfen Sie den Gutscheincode und versuchen Sie es erneut.",module,Magento_Quote
+"You don't have the correct permissions to assign the customer to the cart.","Sie haben nicht die erforderlichen Berechtigungen, um den Kunden dem Einkaufswagen zuzuweisen.",module,Magento_Quote
+"The shipping address is missing. Set the address and try again.","Die Lieferadresse fehlt. Stellen Sie die Adresse ein und versuchen Sie es erneut.",module,Magento_Quote
 "The requested Payment Method is not available.","Die angeforderte Zahlungsart ist nicht verfügbar.",module,Magento_Quote
 "We found an invalid request for adding product to quote.","Es wurde eine ungültige Anforderung zum Hinzufügen eines Produkts zum Angebot gefunden.",module,Magento_Quote
 "Product that you are trying to add is not available.","Der Artikel, den Sie hinzufügen möchten, ist nicht verfügbar.",module,Magento_Quote
@@ -11981,7 +11981,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Rule processing: %1","Rule processing: %1",module,Magento_SalesRule
 "Item totals are not set for the rule.","Artikelsummen sind nicht für die Regel festgelegt.",module,Magento_SalesRule
 "%1 Cart Price Rules based on ""%2"" attribute have been disabled.","%1 Warenkorb-Preisregel(n) basierend auf dem Attribut ""%2"" wurden deaktiviert.",module,Magento_SalesRule
-"The coupon code isn't valid. Verify the code and try again.","The coupon code isn't valid. Verify the code and try again.",module,Magento_SalesRule
+"The coupon code isn't valid. Verify the code and try again.","Der Gutscheincode ist ungültig. Überprüfen Sie den Code und versuchen Sie es erneut.",module,Magento_SalesRule
 "%1 coupon(s) have been generated.","%1 Gutscheine wurden generiert.",module,Magento_SalesRule
 "Apply Discount Code","Gutscheincode anwenden",module,Magento_SalesRule
 "Enter discount code","Gutscheincode eingeben",module,Magento_SalesRule
@@ -12322,7 +12322,7 @@ Usage limit enforced for logged in customers only.,module,Magento_SalesRule
 "Incorrect Security Checker class. It has to implement SecurityCheckerInterface","Falsche Security Checker Klasse. Sie muss SecurityCheckerInterface implementieren",module,Magento_Security
 """%1"" must be later than the current date.","""%1"" must be later than the current date.",module,Magento_Security
 """%1"" is not a valid date.","""%1"" is not a valid date.",module,Magento_Security
-"The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.",module,Magento_Security
+"The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","Die Kontoanmeldung war falsch oder Ihr Konto wurde vorübergehend deaktiviert. Bitte warten Sie und versuchen Sie es später erneut.",module,Magento_Security
 "some error","ein Fehler",module,Magento_Security
 "This administrator account is open in more than one location. Note that other locations might be different browsers or sessions on the same computer.","Dieses Administratoren-Konto ist an mehreren Standorten offen. Beachten Sie, dass andere Browser oder Sitzungen auf demselben Computer als andere Standorte gelten.",module,Magento_Security
 "Concurrent session information:","Information über gleichzeitige Sessions:",module,Magento_Security
@@ -14316,7 +14316,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "email","E-Mail",module,Magento_User
 "password","Passwort",module,Magento_User
 "username","Benutzername",module,Magento_User
-"The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.",module,Magento_User
+"The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later.","Die Kontoanmeldung war falsch oder Ihr Konto wurde vorübergehend deaktiviert. Bitte warten Sie und versuchen Sie es später erneut.",module,Magento_User
 "More permissions are needed to access this.","More permissions are needed to access this.",module,Magento_User
 "The password reset token is incorrect. Verify the token and try again.","The password reset token is incorrect. Verify the token and try again.",module,Magento_User
 "Your account is temporarily disabled. Please try again later.","Your account is temporarily disabled. Please try again later.",module,Magento_User
@@ -15322,3 +15322,6 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Latest Products","Neuste Produkte",module,Magento_Catalog
 "Random Products","Zufällige Produkte",module,Magento_Catalog
 "As low as","Ab",module,Magento_ConfigurableProduct
+"The email address has an invalid format.","Die E-Mail-Adresse hat ein ungültiges Format.",module,Magento_CustomerGraphQl
+"Could not update the product with SKU %sku: %message","Produkt mit SKU %sku konnte nicht aktualisiert werden: %message",module,Magento_QuoteGraphQl
+"The requested qty is not available","Die angeforderte Menge ist nicht verfügbar"
