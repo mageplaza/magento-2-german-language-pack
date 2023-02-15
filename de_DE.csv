@@ -15325,3 +15325,6 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "The email address has an invalid format.","Die E-Mail-Adresse hat ein ungültiges Format.",module,Magento_CustomerGraphQl
 "Could not update the product with SKU %sku: %message","Produkt mit SKU %sku konnte nicht aktualisiert werden: %message",module,Magento_QuoteGraphQl
 "The requested qty is not available","Die angeforderte Menge ist nicht verfügbar"
+"Cannot reset the customer's password","Das Passwort des Kunden kann nicht zurückgesetzt werden",module,Magento_CustomerGraphQl
+"The password token is expired. Reset and try again.","Das Kennwort-Token ist abgelaufen. Zurücksetzen und erneut versuchen.",module,Magento_CustomerGraphQl
+"Unable to place order: %message","Bestellung nicht möglich: %message"
