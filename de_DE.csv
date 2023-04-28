@@ -2594,7 +2594,7 @@ Time in seconds between the widget updates.,module,Magento_Catalog
 "The fewest you may purchase is %1.","Das Minimum, welches Sie kaufen können ist %1.",module,Magento_CatalogInventory
 "Please correct the quantity for some products.","Bitte korrigieren Sie die Menge bei einigen Produkten.",module,Magento_CatalogInventory
 "The most you may purchase is %1.","Das Maximum, welches Sie kaufen können ist %1.",module,Magento_CatalogInventory
-"The requested qty is not available","The requested qty is not available",module,Magento_CatalogInventory
+"The requested qty is not available","Die angeforderte Menge ist nicht verfügbar.",module,Magento_CatalogInventory
 "We don't have as many ""%1"" as you requested, but we'll back order the remaining %2.","Wir haben nicht so viele ""%1"" wie angefragt, aber wir werden die übrigen %2 bestellen.",module,Magento_CatalogInventory
 "We don't have ""%1"" in the requested quantity, so we'll back order the remaining %2.","Wir haben ""%1"" nicht in der angeforderten Menge, sodass wir die übrigen %2 bestellen werden.",module,Magento_CatalogInventory
 "You can buy %1 only in quantities of %2 at a time.","Sie können %1 nur in einer Menge von %2 zu diesem Zeitpunkt kaufen.",module,Magento_CatalogInventory
@@ -9607,7 +9607,7 @@ or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" 
 "Cart isn't assigned to correct store","Cart isn't assigned to correct store",module,Magento_Quote
 "'The coupon code couldn't be applied: ' .","'The coupon code couldn't be applied: ' .",module,Magento_Quote
 "The coupon code couldn't be applied. Verify the coupon code and try again.","The coupon code couldn't be applied. Verify the coupon code and try again.",module,Magento_Quote
-"The coupon code isn't valid. Verify the code and try again.","The coupon code isn't valid. Verify the code and try again.",module,Magento_Quote
+"The coupon code isn't valid. Verify the code and try again.","Der Gutscheincode ist ungültig. Überprüfen Sie den Code und versuchen Sie es erneut.",module,Magento_Quote
 "The coupon code couldn't be deleted. Verify the coupon code and try again.","The coupon code couldn't be deleted. Verify the coupon code and try again.",module,Magento_Quote
 "You don't have the correct permissions to assign the customer to the cart.","You don't have the correct permissions to assign the customer to the cart.",module,Magento_Quote
 "The shipping address is missing. Set the address and try again.","The shipping address is missing. Set the address and try again.",module,Magento_Quote
@@ -10134,7 +10134,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Product %1 has been added to the requisition list %2.","Produkt %1 wurde zur Anforderungsliste %2 hinzugefügt.",module,Magento_RequisitionList
 "Options were updated. Please review available configurations.","Optionen wurden aktualisiert. Bitte überprüfen Sie die verfügbaren Konfigurationen.",module,Magento_RequisitionList
 "The SKU is out of stock.","Die Artikelnummer ist nicht auf Lager.",module,Magento_RequisitionList
-"The requested qty is not available","The requested qty is not available",module,Magento_RequisitionList
+"The requested qty is not available","Die angeforderte Menge ist nicht verfügbar.",module,Magento_RequisitionList
 "Could not save Requisition List. Maximum number of requisition lists was exceeded.","Konnte die Anfrageliste nicht speichern. Maximale Anzahl der Abfragelisten wurde überschritten.",module,Magento_RequisitionList
 "Could not save requisition list. Invalid data provided","Could not save requisition list. Invalid data provided",module,Magento_RequisitionList
 "Exception","Ausnahme",module,Magento_RequisitionList
@@ -11985,7 +11985,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Rule processing: %1","Rule processing: %1",module,Magento_SalesRule
 "Item totals are not set for the rule.","Artikelsummen sind nicht für die Regel festgelegt.",module,Magento_SalesRule
 "%1 Cart Price Rules based on ""%2"" attribute have been disabled.","%1 Warenkorb-Preisregel(n) basierend auf dem Attribut ""%2"" wurden deaktiviert.",module,Magento_SalesRule
-"The coupon code isn't valid. Verify the code and try again.","The coupon code isn't valid. Verify the code and try again.",module,Magento_SalesRule
+"The coupon code isn't valid. Verify the code and try again.","Der Gutscheincode ist ungültig. Überprüfen Sie den Code und versuchen Sie es erneut.",module,Magento_SalesRule
 "%1 coupon(s) have been generated.","%1 Gutscheine wurden generiert.",module,Magento_SalesRule
 "Apply Discount Code","Gutscheincode anwenden",module,Magento_SalesRule
 "Enter discount code","Gutscheincode eingeben",module,Magento_SalesRule
